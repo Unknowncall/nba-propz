@@ -16,6 +16,11 @@ def action_scrape(sport=None, propnames=None):
         soup = BeautifulSoup(r.content, 'html.parser')
         ## get json
         parsed = soup.find_all('script')
+
+				# check if -1 
+        if len(parsed) == 0:
+          return None
+
         jstext = parsed[-1].string
         ## load entire json into pandas, drop unnecessary columns
         data = json.loads(jstext)
