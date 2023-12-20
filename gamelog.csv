@@ -1364,7 +1364,7 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Tue, Oct 31",vs. NYK,29,11,20,0,3,4,4,3,3,2,3,0,2,26,32,Donovan Mitchell,CLE
 "Fri, Oct 27",vs. OKC,42,15,27,4,11,9,11,8,5,5,3,2,1,43,56,Donovan Mitchell,CLE
 "Wed, Oct 25",@ BKN,36,11,21,4,10,1,1,5,6,0,4,1,1,27,38,Donovan Mitchell,CLE
-"Mon, Dec 18",vs. HOU,18,1,1,0,0,2,8,4,1,0,0,0,2,4,9,Tristan Thompson,CLE
+"Mon, Dec 18",vs. HOU,18,1,2,0,0,2,8,5,1,0,0,0,2,4,10,Tristan Thompson,CLE
 "Sat, Dec 16",vs. ATL,13,3,3,0,0,0,0,5,0,0,0,0,3,6,11,Tristan Thompson,CLE
 "Thu, Dec 14",@ BOS,3,1,1,0,0,0,0,2,0,1,0,0,1,2,4,Tristan Thompson,CLE
 "Tue, Dec 12",@ BOS,12,1,1,0,0,0,0,4,1,0,0,0,0,2,7,Tristan Thompson,CLE
@@ -1801,6 +1801,126 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Mon, Oct 30",@ MEM,29,8,14,3,7,2,2,5,0,1,0,0,1,21,26,Tim Hardaway Jr.,DAL
 "Fri, Oct 27",vs. BKN,30,6,17,3,7,4,4,4,1,1,0,0,2,19,24,Tim Hardaway Jr.,DAL
 "Wed, Oct 25",@ SAS,28,5,14,3,10,4,4,6,4,1,1,0,0,17,27,Tim Hardaway Jr.,DAL
+"Mon, Dec 18",vs. DAL,5,0,2,0,0,0,0,1,0,0,0,1,1,0,1,Justin Holiday,DEN
+"Sat, Dec 16",vs. OKC,25,2,4,2,3,0,0,1,2,1,0,0,0,6,9,Justin Holiday,DEN
+"Thu, Dec 14",vs. BKN,27,1,6,0,5,0,0,1,2,1,4,0,2,2,5,Justin Holiday,DEN
+"Tue, Dec 12",@ CHI,23,3,4,2,3,0,0,1,2,0,0,0,3,8,11,Justin Holiday,DEN
+"Fri, Dec 8",vs. HOU,6,1,1,0,0,0,0,0,0,0,1,0,1,2,2,Justin Holiday,DEN
+"Sat, Dec 2",@ SAC,12,0,1,0,0,0,0,3,0,0,0,0,2,0,3,Justin Holiday,DEN
+"Fri, Dec 1",@ PHO,25,6,8,3,5,0,0,2,5,0,1,0,2,15,22,Justin Holiday,DEN
+"Wed, Nov 29",vs. HOU,27,4,7,3,5,0,0,3,4,0,2,0,2,11,18,Justin Holiday,DEN
+"Mon, Nov 27",@ LAC,34,5,8,2,4,0,0,6,1,3,1,0,2,12,19,Justin Holiday,DEN
+"Sun, Nov 26",vs. SAS,27,2,5,1,4,0,0,2,3,0,1,0,2,5,10,Justin Holiday,DEN
+"Fri, Nov 24",@ HOU,13,1,2,1,2,0,0,0,0,0,1,0,2,3,3,Justin Holiday,DEN
+"Sun, Nov 19",@ CLE,17,2,3,2,3,0,0,1,1,0,0,0,2,6,8,Justin Holiday,DEN
+"Tue, Nov 14",vs. LAC,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Justin Holiday,DEN
+"Wed, Nov 8",vs. GSW,8,1,2,1,2,0,0,3,0,0,0,0,1,3,6,Justin Holiday,DEN
+"Wed, Nov 1",@ MIN,6,1,2,1,2,0,0,1,0,0,0,0,0,3,4,Justin Holiday,DEN
+"Sun, Oct 29",@ OKC,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Justin Holiday,DEN
+"Mon, Dec 18",vs. DAL,26,4,6,1,2,0,0,3,2,0,0,0,0,9,14,Kentavious Caldwell-Pope,DEN
+"Tue, Dec 12",@ CHI,13,2,4,0,0,0,0,1,0,0,0,0,2,4,5,Kentavious Caldwell-Pope,DEN
+"Mon, Dec 11",@ ATL,30,1,6,0,2,6,8,3,2,2,0,1,2,8,13,Kentavious Caldwell-Pope,DEN
+"Fri, Dec 8",vs. HOU,25,5,6,2,3,2,2,0,0,0,0,1,1,14,14,Kentavious Caldwell-Pope,DEN
+"Wed, Dec 6",@ LAC,34,1,4,1,3,0,0,1,3,0,1,0,1,3,7,Kentavious Caldwell-Pope,DEN
+"Sat, Dec 2",@ SAC,38,4,12,0,3,1,2,5,3,4,4,0,1,9,17,Kentavious Caldwell-Pope,DEN
+"Fri, Dec 1",@ PHO,35,6,10,3,6,0,0,1,5,0,3,0,2,15,21,Kentavious Caldwell-Pope,DEN
+"Wed, Nov 29",vs. HOU,32,4,6,2,3,0,0,1,2,0,0,0,0,10,13,Kentavious Caldwell-Pope,DEN
+"Mon, Nov 27",@ LAC,38,3,14,0,1,6,6,3,2,0,1,0,2,12,17,Kentavious Caldwell-Pope,DEN
+"Sun, Nov 26",vs. SAS,31,5,7,2,4,4,4,1,6,3,1,0,3,16,23,Kentavious Caldwell-Pope,DEN
+"Fri, Nov 24",@ HOU,39,7,15,1,5,5,5,5,3,2,3,0,4,20,28,Kentavious Caldwell-Pope,DEN
+"Wed, Nov 22",@ ORL,34,3,8,2,5,2,2,1,2,2,0,0,2,10,13,Kentavious Caldwell-Pope,DEN
+"Mon, Nov 20",@ DET,36,8,17,2,5,2,2,3,3,3,2,1,2,20,26,Kentavious Caldwell-Pope,DEN
+"Sun, Nov 19",@ CLE,31,2,9,1,5,4,4,2,2,1,1,1,1,9,13,Kentavious Caldwell-Pope,DEN
+"Fri, Nov 17",@ NOR,35,3,7,2,4,0,0,1,8,0,1,2,0,8,17,Kentavious Caldwell-Pope,DEN
+"Tue, Nov 14",vs. LAC,39,2,3,2,3,3,5,1,4,1,1,0,3,9,14,Kentavious Caldwell-Pope,DEN
+"Sun, Nov 12",@ HOU,38,2,5,1,2,0,0,0,1,1,1,0,3,5,6,Kentavious Caldwell-Pope,DEN
+"Wed, Nov 8",vs. GSW,35,3,8,0,3,4,4,3,3,0,1,0,3,10,16,Kentavious Caldwell-Pope,DEN
+"Mon, Nov 6",vs. NOR,33,5,10,3,7,2,2,1,7,2,1,0,4,15,23,Kentavious Caldwell-Pope,DEN
+"Sat, Nov 4",vs. CHI,30,4,8,2,4,0,0,0,2,1,1,0,1,10,12,Kentavious Caldwell-Pope,DEN
+"Fri, Nov 3",vs. DAL,37,3,7,2,3,0,0,5,1,1,2,0,0,8,14,Kentavious Caldwell-Pope,DEN
+"Wed, Nov 1",@ MIN,26,2,4,1,1,1,1,0,0,1,1,1,2,6,6,Kentavious Caldwell-Pope,DEN
+"Mon, Oct 30",vs. UTH,33,3,5,2,4,0,0,3,0,2,1,2,4,8,11,Kentavious Caldwell-Pope,DEN
+"Sun, Oct 29",@ OKC,30,2,5,1,4,2,2,3,1,1,2,0,2,7,11,Kentavious Caldwell-Pope,DEN
+"Fri, Oct 27",@ MEM,35,3,10,2,6,0,0,2,1,0,5,1,1,8,11,Kentavious Caldwell-Pope,DEN
+"Tue, Oct 24",vs. LAL,36,8,12,2,3,2,2,2,1,3,3,1,5,20,23,Kentavious Caldwell-Pope,DEN
+"Mon, Dec 18",vs. DAL,19,9,12,1,3,1,1,1,4,0,0,0,2,20,25,Reggie Jackson,DEN
+"Sat, Dec 16",vs. OKC,22,3,10,1,4,0,0,3,3,1,0,0,4,7,13,Reggie Jackson,DEN
+"Thu, Dec 14",vs. BKN,23,4,13,2,4,2,2,0,4,1,2,0,3,12,16,Reggie Jackson,DEN
+"Tue, Dec 12",@ CHI,32,9,16,5,8,2,2,2,6,2,0,0,4,25,33,Reggie Jackson,DEN
+"Mon, Dec 11",@ ATL,19,5,10,1,5,1,1,1,6,1,0,0,0,12,19,Reggie Jackson,DEN
+"Fri, Dec 8",vs. HOU,25,2,8,0,4,2,2,3,6,0,0,0,2,6,15,Reggie Jackson,DEN
+"Wed, Dec 6",@ LAC,19,4,10,3,4,3,4,1,3,2,1,0,1,14,18,Reggie Jackson,DEN
+"Sat, Dec 2",@ SAC,33,9,18,2,6,0,0,1,8,2,1,0,3,20,29,Reggie Jackson,DEN
+"Fri, Dec 1",@ PHO,29,8,11,3,4,1,2,2,4,1,0,0,3,20,26,Reggie Jackson,DEN
+"Wed, Nov 29",vs. HOU,24,6,14,2,7,0,0,2,2,0,0,1,3,14,18,Reggie Jackson,DEN
+"Mon, Nov 27",@ LAC,40,15,19,3,4,2,4,5,13,2,2,0,3,35,53,Reggie Jackson,DEN
+"Sun, Nov 26",vs. SAS,28,7,10,3,3,3,3,7,6,4,1,0,5,20,33,Reggie Jackson,DEN
+"Fri, Nov 24",@ HOU,25,1,7,0,2,0,0,4,3,6,0,1,0,2,9,Reggie Jackson,DEN
+"Wed, Nov 22",@ ORL,34,5,15,3,7,1,1,4,9,1,0,0,1,14,27,Reggie Jackson,DEN
+"Mon, Nov 20",@ DET,32,9,15,1,3,2,3,3,6,0,1,1,2,21,30,Reggie Jackson,DEN
+"Sun, Nov 19",@ CLE,21,3,5,1,1,0,0,0,1,2,2,0,2,7,8,Reggie Jackson,DEN
+"Fri, Nov 17",@ NOR,33,6,12,2,7,0,0,2,3,4,0,0,2,14,19,Reggie Jackson,DEN
+"Tue, Nov 14",vs. LAC,30,7,11,0,1,4,6,3,4,2,0,1,3,18,25,Reggie Jackson,DEN
+"Sun, Nov 12",@ HOU,28,6,12,2,5,0,0,4,2,1,0,0,2,14,20,Reggie Jackson,DEN
+"Wed, Nov 8",vs. GSW,32,8,17,3,7,1,2,2,6,0,0,0,5,20,28,Reggie Jackson,DEN
+"Mon, Nov 6",vs. NOR,24,2,8,1,4,2,2,1,4,0,0,0,1,7,12,Reggie Jackson,DEN
+"Sat, Nov 4",vs. CHI,25,6,10,3,5,1,2,1,3,1,0,1,0,16,20,Reggie Jackson,DEN
+"Fri, Nov 3",vs. DAL,20,3,10,1,4,1,2,1,2,3,4,0,1,8,11,Reggie Jackson,DEN
+"Wed, Nov 1",@ MIN,19,1,4,0,1,0,0,0,5,1,2,1,0,2,7,Reggie Jackson,DEN
+"Mon, Oct 30",vs. UTH,19,2,6,0,3,0,1,4,1,1,0,0,2,4,9,Reggie Jackson,DEN
+"Sun, Oct 29",@ OKC,22,2,3,1,2,0,0,0,6,2,2,0,4,5,11,Reggie Jackson,DEN
+"Fri, Oct 27",@ MEM,22,7,13,2,5,0,0,2,6,0,0,1,0,16,24,Reggie Jackson,DEN
+"Tue, Oct 24",vs. LAL,24,3,8,2,5,0,0,3,1,2,1,0,0,8,12,Reggie Jackson,DEN
+"Mon, Dec 18",vs. DAL,23,3,8,2,3,0,0,4,1,2,0,0,1,8,13,Michael Porter Jr.,DEN
+"Sat, Dec 16",vs. OKC,32,8,18,4,8,0,0,11,0,1,0,0,0,20,31,Michael Porter Jr.,DEN
+"Thu, Dec 14",vs. BKN,23,3,8,1,4,2,2,6,1,0,1,0,0,9,16,Michael Porter Jr.,DEN
+"Tue, Dec 12",@ CHI,32,6,16,2,8,3,4,7,0,0,1,0,1,17,24,Michael Porter Jr.,DEN
+"Mon, Dec 11",@ ATL,26,1,11,0,4,1,2,7,3,1,0,0,3,3,13,Michael Porter Jr.,DEN
+"Fri, Dec 8",vs. HOU,40,8,12,3,6,1,1,8,0,2,0,2,3,20,28,Michael Porter Jr.,DEN
+"Wed, Dec 6",@ LAC,34,7,8,4,5,0,0,9,0,2,0,1,2,18,27,Michael Porter Jr.,DEN
+"Sat, Dec 2",@ SAC,33,6,12,1,5,0,0,8,2,1,0,2,1,13,23,Michael Porter Jr.,DEN
+"Fri, Dec 1",@ PHO,37,8,16,0,4,3,3,10,4,2,2,1,1,19,33,Michael Porter Jr.,DEN
+"Wed, Nov 29",vs. HOU,34,11,17,7,12,1,3,10,5,0,1,0,2,30,45,Michael Porter Jr.,DEN
+"Mon, Nov 27",@ LAC,29,3,13,2,7,0,0,10,3,1,0,0,5,8,21,Michael Porter Jr.,DEN
+"Sun, Nov 26",vs. SAS,33,8,14,4,9,5,6,7,2,3,0,1,0,25,34,Michael Porter Jr.,DEN
+"Fri, Nov 24",@ HOU,37,6,14,2,8,0,0,7,1,1,1,2,1,14,22,Michael Porter Jr.,DEN
+"Wed, Nov 22",@ ORL,31,9,16,5,9,2,2,2,0,0,1,0,4,25,27,Michael Porter Jr.,DEN
+"Mon, Nov 20",@ DET,38,5,15,4,9,0,1,11,2,4,0,1,3,14,27,Michael Porter Jr.,DEN
+"Sun, Nov 19",@ CLE,27,7,15,5,9,2,2,6,0,2,1,0,2,21,27,Michael Porter Jr.,DEN
+"Fri, Nov 17",@ NOR,33,8,14,2,6,0,1,11,0,0,0,0,3,18,29,Michael Porter Jr.,DEN
+"Tue, Nov 14",vs. LAC,34,4,11,2,8,0,2,5,0,2,1,1,3,10,15,Michael Porter Jr.,DEN
+"Sun, Nov 12",@ HOU,38,11,19,3,10,0,0,10,0,2,0,1,3,25,35,Michael Porter Jr.,DEN
+"Wed, Nov 8",vs. GSW,37,7,17,3,8,0,0,8,2,0,0,2,1,17,27,Michael Porter Jr.,DEN
+"Mon, Nov 6",vs. NOR,29,8,16,2,6,4,4,9,3,1,0,0,2,22,34,Michael Porter Jr.,DEN
+"Sat, Nov 4",vs. CHI,31,9,16,5,10,4,5,6,2,2,1,2,4,27,35,Michael Porter Jr.,DEN
+"Fri, Nov 3",vs. DAL,34,10,18,4,8,0,0,9,1,1,0,2,2,24,34,Michael Porter Jr.,DEN
+"Wed, Nov 1",@ MIN,25,2,11,0,5,1,1,5,1,0,1,1,0,5,11,Michael Porter Jr.,DEN
+"Mon, Oct 30",vs. UTH,19,3,8,2,6,0,0,1,2,1,0,1,3,8,11,Michael Porter Jr.,DEN
+"Sun, Oct 29",@ OKC,25,8,14,4,7,0,0,9,2,1,0,0,3,20,31,Michael Porter Jr.,DEN
+"Fri, Oct 27",@ MEM,29,3,7,2,5,1,1,13,3,1,0,0,4,9,25,Michael Porter Jr.,DEN
+"Tue, Oct 24",vs. LAL,30,5,13,2,9,0,0,12,2,0,2,0,1,12,26,Michael Porter Jr.,DEN
+"Mon, Dec 18",vs. DAL,20,5,8,0,2,4,4,4,2,1,1,1,4,14,20,Zeke Nnaji,DEN
+"Thu, Dec 14",vs. BKN,6,2,2,1,1,0,0,3,1,0,0,0,1,5,9,Zeke Nnaji,DEN
+"Mon, Dec 11",@ ATL,12,1,2,0,1,1,1,4,1,1,0,2,3,3,8,Zeke Nnaji,DEN
+"Wed, Nov 29",vs. HOU,18,2,4,0,0,3,4,3,0,0,0,1,2,7,10,Zeke Nnaji,DEN
+"Mon, Nov 27",@ LAC,12,3,8,0,0,2,5,7,0,1,0,3,2,8,15,Zeke Nnaji,DEN
+"Sun, Nov 26",vs. SAS,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Zeke Nnaji,DEN
+"Fri, Nov 24",@ HOU,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Zeke Nnaji,DEN
+"Wed, Nov 22",@ ORL,12,1,2,0,0,1,2,1,2,0,0,0,1,3,6,Zeke Nnaji,DEN
+"Mon, Nov 20",@ DET,14,2,3,1,1,2,3,1,0,1,1,1,3,7,8,Zeke Nnaji,DEN
+"Sun, Nov 19",@ CLE,14,3,4,1,1,2,2,4,1,1,0,0,2,9,14,Zeke Nnaji,DEN
+"Fri, Nov 17",@ NOR,4,0,1,0,0,0,0,0,0,2,0,0,2,0,0,Zeke Nnaji,DEN
+"Tue, Nov 14",vs. LAC,12,1,2,0,0,1,2,3,0,0,0,0,1,3,6,Zeke Nnaji,DEN
+"Sun, Nov 12",@ HOU,11,1,4,0,1,0,0,4,0,0,0,0,0,2,6,Zeke Nnaji,DEN
+"Wed, Nov 8",vs. GSW,6,0,1,0,0,0,0,2,2,0,0,0,0,0,4,Zeke Nnaji,DEN
+"Mon, Nov 6",vs. NOR,6,0,0,0,0,0,0,2,1,1,0,1,2,0,3,Zeke Nnaji,DEN
+"Sat, Nov 4",vs. CHI,2,0,0,0,0,1,2,1,0,0,0,0,1,1,2,Zeke Nnaji,DEN
+"Fri, Nov 3",vs. DAL,12,2,2,0,0,0,1,4,0,1,0,0,0,4,8,Zeke Nnaji,DEN
+"Wed, Nov 1",@ MIN,18,4,9,1,3,0,0,5,0,0,0,2,3,9,14,Zeke Nnaji,DEN
+"Mon, Oct 30",vs. UTH,13,2,2,0,0,2,3,3,0,0,2,0,0,6,9,Zeke Nnaji,DEN
+"Sun, Oct 29",@ OKC,15,0,1,0,0,0,0,3,1,0,0,0,2,0,4,Zeke Nnaji,DEN
+"Fri, Oct 27",@ MEM,13,3,4,0,0,1,2,1,0,1,0,2,1,7,8,Zeke Nnaji,DEN
+"Tue, Oct 24",vs. LAL,12,1,3,0,1,2,2,0,1,1,0,0,2,4,5,Zeke Nnaji,DEN
 "Mon, Dec 18",vs. DAL,24,7,9,2,3,5,6,5,5,0,1,0,1,21,31,Aaron Gordon,DEN
 "Sat, Dec 16",vs. OKC,33,5,10,0,0,6,7,9,5,0,2,0,2,16,30,Aaron Gordon,DEN
 "Thu, Dec 14",vs. BKN,24,6,9,0,1,1,1,3,2,2,1,1,0,13,18,Aaron Gordon,DEN
@@ -1836,34 +1956,6 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Mon, Nov 27",@ LAC,34,8,11,0,0,5,11,13,5,2,2,1,3,21,39,DeAndre Jordan,DEN
 "Sun, Nov 26",vs. SAS,12,3,3,0,0,0,3,6,1,1,0,0,3,6,13,DeAndre Jordan,DEN
 "Sat, Nov 4",vs. CHI,12,0,0,0,0,1,2,1,1,1,0,0,2,1,3,DeAndre Jordan,DEN
-"Mon, Dec 18",vs. DAL,23,3,8,2,3,0,0,4,1,2,0,0,1,8,13,Michael Porter Jr.,DEN
-"Sat, Dec 16",vs. OKC,32,8,18,4,8,0,0,11,0,1,0,0,0,20,31,Michael Porter Jr.,DEN
-"Thu, Dec 14",vs. BKN,23,3,8,1,4,2,2,6,1,0,1,0,0,9,16,Michael Porter Jr.,DEN
-"Tue, Dec 12",@ CHI,32,6,16,2,8,3,4,7,0,0,1,0,1,17,24,Michael Porter Jr.,DEN
-"Mon, Dec 11",@ ATL,26,1,11,0,4,1,2,7,3,1,0,0,3,3,13,Michael Porter Jr.,DEN
-"Fri, Dec 8",vs. HOU,40,8,12,3,6,1,1,8,0,2,0,2,3,20,28,Michael Porter Jr.,DEN
-"Wed, Dec 6",@ LAC,34,7,8,4,5,0,0,9,0,2,0,1,2,18,27,Michael Porter Jr.,DEN
-"Sat, Dec 2",@ SAC,33,6,12,1,5,0,0,8,2,1,0,2,1,13,23,Michael Porter Jr.,DEN
-"Fri, Dec 1",@ PHO,37,8,16,0,4,3,3,10,4,2,2,1,1,19,33,Michael Porter Jr.,DEN
-"Wed, Nov 29",vs. HOU,34,11,17,7,12,1,3,10,5,0,1,0,2,30,45,Michael Porter Jr.,DEN
-"Mon, Nov 27",@ LAC,29,3,13,2,7,0,0,10,3,1,0,0,5,8,21,Michael Porter Jr.,DEN
-"Sun, Nov 26",vs. SAS,33,8,14,4,9,5,6,7,2,3,0,1,0,25,34,Michael Porter Jr.,DEN
-"Fri, Nov 24",@ HOU,37,6,14,2,8,0,0,7,1,1,1,2,1,14,22,Michael Porter Jr.,DEN
-"Wed, Nov 22",@ ORL,31,9,16,5,9,2,2,2,0,0,1,0,4,25,27,Michael Porter Jr.,DEN
-"Mon, Nov 20",@ DET,38,5,15,4,9,0,1,11,2,4,0,1,3,14,27,Michael Porter Jr.,DEN
-"Sun, Nov 19",@ CLE,27,7,15,5,9,2,2,6,0,2,1,0,2,21,27,Michael Porter Jr.,DEN
-"Fri, Nov 17",@ NOR,33,8,14,2,6,0,1,11,0,0,0,0,3,18,29,Michael Porter Jr.,DEN
-"Tue, Nov 14",vs. LAC,34,4,11,2,8,0,2,5,0,2,1,1,3,10,15,Michael Porter Jr.,DEN
-"Sun, Nov 12",@ HOU,38,11,19,3,10,0,0,10,0,2,0,1,3,25,35,Michael Porter Jr.,DEN
-"Wed, Nov 8",vs. GSW,37,7,17,3,8,0,0,8,2,0,0,2,1,17,27,Michael Porter Jr.,DEN
-"Mon, Nov 6",vs. NOR,29,8,16,2,6,4,4,9,3,1,0,0,2,22,34,Michael Porter Jr.,DEN
-"Sat, Nov 4",vs. CHI,31,9,16,5,10,4,5,6,2,2,1,2,4,27,35,Michael Porter Jr.,DEN
-"Fri, Nov 3",vs. DAL,34,10,18,4,8,0,0,9,1,1,0,2,2,24,34,Michael Porter Jr.,DEN
-"Wed, Nov 1",@ MIN,25,2,11,0,5,1,1,5,1,0,1,1,0,5,11,Michael Porter Jr.,DEN
-"Mon, Oct 30",vs. UTH,19,3,8,2,6,0,0,1,2,1,0,1,3,8,11,Michael Porter Jr.,DEN
-"Sun, Oct 29",@ OKC,25,8,14,4,7,0,0,9,2,1,0,0,3,20,31,Michael Porter Jr.,DEN
-"Fri, Oct 27",@ MEM,29,3,7,2,5,1,1,13,3,1,0,0,4,9,25,Michael Porter Jr.,DEN
-"Tue, Oct 24",vs. LAL,30,5,13,2,9,0,0,12,2,0,2,0,1,12,26,Michael Porter Jr.,DEN
 "Mon, Dec 18",vs. DAL,25,8,14,4,4,2,2,4,2,2,1,1,1,22,28,Jamal Murray,DEN
 "Sat, Dec 16",vs. OKC,28,5,13,0,6,5,5,2,5,1,0,0,4,15,22,Jamal Murray,DEN
 "Thu, Dec 14",vs. BKN,22,7,15,2,4,0,0,1,2,0,3,1,2,16,19,Jamal Murray,DEN
@@ -1878,28 +1970,6 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",@ OKC,30,9,14,1,1,0,0,2,8,4,0,0,1,19,29,Jamal Murray,DEN
 "Fri, Oct 27",@ MEM,34,7,17,4,9,4,4,1,5,3,0,1,2,22,28,Jamal Murray,DEN
 "Tue, Oct 24",vs. LAL,34,8,13,3,5,2,2,2,6,1,0,1,3,21,29,Jamal Murray,DEN
-"Mon, Dec 18",vs. DAL,20,5,8,0,2,4,4,4,2,1,1,1,4,14,20,Zeke Nnaji,DEN
-"Thu, Dec 14",vs. BKN,6,2,2,1,1,0,0,3,1,0,0,0,1,5,9,Zeke Nnaji,DEN
-"Mon, Dec 11",@ ATL,12,1,2,0,1,1,1,4,1,1,0,2,3,3,8,Zeke Nnaji,DEN
-"Wed, Nov 29",vs. HOU,18,2,4,0,0,3,4,3,0,0,0,1,2,7,10,Zeke Nnaji,DEN
-"Mon, Nov 27",@ LAC,12,3,8,0,0,2,5,7,0,1,0,3,2,8,15,Zeke Nnaji,DEN
-"Sun, Nov 26",vs. SAS,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Zeke Nnaji,DEN
-"Fri, Nov 24",@ HOU,4,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Zeke Nnaji,DEN
-"Wed, Nov 22",@ ORL,12,1,2,0,0,1,2,1,2,0,0,0,1,3,6,Zeke Nnaji,DEN
-"Mon, Nov 20",@ DET,14,2,3,1,1,2,3,1,0,1,1,1,3,7,8,Zeke Nnaji,DEN
-"Sun, Nov 19",@ CLE,14,3,4,1,1,2,2,4,1,1,0,0,2,9,14,Zeke Nnaji,DEN
-"Fri, Nov 17",@ NOR,4,0,1,0,0,0,0,0,0,2,0,0,2,0,0,Zeke Nnaji,DEN
-"Tue, Nov 14",vs. LAC,12,1,2,0,0,1,2,3,0,0,0,0,1,3,6,Zeke Nnaji,DEN
-"Sun, Nov 12",@ HOU,11,1,4,0,1,0,0,4,0,0,0,0,0,2,6,Zeke Nnaji,DEN
-"Wed, Nov 8",vs. GSW,6,0,1,0,0,0,0,2,2,0,0,0,0,0,4,Zeke Nnaji,DEN
-"Mon, Nov 6",vs. NOR,6,0,0,0,0,0,0,2,1,1,0,1,2,0,3,Zeke Nnaji,DEN
-"Sat, Nov 4",vs. CHI,2,0,0,0,0,1,2,1,0,0,0,0,1,1,2,Zeke Nnaji,DEN
-"Fri, Nov 3",vs. DAL,12,2,2,0,0,0,1,4,0,1,0,0,0,4,8,Zeke Nnaji,DEN
-"Wed, Nov 1",@ MIN,18,4,9,1,3,0,0,5,0,0,0,2,3,9,14,Zeke Nnaji,DEN
-"Mon, Oct 30",vs. UTH,13,2,2,0,0,2,3,3,0,0,2,0,0,6,9,Zeke Nnaji,DEN
-"Sun, Oct 29",@ OKC,15,0,1,0,0,0,0,3,1,0,0,0,2,0,4,Zeke Nnaji,DEN
-"Fri, Oct 27",@ MEM,13,3,4,0,0,1,2,1,0,1,0,2,1,7,8,Zeke Nnaji,DEN
-"Tue, Oct 24",vs. LAL,12,1,3,0,1,2,2,0,1,1,0,0,2,4,5,Zeke Nnaji,DEN
 "Mon, Dec 18",vs. DAL,5,0,1,0,0,0,0,1,0,0,0,0,1,0,1,Collin Gillespie,DEN
 "Wed, Nov 29",vs. HOU,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,Collin Gillespie,DEN
 "Sun, Nov 26",vs. SAS,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Collin Gillespie,DEN
@@ -1911,166 +1981,6 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sat, Nov 4",vs. CHI,12,2,4,1,3,0,0,1,2,0,0,0,1,5,8,Collin Gillespie,DEN
 "Sun, Oct 29",@ OKC,6,0,1,0,1,0,0,0,0,0,1,0,1,0,0,Collin Gillespie,DEN
 "Tue, Oct 24",vs. LAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Collin Gillespie,DEN
-"Mon, Dec 18",vs. DAL,28,3,8,0,1,2,2,9,7,2,2,0,2,8,24,Nikola Jokic,DEN
-"Sat, Dec 16",vs. OKC,37,8,15,1,2,7,8,6,12,3,2,0,3,24,42,Nikola Jokic,DEN
-"Thu, Dec 14",vs. BKN,30,8,12,0,2,10,12,14,10,1,1,0,2,26,50,Nikola Jokic,DEN
-"Tue, Dec 12",@ CHI,16,2,5,0,0,0,0,9,6,0,0,0,1,4,19,Nikola Jokic,DEN
-"Mon, Dec 11",@ ATL,36,9,13,1,1,6,7,8,9,1,3,2,3,25,42,Nikola Jokic,DEN
-"Fri, Dec 8",vs. HOU,34,9,26,1,2,4,7,16,5,3,0,2,5,23,44,Nikola Jokic,DEN
-"Wed, Dec 6",@ LAC,37,9,32,2,7,2,2,15,10,4,1,0,2,22,47,Nikola Jokic,DEN
-"Sat, Dec 2",@ SAC,38,13,23,1,4,9,12,13,14,0,2,1,3,36,63,Nikola Jokic,DEN
-"Fri, Dec 1",@ PHO,35,9,18,0,3,3,6,5,16,3,1,2,4,21,42,Nikola Jokic,DEN
-"Wed, Nov 29",vs. HOU,33,12,19,1,2,7,8,10,15,0,1,0,2,32,57,Nikola Jokic,DEN
-"Sun, Nov 26",vs. SAS,34,17,29,0,0,5,5,11,9,5,1,0,3,39,59,Nikola Jokic,DEN
-"Fri, Nov 24",@ HOU,42,14,31,3,8,7,11,19,8,3,3,0,3,38,65,Nikola Jokic,DEN
-"Wed, Nov 22",@ ORL,36,12,18,1,2,5,5,13,12,1,3,2,4,30,55,Nikola Jokic,DEN
-"Mon, Nov 20",@ DET,15,4,8,1,4,0,0,5,5,1,0,1,1,9,19,Nikola Jokic,DEN
-"Sun, Nov 19",@ CLE,28,8,13,0,0,2,5,10,7,3,1,1,5,18,35,Nikola Jokic,DEN
-"Fri, Nov 17",@ NOR,36,10,20,1,8,5,5,16,18,4,1,1,2,26,60,Nikola Jokic,DEN
-"Tue, Nov 14",vs. LAC,36,8,23,2,7,14,14,16,9,4,1,0,2,32,57,Nikola Jokic,DEN
-"Sun, Nov 12",@ HOU,38,13,26,2,6,8,8,21,11,3,0,1,3,36,68,Nikola Jokic,DEN
-"Wed, Nov 8",vs. GSW,37,14,25,1,8,6,10,13,5,3,3,1,3,35,53,Nikola Jokic,DEN
-"Mon, Nov 6",vs. NOR,36,15,24,2,6,3,5,14,12,2,1,1,1,35,61,Nikola Jokic,DEN
-"Sat, Nov 4",vs. CHI,33,9,16,1,3,9,9,16,9,1,3,0,3,28,53,Nikola Jokic,DEN
-"Fri, Nov 3",vs. DAL,36,14,16,2,2,3,5,14,9,4,1,1,3,33,56,Nikola Jokic,DEN
-"Wed, Nov 1",@ MIN,30,11,23,1,6,2,2,10,3,5,0,0,0,25,38,Nikola Jokic,DEN
-"Mon, Oct 30",vs. UTH,35,12,16,1,3,2,5,10,11,1,0,2,3,27,48,Nikola Jokic,DEN
-"Sun, Oct 29",@ OKC,30,12,16,1,2,3,3,14,5,4,0,0,3,28,47,Nikola Jokic,DEN
-"Fri, Oct 27",@ MEM,35,8,14,1,4,5,6,12,7,9,1,1,1,22,41,Nikola Jokic,DEN
-"Tue, Oct 24",vs. LAL,36,12,22,3,5,2,4,13,11,2,1,1,2,29,53,Nikola Jokic,DEN
-"Thu, Dec 14",vs. BKN,2,1,1,1,1,0,0,0,1,0,0,0,0,3,4,Jalen Pickett,DEN
-"Wed, Nov 29",vs. HOU,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Jalen Pickett,DEN
-"Sun, Nov 26",vs. SAS,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Jalen Pickett,DEN
-"Wed, Nov 22",@ ORL,8,0,4,0,3,0,0,1,0,1,0,0,0,0,1,Jalen Pickett,DEN
-"Mon, Nov 20",@ DET,7,1,1,0,0,0,0,2,1,0,1,0,1,2,5,Jalen Pickett,DEN
-"Sun, Nov 19",@ CLE,19,2,4,2,3,2,2,2,3,1,1,0,0,8,13,Jalen Pickett,DEN
-"Fri, Nov 17",@ NOR,10,0,2,0,2,0,0,1,1,1,0,0,2,0,2,Jalen Pickett,DEN
-"Tue, Nov 14",vs. LAC,17,2,3,1,2,0,0,2,2,2,1,0,2,5,9,Jalen Pickett,DEN
-"Mon, Nov 6",vs. NOR,1,1,1,1,1,0,0,0,0,0,0,0,0,3,3,Jalen Pickett,DEN
-"Sat, Nov 4",vs. CHI,2,1,1,1,1,0,0,0,0,0,0,0,0,3,3,Jalen Pickett,DEN
-"Wed, Nov 1",@ MIN,5,1,2,0,1,0,0,2,0,0,0,0,1,2,4,Jalen Pickett,DEN
-"Tue, Oct 24",vs. LAL,1,1,1,0,0,0,0,0,0,0,0,0,0,2,2,Jalen Pickett,DEN
-"Mon, Dec 18",vs. DAL,26,4,6,1,2,0,0,3,2,0,0,0,0,9,14,Kentavious Caldwell-Pope,DEN
-"Tue, Dec 12",@ CHI,13,2,4,0,0,0,0,1,0,0,0,0,2,4,5,Kentavious Caldwell-Pope,DEN
-"Mon, Dec 11",@ ATL,30,1,6,0,2,6,8,3,2,2,0,1,2,8,13,Kentavious Caldwell-Pope,DEN
-"Fri, Dec 8",vs. HOU,25,5,6,2,3,2,2,0,0,0,0,1,1,14,14,Kentavious Caldwell-Pope,DEN
-"Wed, Dec 6",@ LAC,34,1,4,1,3,0,0,1,3,0,1,0,1,3,7,Kentavious Caldwell-Pope,DEN
-"Sat, Dec 2",@ SAC,38,4,12,0,3,1,2,5,3,4,4,0,1,9,17,Kentavious Caldwell-Pope,DEN
-"Fri, Dec 1",@ PHO,35,6,10,3,6,0,0,1,5,0,3,0,2,15,21,Kentavious Caldwell-Pope,DEN
-"Wed, Nov 29",vs. HOU,32,4,6,2,3,0,0,1,2,0,0,0,0,10,13,Kentavious Caldwell-Pope,DEN
-"Mon, Nov 27",@ LAC,38,3,14,0,1,6,6,3,2,0,1,0,2,12,17,Kentavious Caldwell-Pope,DEN
-"Sun, Nov 26",vs. SAS,31,5,7,2,4,4,4,1,6,3,1,0,3,16,23,Kentavious Caldwell-Pope,DEN
-"Fri, Nov 24",@ HOU,39,7,15,1,5,5,5,5,3,2,3,0,4,20,28,Kentavious Caldwell-Pope,DEN
-"Wed, Nov 22",@ ORL,34,3,8,2,5,2,2,1,2,2,0,0,2,10,13,Kentavious Caldwell-Pope,DEN
-"Mon, Nov 20",@ DET,36,8,17,2,5,2,2,3,3,3,2,1,2,20,26,Kentavious Caldwell-Pope,DEN
-"Sun, Nov 19",@ CLE,31,2,9,1,5,4,4,2,2,1,1,1,1,9,13,Kentavious Caldwell-Pope,DEN
-"Fri, Nov 17",@ NOR,35,3,7,2,4,0,0,1,8,0,1,2,0,8,17,Kentavious Caldwell-Pope,DEN
-"Tue, Nov 14",vs. LAC,39,2,3,2,3,3,5,1,4,1,1,0,3,9,14,Kentavious Caldwell-Pope,DEN
-"Sun, Nov 12",@ HOU,38,2,5,1,2,0,0,0,1,1,1,0,3,5,6,Kentavious Caldwell-Pope,DEN
-"Wed, Nov 8",vs. GSW,35,3,8,0,3,4,4,3,3,0,1,0,3,10,16,Kentavious Caldwell-Pope,DEN
-"Mon, Nov 6",vs. NOR,33,5,10,3,7,2,2,1,7,2,1,0,4,15,23,Kentavious Caldwell-Pope,DEN
-"Sat, Nov 4",vs. CHI,30,4,8,2,4,0,0,0,2,1,1,0,1,10,12,Kentavious Caldwell-Pope,DEN
-"Fri, Nov 3",vs. DAL,37,3,7,2,3,0,0,5,1,1,2,0,0,8,14,Kentavious Caldwell-Pope,DEN
-"Wed, Nov 1",@ MIN,26,2,4,1,1,1,1,0,0,1,1,1,2,6,6,Kentavious Caldwell-Pope,DEN
-"Mon, Oct 30",vs. UTH,33,3,5,2,4,0,0,3,0,2,1,2,4,8,11,Kentavious Caldwell-Pope,DEN
-"Sun, Oct 29",@ OKC,30,2,5,1,4,2,2,3,1,1,2,0,2,7,11,Kentavious Caldwell-Pope,DEN
-"Fri, Oct 27",@ MEM,35,3,10,2,6,0,0,2,1,0,5,1,1,8,11,Kentavious Caldwell-Pope,DEN
-"Tue, Oct 24",vs. LAL,36,8,12,2,3,2,2,2,1,3,3,1,5,20,23,Kentavious Caldwell-Pope,DEN
-"Mon, Dec 18",vs. DAL,24,3,5,2,3,2,4,7,3,0,1,1,1,10,20,Peyton Watson,DEN
-"Sat, Dec 16",vs. OKC,16,5,8,2,2,1,2,4,0,1,0,0,5,13,17,Peyton Watson,DEN
-"Thu, Dec 14",vs. BKN,24,7,10,2,5,2,3,7,5,1,1,1,3,18,30,Peyton Watson,DEN
-"Tue, Dec 12",@ CHI,23,1,6,0,0,2,2,1,1,1,1,1,1,4,6,Peyton Watson,DEN
-"Mon, Dec 11",@ ATL,20,1,2,0,0,1,2,2,0,0,0,1,2,3,5,Peyton Watson,DEN
-"Fri, Dec 8",vs. HOU,26,4,9,0,1,5,5,4,2,1,0,0,3,13,19,Peyton Watson,DEN
-"Wed, Dec 6",@ LAC,16,0,3,0,2,2,2,3,3,1,1,1,1,2,8,Peyton Watson,DEN
-"Sat, Dec 2",@ SAC,14,1,1,0,0,2,2,1,1,0,1,2,2,4,6,Peyton Watson,DEN
-"Fri, Dec 1",@ PHO,25,4,9,0,2,0,0,3,0,0,0,0,5,8,11,Peyton Watson,DEN
-"Mon, Nov 27",@ LAC,24,4,7,0,0,0,2,3,1,1,2,1,0,8,12,Peyton Watson,DEN
-"Sun, Nov 26",vs. SAS,22,2,6,0,2,0,0,4,2,1,1,2,1,4,10,Peyton Watson,DEN
-"Fri, Nov 24",@ HOU,6,0,3,0,1,0,0,1,0,0,0,1,1,0,1,Peyton Watson,DEN
-"Wed, Nov 22",@ ORL,10,1,1,0,0,0,2,1,0,0,0,0,1,2,3,Peyton Watson,DEN
-"Mon, Nov 20",@ DET,13,1,2,0,0,2,2,1,2,1,0,2,1,4,7,Peyton Watson,DEN
-"Fri, Nov 17",@ NOR,11,1,3,0,1,1,2,3,1,2,0,0,2,3,7,Peyton Watson,DEN
-"Tue, Nov 14",vs. LAC,11,2,2,0,0,0,0,0,0,0,0,0,1,4,4,Peyton Watson,DEN
-"Sun, Nov 12",@ HOU,7,0,2,0,0,0,0,0,1,0,0,1,2,0,1,Peyton Watson,DEN
-"Wed, Nov 8",vs. GSW,11,1,2,0,0,0,0,0,0,0,0,0,0,2,2,Peyton Watson,DEN
-"Mon, Nov 6",vs. NOR,19,2,3,0,0,0,0,3,1,0,2,2,0,4,8,Peyton Watson,DEN
-"Sat, Nov 4",vs. CHI,18,1,3,0,1,0,0,2,2,2,2,0,2,2,6,Peyton Watson,DEN
-"Fri, Nov 3",vs. DAL,13,1,4,0,1,1,2,3,1,0,0,2,2,3,7,Peyton Watson,DEN
-"Wed, Nov 1",@ MIN,16,2,3,0,1,0,0,2,1,2,0,0,2,4,7,Peyton Watson,DEN
-"Mon, Oct 30",vs. UTH,15,2,4,0,1,1,2,2,0,0,0,1,0,5,7,Peyton Watson,DEN
-"Sun, Oct 29",@ OKC,22,8,11,1,3,0,0,4,1,0,1,1,1,17,22,Peyton Watson,DEN
-"Fri, Oct 27",@ MEM,18,3,4,2,3,1,2,3,0,1,1,3,3,9,12,Peyton Watson,DEN
-"Tue, Oct 24",vs. LAL,11,1,3,1,3,0,0,0,0,1,0,1,1,3,3,Peyton Watson,DEN
-"Mon, Dec 18",vs. DAL,21,5,10,2,4,0,0,3,2,0,1,0,1,12,17,Julian Strawther,DEN
-"Sat, Dec 16",vs. OKC,15,0,3,0,2,0,0,1,1,0,0,0,0,0,2,Julian Strawther,DEN
-"Thu, Dec 14",vs. BKN,20,3,11,2,6,0,0,4,1,0,0,0,0,8,13,Julian Strawther,DEN
-"Tue, Dec 12",@ CHI,23,4,9,2,5,6,8,6,3,2,1,0,1,16,25,Julian Strawther,DEN
-"Mon, Dec 11",@ ATL,28,8,16,6,11,0,0,1,2,2,5,0,1,22,25,Julian Strawther,DEN
-"Fri, Dec 8",vs. HOU,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Julian Strawther,DEN
-"Wed, Dec 6",@ LAC,13,0,2,0,2,0,0,1,2,1,0,0,4,0,3,Julian Strawther,DEN
-"Sat, Dec 2",@ SAC,12,1,3,0,2,1,2,1,2,0,0,0,0,3,6,Julian Strawther,DEN
-"Fri, Dec 1",@ PHO,18,4,9,3,8,0,0,3,0,0,0,1,2,11,14,Julian Strawther,DEN
-"Wed, Nov 29",vs. HOU,13,0,4,0,2,0,0,1,1,0,0,0,1,0,2,Julian Strawther,DEN
-"Mon, Nov 27",@ LAC,19,3,8,3,5,0,0,3,1,1,0,1,1,9,13,Julian Strawther,DEN
-"Sun, Nov 26",vs. SAS,19,4,8,2,4,0,0,1,4,1,3,0,4,10,15,Julian Strawther,DEN
-"Fri, Nov 24",@ HOU,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Julian Strawther,DEN
-"Wed, Nov 22",@ ORL,17,2,6,1,4,2,2,2,2,0,0,0,5,7,11,Julian Strawther,DEN
-"Mon, Nov 20",@ DET,15,1,5,0,3,2,2,2,2,0,0,0,1,4,8,Julian Strawther,DEN
-"Sun, Nov 19",@ CLE,20,2,6,1,3,2,2,2,1,0,0,1,4,7,10,Julian Strawther,DEN
-"Fri, Nov 17",@ NOR,9,1,4,0,3,0,0,0,1,0,1,0,2,2,3,Julian Strawther,DEN
-"Sun, Nov 12",@ HOU,8,0,2,0,2,0,0,0,1,0,0,0,2,0,1,Julian Strawther,DEN
-"Wed, Nov 8",vs. GSW,8,0,1,0,1,0,0,1,0,0,0,0,2,0,1,Julian Strawther,DEN
-"Mon, Nov 6",vs. NOR,19,8,13,5,9,0,1,2,1,1,0,0,1,21,24,Julian Strawther,DEN
-"Sat, Nov 4",vs. CHI,9,1,2,1,2,0,0,1,1,0,0,0,0,3,5,Julian Strawther,DEN
-"Wed, Nov 1",@ MIN,16,2,7,1,6,0,1,0,0,0,1,2,0,5,5,Julian Strawther,DEN
-"Mon, Oct 30",vs. UTH,6,2,4,0,2,0,0,2,0,0,0,0,0,4,6,Julian Strawther,DEN
-"Sun, Oct 29",@ OKC,8,3,5,2,3,0,0,1,1,0,0,0,0,8,10,Julian Strawther,DEN
-"Fri, Oct 27",@ MEM,5,0,2,0,0,0,0,0,0,0,0,0,2,0,0,Julian Strawther,DEN
-"Mon, Dec 18",vs. DAL,19,9,12,1,3,1,1,1,4,0,0,0,2,20,25,Reggie Jackson,DEN
-"Sat, Dec 16",vs. OKC,22,3,10,1,4,0,0,3,3,1,0,0,4,7,13,Reggie Jackson,DEN
-"Thu, Dec 14",vs. BKN,23,4,13,2,4,2,2,0,4,1,2,0,3,12,16,Reggie Jackson,DEN
-"Tue, Dec 12",@ CHI,32,9,16,5,8,2,2,2,6,2,0,0,4,25,33,Reggie Jackson,DEN
-"Mon, Dec 11",@ ATL,19,5,10,1,5,1,1,1,6,1,0,0,0,12,19,Reggie Jackson,DEN
-"Fri, Dec 8",vs. HOU,25,2,8,0,4,2,2,3,6,0,0,0,2,6,15,Reggie Jackson,DEN
-"Wed, Dec 6",@ LAC,19,4,10,3,4,3,4,1,3,2,1,0,1,14,18,Reggie Jackson,DEN
-"Sat, Dec 2",@ SAC,33,9,18,2,6,0,0,1,8,2,1,0,3,20,29,Reggie Jackson,DEN
-"Fri, Dec 1",@ PHO,29,8,11,3,4,1,2,2,4,1,0,0,3,20,26,Reggie Jackson,DEN
-"Wed, Nov 29",vs. HOU,24,6,14,2,7,0,0,2,2,0,0,1,3,14,18,Reggie Jackson,DEN
-"Mon, Nov 27",@ LAC,40,15,19,3,4,2,4,5,13,2,2,0,3,35,53,Reggie Jackson,DEN
-"Sun, Nov 26",vs. SAS,28,7,10,3,3,3,3,7,6,4,1,0,5,20,33,Reggie Jackson,DEN
-"Fri, Nov 24",@ HOU,25,1,7,0,2,0,0,4,3,6,0,1,0,2,9,Reggie Jackson,DEN
-"Wed, Nov 22",@ ORL,34,5,15,3,7,1,1,4,9,1,0,0,1,14,27,Reggie Jackson,DEN
-"Mon, Nov 20",@ DET,32,9,15,1,3,2,3,3,6,0,1,1,2,21,30,Reggie Jackson,DEN
-"Sun, Nov 19",@ CLE,21,3,5,1,1,0,0,0,1,2,2,0,2,7,8,Reggie Jackson,DEN
-"Fri, Nov 17",@ NOR,33,6,12,2,7,0,0,2,3,4,0,0,2,14,19,Reggie Jackson,DEN
-"Tue, Nov 14",vs. LAC,30,7,11,0,1,4,6,3,4,2,0,1,3,18,25,Reggie Jackson,DEN
-"Sun, Nov 12",@ HOU,28,6,12,2,5,0,0,4,2,1,0,0,2,14,20,Reggie Jackson,DEN
-"Wed, Nov 8",vs. GSW,32,8,17,3,7,1,2,2,6,0,0,0,5,20,28,Reggie Jackson,DEN
-"Mon, Nov 6",vs. NOR,24,2,8,1,4,2,2,1,4,0,0,0,1,7,12,Reggie Jackson,DEN
-"Sat, Nov 4",vs. CHI,25,6,10,3,5,1,2,1,3,1,0,1,0,16,20,Reggie Jackson,DEN
-"Fri, Nov 3",vs. DAL,20,3,10,1,4,1,2,1,2,3,4,0,1,8,11,Reggie Jackson,DEN
-"Wed, Nov 1",@ MIN,19,1,4,0,1,0,0,0,5,1,2,1,0,2,7,Reggie Jackson,DEN
-"Mon, Oct 30",vs. UTH,19,2,6,0,3,0,1,4,1,1,0,0,2,4,9,Reggie Jackson,DEN
-"Sun, Oct 29",@ OKC,22,2,3,1,2,0,0,0,6,2,2,0,4,5,11,Reggie Jackson,DEN
-"Fri, Oct 27",@ MEM,22,7,13,2,5,0,0,2,6,0,0,1,0,16,24,Reggie Jackson,DEN
-"Tue, Oct 24",vs. LAL,24,3,8,2,5,0,0,3,1,2,1,0,0,8,12,Reggie Jackson,DEN
-"Mon, Dec 18",vs. DAL,5,0,2,0,0,0,0,1,0,0,0,1,1,0,1,Justin Holiday,DEN
-"Sat, Dec 16",vs. OKC,25,2,4,2,3,0,0,1,2,1,0,0,0,6,9,Justin Holiday,DEN
-"Thu, Dec 14",vs. BKN,27,1,6,0,5,0,0,1,2,1,4,0,2,2,5,Justin Holiday,DEN
-"Tue, Dec 12",@ CHI,23,3,4,2,3,0,0,1,2,0,0,0,3,8,11,Justin Holiday,DEN
-"Fri, Dec 8",vs. HOU,6,1,1,0,0,0,0,0,0,0,1,0,1,2,2,Justin Holiday,DEN
-"Sat, Dec 2",@ SAC,12,0,1,0,0,0,0,3,0,0,0,0,2,0,3,Justin Holiday,DEN
-"Fri, Dec 1",@ PHO,25,6,8,3,5,0,0,2,5,0,1,0,2,15,22,Justin Holiday,DEN
-"Wed, Nov 29",vs. HOU,27,4,7,3,5,0,0,3,4,0,2,0,2,11,18,Justin Holiday,DEN
-"Mon, Nov 27",@ LAC,34,5,8,2,4,0,0,6,1,3,1,0,2,12,19,Justin Holiday,DEN
-"Sun, Nov 26",vs. SAS,27,2,5,1,4,0,0,2,3,0,1,0,2,5,10,Justin Holiday,DEN
-"Fri, Nov 24",@ HOU,13,1,2,1,2,0,0,0,0,0,1,0,2,3,3,Justin Holiday,DEN
-"Sun, Nov 19",@ CLE,17,2,3,2,3,0,0,1,1,0,0,0,2,6,8,Justin Holiday,DEN
-"Tue, Nov 14",vs. LAC,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Justin Holiday,DEN
-"Wed, Nov 8",vs. GSW,8,1,2,1,2,0,0,3,0,0,0,0,1,3,6,Justin Holiday,DEN
-"Wed, Nov 1",@ MIN,6,1,2,1,2,0,0,1,0,0,0,0,0,3,4,Justin Holiday,DEN
-"Sun, Oct 29",@ OKC,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Justin Holiday,DEN
 "Mon, Dec 18",vs. DAL,20,2,4,0,1,2,3,4,1,1,0,0,4,6,11,Christian Braun,DEN
 "Sat, Dec 16",vs. OKC,25,5,10,2,5,2,2,2,1,1,1,0,3,14,17,Christian Braun,DEN
 "Thu, Dec 14",vs. BKN,24,4,10,1,3,1,1,4,2,1,0,2,0,10,16,Christian Braun,DEN
@@ -2099,43 +2009,104 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",@ OKC,21,4,9,0,2,5,5,7,7,0,1,1,2,13,27,Christian Braun,DEN
 "Fri, Oct 27",@ MEM,19,2,6,1,4,0,2,4,2,1,1,0,1,5,11,Christian Braun,DEN
 "Tue, Oct 24",vs. LAL,19,2,5,0,1,1,2,3,2,1,0,1,1,5,10,Christian Braun,DEN
-"Mon, Dec 18",@ ATL,23,2,11,0,2,2,2,2,2,0,1,0,3,6,10,Alec Burks,DET
-"Sat, Dec 16",@ MIL,4,0,2,0,2,1,2,1,0,0,0,0,0,1,2,Alec Burks,DET
-"Fri, Dec 15",@ PHI,17,2,8,0,4,0,0,2,0,0,0,0,1,4,6,Alec Burks,DET
-"Wed, Dec 13",vs. PHI,13,1,7,1,3,0,0,3,0,0,1,0,1,3,6,Alec Burks,DET
-"Mon, Dec 11",vs. IND,13,4,6,2,3,4,4,0,0,1,1,0,0,14,14,Alec Burks,DET
-"Fri, Dec 8",@ ORL,13,4,7,2,3,4,4,3,0,1,0,0,1,14,17,Alec Burks,DET
-"Wed, Dec 6",vs. MEM,17,1,6,1,5,0,0,2,2,1,0,0,1,3,7,Alec Burks,DET
-"Thu, Nov 30",@ NYK,11,0,3,0,3,1,1,0,1,0,0,0,0,1,2,Alec Burks,DET
-"Wed, Nov 29",vs. LAL,10,2,7,1,3,1,1,1,0,0,0,0,1,6,7,Alec Burks,DET
-"Mon, Nov 27",vs. WAS,13,2,8,0,5,4,4,0,1,0,0,0,1,8,9,Alec Burks,DET
-"Fri, Nov 24",@ IND,14,2,6,2,3,0,0,2,1,2,1,1,1,6,9,Alec Burks,DET
-"Mon, Nov 20",vs. DEN,17,1,5,0,4,1,2,3,2,1,1,0,1,3,8,Alec Burks,DET
-"Sun, Nov 19",@ TOR,22,3,9,1,3,7,8,4,1,1,0,0,3,14,19,Alec Burks,DET
-"Fri, Nov 17",@ CLE,24,4,14,2,9,0,0,3,1,0,1,0,3,10,14,Alec Burks,DET
-"Tue, Nov 14",vs. ATL,23,4,12,4,9,4,4,2,5,1,1,0,3,16,23,Alec Burks,DET
-"Sun, Nov 12",@ CHI,21,3,7,2,6,8,9,3,4,0,0,0,2,16,23,Alec Burks,DET
-"Mon, Oct 30",@ OKC,21,4,9,3,4,0,0,2,7,0,0,0,3,11,20,Alec Burks,DET
-"Sat, Oct 28",vs. CHI,26,6,12,6,10,0,1,2,0,0,0,1,1,18,20,Alec Burks,DET
-"Fri, Oct 27",@ CHA,31,5,10,3,7,11,12,4,2,0,1,1,1,24,30,Alec Burks,DET
-"Wed, Oct 25",@ MIA,25,2,8,2,5,1,2,5,0,0,0,1,1,7,12,Alec Burks,DET
-"Mon, Dec 18",@ ATL,25,5,5,0,0,0,2,7,2,2,0,0,2,10,19,James Wiseman,DET
-"Sat, Dec 16",@ MIL,26,7,9,0,0,3,3,6,5,0,1,0,4,17,28,James Wiseman,DET
-"Fri, Dec 15",@ PHI,28,9,12,0,0,2,2,13,1,2,0,1,2,20,34,James Wiseman,DET
-"Wed, Dec 13",vs. PHI,16,5,7,0,0,0,0,3,0,1,1,1,6,10,13,James Wiseman,DET
-"Mon, Dec 11",vs. IND,13,1,1,0,0,2,2,4,1,1,1,3,3,4,9,James Wiseman,DET
-"Fri, Dec 8",@ ORL,16,0,0,0,0,2,4,5,0,1,0,0,2,2,7,James Wiseman,DET
-"Wed, Dec 6",vs. MEM,8,2,3,0,0,0,0,1,1,1,0,2,2,4,6,James Wiseman,DET
-"Wed, Nov 29",vs. LAL,12,2,2,0,0,0,0,5,0,1,0,0,2,4,9,James Wiseman,DET
-"Mon, Nov 27",vs. WAS,9,3,4,0,0,2,4,4,0,1,0,0,0,8,12,James Wiseman,DET
-"Mon, Nov 20",vs. DEN,10,0,1,0,0,0,0,3,0,1,0,0,2,0,3,James Wiseman,DET
-"Sun, Nov 19",@ TOR,24,6,8,0,0,3,5,3,1,2,0,1,4,15,19,James Wiseman,DET
-"Fri, Nov 17",@ CLE,4,0,0,0,0,0,0,2,0,0,0,0,0,0,2,James Wiseman,DET
-"Tue, Nov 14",vs. ATL,14,5,6,0,0,1,2,4,1,0,0,0,2,11,16,James Wiseman,DET
-"Sun, Nov 12",@ CHI,14,3,6,0,1,0,0,2,0,2,1,2,3,6,8,James Wiseman,DET
-"Fri, Nov 10",vs. PHI,7,3,3,0,0,0,0,4,0,0,0,0,1,6,10,James Wiseman,DET
-"Mon, Nov 6",vs. GSW,11,0,3,0,0,0,0,3,0,0,0,0,0,0,3,James Wiseman,DET
-"Wed, Nov 1",vs. POR,6,2,4,0,0,0,0,2,1,1,0,0,4,4,7,James Wiseman,DET
+"Mon, Dec 18",vs. DAL,28,3,8,0,1,2,2,9,7,2,2,0,2,8,24,Nikola Jokic,DEN
+"Sat, Dec 16",vs. OKC,37,8,15,1,2,7,8,6,12,3,2,0,3,24,42,Nikola Jokic,DEN
+"Thu, Dec 14",vs. BKN,30,8,12,0,2,10,12,14,10,1,1,0,2,26,50,Nikola Jokic,DEN
+"Tue, Dec 12",@ CHI,16,2,5,0,0,0,0,9,6,0,0,0,1,4,19,Nikola Jokic,DEN
+"Mon, Dec 11",@ ATL,36,9,13,1,1,6,7,8,9,1,3,2,3,25,42,Nikola Jokic,DEN
+"Fri, Dec 8",vs. HOU,34,9,26,1,2,4,7,16,5,3,0,2,5,23,44,Nikola Jokic,DEN
+"Wed, Dec 6",@ LAC,37,9,32,2,7,2,2,15,10,4,1,0,2,22,47,Nikola Jokic,DEN
+"Sat, Dec 2",@ SAC,38,13,23,1,4,9,12,13,14,0,2,1,3,36,63,Nikola Jokic,DEN
+"Fri, Dec 1",@ PHO,35,9,18,0,3,3,6,5,16,3,1,2,4,21,42,Nikola Jokic,DEN
+"Wed, Nov 29",vs. HOU,33,12,19,1,2,7,8,10,15,0,1,0,2,32,57,Nikola Jokic,DEN
+"Sun, Nov 26",vs. SAS,34,17,29,0,0,5,5,11,9,5,1,0,3,39,59,Nikola Jokic,DEN
+"Fri, Nov 24",@ HOU,42,14,31,3,8,7,11,19,8,3,3,0,3,38,65,Nikola Jokic,DEN
+"Wed, Nov 22",@ ORL,36,12,18,1,2,5,5,13,12,1,3,2,4,30,55,Nikola Jokic,DEN
+"Mon, Nov 20",@ DET,15,4,8,1,4,0,0,5,5,1,0,1,1,9,19,Nikola Jokic,DEN
+"Sun, Nov 19",@ CLE,28,8,13,0,0,2,5,10,7,3,1,1,5,18,35,Nikola Jokic,DEN
+"Fri, Nov 17",@ NOR,36,10,20,1,8,5,5,16,18,4,1,1,2,26,60,Nikola Jokic,DEN
+"Tue, Nov 14",vs. LAC,36,8,23,2,7,14,14,16,9,4,1,0,2,32,57,Nikola Jokic,DEN
+"Sun, Nov 12",@ HOU,38,13,26,2,6,8,8,21,11,3,0,1,3,36,68,Nikola Jokic,DEN
+"Wed, Nov 8",vs. GSW,37,14,25,1,8,6,10,13,5,3,3,1,3,35,53,Nikola Jokic,DEN
+"Mon, Nov 6",vs. NOR,36,15,24,2,6,3,5,14,12,2,1,1,1,35,61,Nikola Jokic,DEN
+"Sat, Nov 4",vs. CHI,33,9,16,1,3,9,9,16,9,1,3,0,3,28,53,Nikola Jokic,DEN
+"Fri, Nov 3",vs. DAL,36,14,16,2,2,3,5,14,9,4,1,1,3,33,56,Nikola Jokic,DEN
+"Wed, Nov 1",@ MIN,30,11,23,1,6,2,2,10,3,5,0,0,0,25,38,Nikola Jokic,DEN
+"Mon, Oct 30",vs. UTH,35,12,16,1,3,2,5,10,11,1,0,2,3,27,48,Nikola Jokic,DEN
+"Sun, Oct 29",@ OKC,30,12,16,1,2,3,3,14,5,4,0,0,3,28,47,Nikola Jokic,DEN
+"Fri, Oct 27",@ MEM,35,8,14,1,4,5,6,12,7,9,1,1,1,22,41,Nikola Jokic,DEN
+"Tue, Oct 24",vs. LAL,36,12,22,3,5,2,4,13,11,2,1,1,2,29,53,Nikola Jokic,DEN
+"Mon, Dec 18",vs. DAL,21,5,10,2,4,0,0,3,2,0,1,0,1,12,17,Julian Strawther,DEN
+"Sat, Dec 16",vs. OKC,15,0,3,0,2,0,0,1,1,0,0,0,0,0,2,Julian Strawther,DEN
+"Thu, Dec 14",vs. BKN,20,3,11,2,6,0,0,4,1,0,0,0,0,8,13,Julian Strawther,DEN
+"Tue, Dec 12",@ CHI,23,4,9,2,5,6,8,6,3,2,1,0,1,16,25,Julian Strawther,DEN
+"Mon, Dec 11",@ ATL,28,8,16,6,11,0,0,1,2,2,5,0,1,22,25,Julian Strawther,DEN
+"Fri, Dec 8",vs. HOU,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Julian Strawther,DEN
+"Wed, Dec 6",@ LAC,13,0,2,0,2,0,0,1,2,1,0,0,4,0,3,Julian Strawther,DEN
+"Sat, Dec 2",@ SAC,12,1,3,0,2,1,2,1,2,0,0,0,0,3,6,Julian Strawther,DEN
+"Fri, Dec 1",@ PHO,18,4,9,3,8,0,0,3,0,0,0,1,2,11,14,Julian Strawther,DEN
+"Wed, Nov 29",vs. HOU,13,0,4,0,2,0,0,1,1,0,0,0,1,0,2,Julian Strawther,DEN
+"Mon, Nov 27",@ LAC,19,3,8,3,5,0,0,3,1,1,0,1,1,9,13,Julian Strawther,DEN
+"Sun, Nov 26",vs. SAS,19,4,8,2,4,0,0,1,4,1,3,0,4,10,15,Julian Strawther,DEN
+"Fri, Nov 24",@ HOU,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Julian Strawther,DEN
+"Wed, Nov 22",@ ORL,17,2,6,1,4,2,2,2,2,0,0,0,5,7,11,Julian Strawther,DEN
+"Mon, Nov 20",@ DET,15,1,5,0,3,2,2,2,2,0,0,0,1,4,8,Julian Strawther,DEN
+"Sun, Nov 19",@ CLE,20,2,6,1,3,2,2,2,1,0,0,1,4,7,10,Julian Strawther,DEN
+"Fri, Nov 17",@ NOR,9,1,4,0,3,0,0,0,1,0,1,0,2,2,3,Julian Strawther,DEN
+"Sun, Nov 12",@ HOU,8,0,2,0,2,0,0,0,1,0,0,0,2,0,1,Julian Strawther,DEN
+"Wed, Nov 8",vs. GSW,8,0,1,0,1,0,0,1,0,0,0,0,2,0,1,Julian Strawther,DEN
+"Mon, Nov 6",vs. NOR,19,8,13,5,9,0,1,2,1,1,0,0,1,21,24,Julian Strawther,DEN
+"Sat, Nov 4",vs. CHI,9,1,2,1,2,0,0,1,1,0,0,0,0,3,5,Julian Strawther,DEN
+"Wed, Nov 1",@ MIN,16,2,7,1,6,0,1,0,0,0,1,2,0,5,5,Julian Strawther,DEN
+"Mon, Oct 30",vs. UTH,6,2,4,0,2,0,0,2,0,0,0,0,0,4,6,Julian Strawther,DEN
+"Sun, Oct 29",@ OKC,8,3,5,2,3,0,0,1,1,0,0,0,0,8,10,Julian Strawther,DEN
+"Fri, Oct 27",@ MEM,5,0,2,0,0,0,0,0,0,0,0,0,2,0,0,Julian Strawther,DEN
+"Mon, Dec 18",vs. DAL,24,3,5,2,3,2,4,7,3,0,1,1,1,10,20,Peyton Watson,DEN
+"Sat, Dec 16",vs. OKC,16,5,8,2,2,1,2,4,0,1,0,0,5,13,17,Peyton Watson,DEN
+"Thu, Dec 14",vs. BKN,24,7,10,2,5,2,3,7,5,1,1,1,3,18,30,Peyton Watson,DEN
+"Tue, Dec 12",@ CHI,23,1,6,0,0,2,2,1,1,1,1,1,1,4,6,Peyton Watson,DEN
+"Mon, Dec 11",@ ATL,20,1,2,0,0,1,2,2,0,0,0,1,2,3,5,Peyton Watson,DEN
+"Fri, Dec 8",vs. HOU,26,4,9,0,1,5,5,4,2,1,0,0,3,13,19,Peyton Watson,DEN
+"Wed, Dec 6",@ LAC,16,0,3,0,2,2,2,3,3,1,1,1,1,2,8,Peyton Watson,DEN
+"Sat, Dec 2",@ SAC,14,1,1,0,0,2,2,1,1,0,1,2,2,4,6,Peyton Watson,DEN
+"Fri, Dec 1",@ PHO,25,4,9,0,2,0,0,3,0,0,0,0,5,8,11,Peyton Watson,DEN
+"Mon, Nov 27",@ LAC,24,4,7,0,0,0,2,3,1,1,2,1,0,8,12,Peyton Watson,DEN
+"Sun, Nov 26",vs. SAS,22,2,6,0,2,0,0,4,2,1,1,2,1,4,10,Peyton Watson,DEN
+"Fri, Nov 24",@ HOU,6,0,3,0,1,0,0,1,0,0,0,1,1,0,1,Peyton Watson,DEN
+"Wed, Nov 22",@ ORL,10,1,1,0,0,0,2,1,0,0,0,0,1,2,3,Peyton Watson,DEN
+"Mon, Nov 20",@ DET,13,1,2,0,0,2,2,1,2,1,0,2,1,4,7,Peyton Watson,DEN
+"Fri, Nov 17",@ NOR,11,1,3,0,1,1,2,3,1,2,0,0,2,3,7,Peyton Watson,DEN
+"Tue, Nov 14",vs. LAC,11,2,2,0,0,0,0,0,0,0,0,0,1,4,4,Peyton Watson,DEN
+"Sun, Nov 12",@ HOU,7,0,2,0,0,0,0,0,1,0,0,1,2,0,1,Peyton Watson,DEN
+"Wed, Nov 8",vs. GSW,11,1,2,0,0,0,0,0,0,0,0,0,0,2,2,Peyton Watson,DEN
+"Mon, Nov 6",vs. NOR,19,2,3,0,0,0,0,3,1,0,2,2,0,4,8,Peyton Watson,DEN
+"Sat, Nov 4",vs. CHI,18,1,3,0,1,0,0,2,2,2,2,0,2,2,6,Peyton Watson,DEN
+"Fri, Nov 3",vs. DAL,13,1,4,0,1,1,2,3,1,0,0,2,2,3,7,Peyton Watson,DEN
+"Wed, Nov 1",@ MIN,16,2,3,0,1,0,0,2,1,2,0,0,2,4,7,Peyton Watson,DEN
+"Mon, Oct 30",vs. UTH,15,2,4,0,1,1,2,2,0,0,0,1,0,5,7,Peyton Watson,DEN
+"Sun, Oct 29",@ OKC,22,8,11,1,3,0,0,4,1,0,1,1,1,17,22,Peyton Watson,DEN
+"Fri, Oct 27",@ MEM,18,3,4,2,3,1,2,3,0,1,1,3,3,9,12,Peyton Watson,DEN
+"Tue, Oct 24",vs. LAL,11,1,3,1,3,0,0,0,0,1,0,1,1,3,3,Peyton Watson,DEN
+"Thu, Dec 14",vs. BKN,2,1,1,1,1,0,0,0,1,0,0,0,0,3,4,Jalen Pickett,DEN
+"Wed, Nov 29",vs. HOU,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Jalen Pickett,DEN
+"Sun, Nov 26",vs. SAS,2,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Jalen Pickett,DEN
+"Wed, Nov 22",@ ORL,8,0,4,0,3,0,0,1,0,1,0,0,0,0,1,Jalen Pickett,DEN
+"Mon, Nov 20",@ DET,7,1,1,0,0,0,0,2,1,0,1,0,1,2,5,Jalen Pickett,DEN
+"Sun, Nov 19",@ CLE,19,2,4,2,3,2,2,2,3,1,1,0,0,8,13,Jalen Pickett,DEN
+"Fri, Nov 17",@ NOR,10,0,2,0,2,0,0,1,1,1,0,0,2,0,2,Jalen Pickett,DEN
+"Tue, Nov 14",vs. LAC,17,2,3,1,2,0,0,2,2,2,1,0,2,5,9,Jalen Pickett,DEN
+"Mon, Nov 6",vs. NOR,1,1,1,1,1,0,0,0,0,0,0,0,0,3,3,Jalen Pickett,DEN
+"Sat, Nov 4",vs. CHI,2,1,1,1,1,0,0,0,0,0,0,0,0,3,3,Jalen Pickett,DEN
+"Wed, Nov 1",@ MIN,5,1,2,0,1,0,0,2,0,0,0,0,1,2,4,Jalen Pickett,DEN
+"Tue, Oct 24",vs. LAL,1,1,1,0,0,0,0,0,0,0,0,0,0,2,2,Jalen Pickett,DEN
+"Mon, Dec 18",@ ATL,39,9,17,5,9,2,3,2,2,2,0,0,3,25,29,Bojan Bogdanovic,DET
+"Sat, Dec 16",@ MIL,31,8,15,2,6,6,6,2,2,2,0,0,3,24,28,Bojan Bogdanovic,DET
+"Fri, Dec 15",@ PHI,26,6,12,2,5,3,4,3,2,3,0,0,1,17,22,Bojan Bogdanovic,DET
+"Wed, Dec 13",vs. PHI,33,11,19,5,9,6,8,1,2,1,1,0,1,33,36,Bojan Bogdanovic,DET
+"Mon, Dec 11",vs. IND,34,5,14,3,9,4,7,1,2,2,3,0,2,17,20,Bojan Bogdanovic,DET
+"Fri, Dec 8",@ ORL,29,4,10,1,3,0,1,3,1,2,1,0,1,9,13,Bojan Bogdanovic,DET
+"Wed, Dec 6",vs. MEM,32,8,15,4,8,2,2,4,7,2,3,0,0,22,33,Bojan Bogdanovic,DET
+"Sat, Dec 2",vs. CLE,27,7,15,3,10,5,6,2,2,1,1,0,1,22,26,Bojan Bogdanovic,DET
 "Mon, Dec 18",@ ATL,44,16,24,3,5,8,9,5,7,3,3,1,1,43,55,Cade Cunningham,DET
 "Sat, Dec 16",@ MIL,31,10,17,0,2,5,6,1,6,2,1,0,3,25,32,Cade Cunningham,DET
 "Fri, Dec 15",@ PHI,24,2,9,0,2,0,0,3,2,3,1,1,3,4,9,Cade Cunningham,DET
@@ -2163,6 +2134,101 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sat, Oct 28",vs. CHI,40,9,19,1,4,6,7,4,10,6,0,0,3,25,39,Cade Cunningham,DET
 "Fri, Oct 27",@ CHA,24,4,13,2,5,2,2,2,6,5,1,0,6,12,20,Cade Cunningham,DET
 "Wed, Oct 25",@ MIA,36,13,27,4,9,0,0,3,9,3,1,1,5,30,42,Cade Cunningham,DET
+"Mon, Dec 18",@ ATL,19,1,5,0,1,0,0,8,3,2,1,0,2,2,13,Ausar Thompson,DET
+"Sat, Dec 16",@ MIL,24,3,6,1,3,0,0,6,1,0,0,0,4,7,14,Ausar Thompson,DET
+"Fri, Dec 15",@ PHI,22,3,5,0,0,2,2,3,1,1,0,1,2,8,12,Ausar Thompson,DET
+"Wed, Dec 13",vs. PHI,30,5,7,0,1,0,0,8,3,0,1,0,3,10,21,Ausar Thompson,DET
+"Mon, Dec 11",vs. IND,33,8,10,1,2,3,5,6,2,1,1,1,4,20,28,Ausar Thompson,DET
+"Fri, Dec 8",@ ORL,20,2,12,0,5,1,2,2,2,0,1,0,3,5,9,Ausar Thompson,DET
+"Wed, Dec 6",vs. MEM,16,2,6,1,4,0,0,4,0,0,0,0,0,5,9,Ausar Thompson,DET
+"Sat, Dec 2",vs. CLE,16,2,6,0,2,0,0,8,0,2,0,0,5,4,12,Ausar Thompson,DET
+"Thu, Nov 30",@ NYK,13,1,2,1,1,0,0,7,0,3,0,0,5,3,10,Ausar Thompson,DET
+"Wed, Nov 29",vs. LAL,21,6,11,0,3,0,0,6,0,0,1,0,4,12,18,Ausar Thompson,DET
+"Mon, Nov 27",vs. WAS,28,8,14,0,2,0,0,4,2,1,2,1,4,16,22,Ausar Thompson,DET
+"Fri, Nov 24",@ IND,30,4,5,0,0,0,0,6,3,1,0,2,2,8,17,Ausar Thompson,DET
+"Mon, Nov 20",vs. DEN,24,4,10,0,0,0,0,7,0,0,0,2,5,8,15,Ausar Thompson,DET
+"Sun, Nov 19",@ TOR,30,3,5,0,1,3,4,10,2,5,1,1,6,9,21,Ausar Thompson,DET
+"Fri, Nov 17",@ CLE,17,4,8,0,1,1,3,10,2,5,0,0,4,9,21,Ausar Thompson,DET
+"Tue, Nov 14",vs. ATL,35,9,12,0,1,3,6,8,5,2,3,2,3,21,34,Ausar Thompson,DET
+"Sun, Nov 12",@ CHI,32,2,9,0,1,5,7,16,2,3,0,2,1,9,27,Ausar Thompson,DET
+"Fri, Nov 10",vs. PHI,32,6,11,0,1,0,1,13,4,2,1,3,4,12,29,Ausar Thompson,DET
+"Wed, Nov 8",@ MIL,37,3,8,0,1,0,0,15,3,2,0,1,4,6,24,Ausar Thompson,DET
+"Mon, Nov 6",vs. GSW,38,6,10,1,4,3,3,7,2,1,4,0,2,16,25,Ausar Thompson,DET
+"Sun, Nov 5",vs. PHO,38,6,14,2,3,0,0,9,4,1,4,4,3,14,27,Ausar Thompson,DET
+"Thu, Nov 2",@ NOR,25,5,17,0,6,6,7,7,5,3,0,1,5,16,28,Ausar Thompson,DET
+"Wed, Nov 1",vs. POR,30,8,14,0,3,0,0,7,2,2,2,0,4,16,25,Ausar Thompson,DET
+"Mon, Oct 30",@ OKC,31,6,14,0,2,3,4,10,3,3,1,3,4,15,28,Ausar Thompson,DET
+"Sat, Oct 28",vs. CHI,31,3,7,0,2,3,4,12,5,2,1,1,3,9,26,Ausar Thompson,DET
+"Fri, Oct 27",@ CHA,30,2,9,0,1,2,2,13,6,3,0,1,5,6,25,Ausar Thompson,DET
+"Wed, Oct 25",@ MIA,27,1,7,1,2,1,2,7,3,2,0,5,2,4,14,Ausar Thompson,DET
+"Mon, Dec 18",@ ATL,23,2,11,0,2,2,2,2,2,0,1,0,3,6,10,Alec Burks,DET
+"Sat, Dec 16",@ MIL,4,0,2,0,2,1,2,1,0,0,0,0,0,1,2,Alec Burks,DET
+"Fri, Dec 15",@ PHI,17,2,8,0,4,0,0,2,0,0,0,0,1,4,6,Alec Burks,DET
+"Wed, Dec 13",vs. PHI,13,1,7,1,3,0,0,3,0,0,1,0,1,3,6,Alec Burks,DET
+"Mon, Dec 11",vs. IND,13,4,6,2,3,4,4,0,0,1,1,0,0,14,14,Alec Burks,DET
+"Fri, Dec 8",@ ORL,13,4,7,2,3,4,4,3,0,1,0,0,1,14,17,Alec Burks,DET
+"Wed, Dec 6",vs. MEM,17,1,6,1,5,0,0,2,2,1,0,0,1,3,7,Alec Burks,DET
+"Thu, Nov 30",@ NYK,11,0,3,0,3,1,1,0,1,0,0,0,0,1,2,Alec Burks,DET
+"Wed, Nov 29",vs. LAL,10,2,7,1,3,1,1,1,0,0,0,0,1,6,7,Alec Burks,DET
+"Mon, Nov 27",vs. WAS,13,2,8,0,5,4,4,0,1,0,0,0,1,8,9,Alec Burks,DET
+"Fri, Nov 24",@ IND,14,2,6,2,3,0,0,2,1,2,1,1,1,6,9,Alec Burks,DET
+"Mon, Nov 20",vs. DEN,17,1,5,0,4,1,2,3,2,1,1,0,1,3,8,Alec Burks,DET
+"Sun, Nov 19",@ TOR,22,3,9,1,3,7,8,4,1,1,0,0,3,14,19,Alec Burks,DET
+"Fri, Nov 17",@ CLE,24,4,14,2,9,0,0,3,1,0,1,0,3,10,14,Alec Burks,DET
+"Tue, Nov 14",vs. ATL,23,4,12,4,9,4,4,2,5,1,1,0,3,16,23,Alec Burks,DET
+"Sun, Nov 12",@ CHI,21,3,7,2,6,8,9,3,4,0,0,0,2,16,23,Alec Burks,DET
+"Mon, Oct 30",@ OKC,21,4,9,3,4,0,0,2,7,0,0,0,3,11,20,Alec Burks,DET
+"Sat, Oct 28",vs. CHI,26,6,12,6,10,0,1,2,0,0,0,1,1,18,20,Alec Burks,DET
+"Fri, Oct 27",@ CHA,31,5,10,3,7,11,12,4,2,0,1,1,1,24,30,Alec Burks,DET
+"Wed, Oct 25",@ MIA,25,2,8,2,5,1,2,5,0,0,0,1,1,7,12,Alec Burks,DET
+"Fri, Nov 10",vs. PHI,7,2,3,1,2,0,0,0,0,1,0,0,1,5,5,Jared Rhoden,DET
+"Wed, Nov 8",@ MIL,13,3,4,0,1,0,0,1,3,0,0,0,2,6,10,Jared Rhoden,DET
+"Mon, Nov 6",vs. GSW,5,0,2,0,1,2,2,2,0,1,0,0,1,2,4,Jared Rhoden,DET
+"Sun, Nov 5",vs. PHO,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Jared Rhoden,DET
+"Mon, Oct 30",@ OKC,2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Jared Rhoden,DET
+"Mon, Dec 18",@ ATL,12,0,1,0,1,1,2,2,2,0,1,1,1,1,5,Joe Harris,DET
+"Sat, Dec 16",@ MIL,7,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Joe Harris,DET
+"Fri, Dec 15",@ PHI,11,1,3,1,3,0,0,1,1,0,0,0,1,3,5,Joe Harris,DET
+"Fri, Dec 8",@ ORL,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Joe Harris,DET
+"Sun, Nov 5",vs. PHO,13,0,2,0,2,0,0,1,1,0,0,0,1,0,2,Joe Harris,DET
+"Thu, Nov 2",@ NOR,24,3,8,2,6,0,0,3,1,1,1,0,4,8,12,Joe Harris,DET
+"Wed, Nov 1",vs. POR,17,4,7,3,6,0,0,2,1,0,0,0,1,11,14,Joe Harris,DET
+"Mon, Oct 30",@ OKC,10,0,1,0,0,0,0,0,1,1,0,0,2,0,1,Joe Harris,DET
+"Sat, Oct 28",vs. CHI,11,1,2,1,2,0,0,1,1,1,0,0,0,3,5,Joe Harris,DET
+"Fri, Oct 27",@ CHA,11,1,3,0,1,0,0,0,1,0,1,0,2,2,3,Joe Harris,DET
+"Wed, Oct 25",@ MIA,12,0,2,0,2,0,0,0,0,0,0,0,2,0,0,Joe Harris,DET
+"Thu, Nov 30",@ NYK,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stanley Umude,DET
+"Wed, Nov 29",vs. LAL,20,2,9,2,5,2,2,5,2,3,1,0,5,8,15,Stanley Umude,DET
+"Mon, Nov 27",vs. WAS,2,0,1,0,1,0,0,1,0,1,0,0,2,0,1,Stanley Umude,DET
+"Fri, Nov 24",@ IND,8,0,1,0,0,0,0,2,0,1,1,2,3,0,2,Stanley Umude,DET
+"Mon, Nov 20",vs. DEN,18,4,8,3,5,0,0,1,2,1,0,0,1,11,14,Stanley Umude,DET
+"Sun, Nov 19",@ TOR,25,5,6,2,3,7,8,4,3,1,0,1,2,19,26,Stanley Umude,DET
+"Fri, Nov 17",@ CLE,17,2,3,2,3,4,4,6,0,0,1,1,1,10,16,Stanley Umude,DET
+"Fri, Nov 10",vs. PHI,17,1,2,1,2,7,8,4,1,0,0,0,2,10,15,Stanley Umude,DET
+"Wed, Nov 8",@ MIL,9,1,2,0,1,0,0,0,0,2,0,1,1,2,2,Stanley Umude,DET
+"Mon, Nov 6",vs. GSW,16,5,8,4,5,1,1,3,0,1,0,0,3,15,18,Stanley Umude,DET
+"Sun, Nov 5",vs. PHO,4,0,2,0,1,0,0,0,0,0,0,0,1,0,0,Stanley Umude,DET
+"Thu, Nov 2",@ NOR,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Stanley Umude,DET
+"Wed, Nov 1",vs. POR,12,0,1,0,0,0,0,2,0,0,0,0,3,0,2,Stanley Umude,DET
+"Mon, Oct 30",@ OKC,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Stanley Umude,DET
+"Sat, Oct 28",vs. CHI,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stanley Umude,DET
+"Mon, Dec 18",@ ATL,25,5,5,0,0,0,2,7,2,2,0,0,2,10,19,James Wiseman,DET
+"Sat, Dec 16",@ MIL,26,7,9,0,0,3,3,6,5,0,1,0,4,17,28,James Wiseman,DET
+"Fri, Dec 15",@ PHI,28,9,12,0,0,2,2,13,1,2,0,1,2,20,34,James Wiseman,DET
+"Wed, Dec 13",vs. PHI,16,5,7,0,0,0,0,3,0,1,1,1,6,10,13,James Wiseman,DET
+"Mon, Dec 11",vs. IND,13,1,1,0,0,2,2,4,1,1,1,3,3,4,9,James Wiseman,DET
+"Fri, Dec 8",@ ORL,16,0,0,0,0,2,4,5,0,1,0,0,2,2,7,James Wiseman,DET
+"Wed, Dec 6",vs. MEM,8,2,3,0,0,0,0,1,1,1,0,2,2,4,6,James Wiseman,DET
+"Wed, Nov 29",vs. LAL,12,2,2,0,0,0,0,5,0,1,0,0,2,4,9,James Wiseman,DET
+"Mon, Nov 27",vs. WAS,9,3,4,0,0,2,4,4,0,1,0,0,0,8,12,James Wiseman,DET
+"Mon, Nov 20",vs. DEN,10,0,1,0,0,0,0,3,0,1,0,0,2,0,3,James Wiseman,DET
+"Sun, Nov 19",@ TOR,24,6,8,0,0,3,5,3,1,2,0,1,4,15,19,James Wiseman,DET
+"Fri, Nov 17",@ CLE,4,0,0,0,0,0,0,2,0,0,0,0,0,0,2,James Wiseman,DET
+"Tue, Nov 14",vs. ATL,14,5,6,0,0,1,2,4,1,0,0,0,2,11,16,James Wiseman,DET
+"Sun, Nov 12",@ CHI,14,3,6,0,1,0,0,2,0,2,1,2,3,6,8,James Wiseman,DET
+"Fri, Nov 10",vs. PHI,7,3,3,0,0,0,0,4,0,0,0,0,1,6,10,James Wiseman,DET
+"Mon, Nov 6",vs. GSW,11,0,3,0,0,0,0,3,0,0,0,0,0,0,3,James Wiseman,DET
+"Wed, Nov 1",vs. POR,6,2,4,0,0,0,0,2,1,1,0,0,4,4,7,James Wiseman,DET
 "Mon, Dec 18",@ ATL,29,6,13,0,2,3,5,8,4,2,0,0,6,15,27,Jaden Ivey,DET
 "Sat, Dec 16",@ MIL,28,5,17,2,6,1,2,4,2,1,1,1,0,13,19,Jaden Ivey,DET
 "Fri, Dec 15",@ PHI,29,4,12,0,2,5,5,4,4,5,0,0,3,13,21,Jaden Ivey,DET
@@ -2225,21 +2291,6 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sat, Oct 28",vs. CHI,6,1,2,0,1,0,0,3,1,0,0,0,0,2,6,Marcus Sasser,DET
 "Fri, Oct 27",@ CHA,8,0,1,0,1,0,0,1,1,1,0,0,1,0,2,Marcus Sasser,DET
 "Wed, Oct 25",@ MIA,10,3,4,2,3,0,0,2,1,1,0,0,0,8,11,Marcus Sasser,DET
-"Thu, Nov 30",@ NYK,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stanley Umude,DET
-"Wed, Nov 29",vs. LAL,20,2,9,2,5,2,2,5,2,3,1,0,5,8,15,Stanley Umude,DET
-"Mon, Nov 27",vs. WAS,2,0,1,0,1,0,0,1,0,1,0,0,2,0,1,Stanley Umude,DET
-"Fri, Nov 24",@ IND,8,0,1,0,0,0,0,2,0,1,1,2,3,0,2,Stanley Umude,DET
-"Mon, Nov 20",vs. DEN,18,4,8,3,5,0,0,1,2,1,0,0,1,11,14,Stanley Umude,DET
-"Sun, Nov 19",@ TOR,25,5,6,2,3,7,8,4,3,1,0,1,2,19,26,Stanley Umude,DET
-"Fri, Nov 17",@ CLE,17,2,3,2,3,4,4,6,0,0,1,1,1,10,16,Stanley Umude,DET
-"Fri, Nov 10",vs. PHI,17,1,2,1,2,7,8,4,1,0,0,0,2,10,15,Stanley Umude,DET
-"Wed, Nov 8",@ MIL,9,1,2,0,1,0,0,0,0,2,0,1,1,2,2,Stanley Umude,DET
-"Mon, Nov 6",vs. GSW,16,5,8,4,5,1,1,3,0,1,0,0,3,15,18,Stanley Umude,DET
-"Sun, Nov 5",vs. PHO,4,0,2,0,1,0,0,0,0,0,0,0,1,0,0,Stanley Umude,DET
-"Thu, Nov 2",@ NOR,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Stanley Umude,DET
-"Wed, Nov 1",vs. POR,12,0,1,0,0,0,0,2,0,0,0,0,3,0,2,Stanley Umude,DET
-"Mon, Oct 30",@ OKC,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Stanley Umude,DET
-"Sat, Oct 28",vs. CHI,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Stanley Umude,DET
 "Sat, Dec 16",@ MIL,9,0,2,0,1,0,0,0,0,0,1,0,2,0,0,Kevin Knox II,DET
 "Wed, Dec 13",vs. PHI,10,2,5,1,4,2,2,2,2,2,0,1,0,7,11,Kevin Knox II,DET
 "Mon, Dec 11",vs. IND,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kevin Knox II,DET
@@ -2250,47 +2301,6 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Fri, Nov 17",@ CLE,31,5,10,1,4,0,0,10,1,0,2,1,3,11,22,Kevin Knox II,DET
 "Tue, Nov 14",vs. ATL,29,5,8,2,4,0,0,4,1,2,0,0,3,12,17,Kevin Knox II,DET
 "Sun, Nov 12",@ CHI,24,7,8,4,5,0,0,3,1,0,1,0,2,18,22,Kevin Knox II,DET
-"Mon, Dec 18",@ ATL,19,1,5,0,1,0,0,8,3,2,1,0,2,2,13,Ausar Thompson,DET
-"Sat, Dec 16",@ MIL,24,3,6,1,3,0,0,6,1,0,0,0,4,7,14,Ausar Thompson,DET
-"Fri, Dec 15",@ PHI,22,3,5,0,0,2,2,3,1,1,0,1,2,8,12,Ausar Thompson,DET
-"Wed, Dec 13",vs. PHI,30,5,7,0,1,0,0,8,3,0,1,0,3,10,21,Ausar Thompson,DET
-"Mon, Dec 11",vs. IND,33,8,10,1,2,3,5,6,2,1,1,1,4,20,28,Ausar Thompson,DET
-"Fri, Dec 8",@ ORL,20,2,12,0,5,1,2,2,2,0,1,0,3,5,9,Ausar Thompson,DET
-"Wed, Dec 6",vs. MEM,16,2,6,1,4,0,0,4,0,0,0,0,0,5,9,Ausar Thompson,DET
-"Sat, Dec 2",vs. CLE,16,2,6,0,2,0,0,8,0,2,0,0,5,4,12,Ausar Thompson,DET
-"Thu, Nov 30",@ NYK,13,1,2,1,1,0,0,7,0,3,0,0,5,3,10,Ausar Thompson,DET
-"Wed, Nov 29",vs. LAL,21,6,11,0,3,0,0,6,0,0,1,0,4,12,18,Ausar Thompson,DET
-"Mon, Nov 27",vs. WAS,28,8,14,0,2,0,0,4,2,1,2,1,4,16,22,Ausar Thompson,DET
-"Fri, Nov 24",@ IND,30,4,5,0,0,0,0,6,3,1,0,2,2,8,17,Ausar Thompson,DET
-"Mon, Nov 20",vs. DEN,24,4,10,0,0,0,0,7,0,0,0,2,5,8,15,Ausar Thompson,DET
-"Sun, Nov 19",@ TOR,30,3,5,0,1,3,4,10,2,5,1,1,6,9,21,Ausar Thompson,DET
-"Fri, Nov 17",@ CLE,17,4,8,0,1,1,3,10,2,5,0,0,4,9,21,Ausar Thompson,DET
-"Tue, Nov 14",vs. ATL,35,9,12,0,1,3,6,8,5,2,3,2,3,21,34,Ausar Thompson,DET
-"Sun, Nov 12",@ CHI,32,2,9,0,1,5,7,16,2,3,0,2,1,9,27,Ausar Thompson,DET
-"Fri, Nov 10",vs. PHI,32,6,11,0,1,0,1,13,4,2,1,3,4,12,29,Ausar Thompson,DET
-"Wed, Nov 8",@ MIL,37,3,8,0,1,0,0,15,3,2,0,1,4,6,24,Ausar Thompson,DET
-"Mon, Nov 6",vs. GSW,38,6,10,1,4,3,3,7,2,1,4,0,2,16,25,Ausar Thompson,DET
-"Sun, Nov 5",vs. PHO,38,6,14,2,3,0,0,9,4,1,4,4,3,14,27,Ausar Thompson,DET
-"Thu, Nov 2",@ NOR,25,5,17,0,6,6,7,7,5,3,0,1,5,16,28,Ausar Thompson,DET
-"Wed, Nov 1",vs. POR,30,8,14,0,3,0,0,7,2,2,2,0,4,16,25,Ausar Thompson,DET
-"Mon, Oct 30",@ OKC,31,6,14,0,2,3,4,10,3,3,1,3,4,15,28,Ausar Thompson,DET
-"Sat, Oct 28",vs. CHI,31,3,7,0,2,3,4,12,5,2,1,1,3,9,26,Ausar Thompson,DET
-"Fri, Oct 27",@ CHA,30,2,9,0,1,2,2,13,6,3,0,1,5,6,25,Ausar Thompson,DET
-"Wed, Oct 25",@ MIA,27,1,7,1,2,1,2,7,3,2,0,5,2,4,14,Ausar Thompson,DET
-"Wed, Dec 6",vs. MEM,30,8,12,0,0,1,1,11,0,2,0,1,1,17,28,Jalen Duren,DET
-"Sat, Dec 2",vs. CLE,30,8,8,0,0,1,6,11,1,2,1,2,3,17,29,Jalen Duren,DET
-"Thu, Nov 30",@ NYK,34,5,7,0,0,0,0,12,2,2,0,0,3,10,24,Jalen Duren,DET
-"Wed, Nov 29",vs. LAL,18,3,8,0,0,0,0,7,0,2,0,1,3,6,13,Jalen Duren,DET
-"Mon, Nov 27",vs. WAS,33,5,8,0,0,2,5,14,3,6,1,5,5,12,29,Jalen Duren,DET
-"Fri, Nov 24",@ IND,29,5,10,0,1,3,4,13,4,2,1,1,5,13,30,Jalen Duren,DET
-"Fri, Nov 10",vs. PHI,23,2,5,0,0,0,0,4,3,3,0,1,1,4,11,Jalen Duren,DET
-"Wed, Nov 8",@ MIL,28,5,10,0,1,1,1,12,5,2,0,0,5,11,28,Jalen Duren,DET
-"Sun, Nov 5",vs. PHO,31,6,10,0,0,0,0,11,3,5,2,0,4,12,26,Jalen Duren,DET
-"Thu, Nov 2",@ NOR,25,5,8,0,0,2,2,5,1,1,0,0,5,12,18,Jalen Duren,DET
-"Mon, Oct 30",@ OKC,23,4,11,0,0,0,1,7,1,1,1,0,3,8,16,Jalen Duren,DET
-"Sat, Oct 28",vs. CHI,33,9,11,0,0,5,5,15,5,1,1,2,3,23,43,Jalen Duren,DET
-"Fri, Oct 27",@ CHA,35,7,8,0,0,0,0,17,3,5,1,2,3,14,34,Jalen Duren,DET
-"Wed, Oct 25",@ MIA,32,8,11,0,0,1,3,14,4,4,0,4,4,17,35,Jalen Duren,DET
 "Mon, Dec 18",@ ATL,23,7,12,0,0,3,4,1,0,2,0,0,2,17,18,Marvin Bagley III,DET
 "Sat, Dec 16",@ MIL,22,6,11,0,0,0,1,7,1,0,1,2,3,12,20,Marvin Bagley III,DET
 "Fri, Dec 8",@ ORL,23,4,7,0,0,1,2,5,0,4,0,0,1,9,14,Marvin Bagley III,DET
@@ -2363,36 +2373,20 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sat, Oct 28",vs. CHI,34,6,14,0,3,2,3,9,0,2,0,0,4,14,23,Isaiah Stewart,DET
 "Fri, Oct 27",@ CHA,36,6,11,2,5,1,2,7,1,4,0,1,3,15,23,Isaiah Stewart,DET
 "Wed, Oct 25",@ MIA,35,6,11,2,3,0,0,14,2,1,0,0,3,14,30,Isaiah Stewart,DET
-"Mon, Dec 18",@ ATL,39,9,17,5,9,2,3,2,2,2,0,0,3,25,29,Bojan Bogdanovic,DET
-"Sat, Dec 16",@ MIL,31,8,15,2,6,6,6,2,2,2,0,0,3,24,28,Bojan Bogdanovic,DET
-"Fri, Dec 15",@ PHI,26,6,12,2,5,3,4,3,2,3,0,0,1,17,22,Bojan Bogdanovic,DET
-"Wed, Dec 13",vs. PHI,33,11,19,5,9,6,8,1,2,1,1,0,1,33,36,Bojan Bogdanovic,DET
-"Mon, Dec 11",vs. IND,34,5,14,3,9,4,7,1,2,2,3,0,2,17,20,Bojan Bogdanovic,DET
-"Fri, Dec 8",@ ORL,29,4,10,1,3,0,1,3,1,2,1,0,1,9,13,Bojan Bogdanovic,DET
-"Wed, Dec 6",vs. MEM,32,8,15,4,8,2,2,4,7,2,3,0,0,22,33,Bojan Bogdanovic,DET
-"Sat, Dec 2",vs. CLE,27,7,15,3,10,5,6,2,2,1,1,0,1,22,26,Bojan Bogdanovic,DET
-"Mon, Dec 18",@ ATL,12,0,1,0,1,1,2,2,2,0,1,1,1,1,5,Joe Harris,DET
-"Sat, Dec 16",@ MIL,7,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Joe Harris,DET
-"Fri, Dec 15",@ PHI,11,1,3,1,3,0,0,1,1,0,0,0,1,3,5,Joe Harris,DET
-"Fri, Dec 8",@ ORL,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Joe Harris,DET
-"Sun, Nov 5",vs. PHO,13,0,2,0,2,0,0,1,1,0,0,0,1,0,2,Joe Harris,DET
-"Thu, Nov 2",@ NOR,24,3,8,2,6,0,0,3,1,1,1,0,4,8,12,Joe Harris,DET
-"Wed, Nov 1",vs. POR,17,4,7,3,6,0,0,2,1,0,0,0,1,11,14,Joe Harris,DET
-"Mon, Oct 30",@ OKC,10,0,1,0,0,0,0,0,1,1,0,0,2,0,1,Joe Harris,DET
-"Sat, Oct 28",vs. CHI,11,1,2,1,2,0,0,1,1,1,0,0,0,3,5,Joe Harris,DET
-"Fri, Oct 27",@ CHA,11,1,3,0,1,0,0,0,1,0,1,0,2,2,3,Joe Harris,DET
-"Wed, Oct 25",@ MIA,12,0,2,0,2,0,0,0,0,0,0,0,2,0,0,Joe Harris,DET
-"Fri, Nov 10",vs. PHI,7,2,3,1,2,0,0,0,0,1,0,0,1,5,5,Jared Rhoden,DET
-"Wed, Nov 8",@ MIL,13,3,4,0,1,0,0,1,3,0,0,0,2,6,10,Jared Rhoden,DET
-"Mon, Nov 6",vs. GSW,5,0,2,0,1,2,2,2,0,1,0,0,1,2,4,Jared Rhoden,DET
-"Sun, Nov 5",vs. PHO,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Jared Rhoden,DET
-"Mon, Oct 30",@ OKC,2,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Jared Rhoden,DET
-"Tue, Nov 21",@ PHO,2,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Jamaree Bouyea,FA 
-"Sun, Nov 19",vs. OKC,16,1,4,0,2,0,0,2,5,2,0,0,0,2,9,Jamaree Bouyea,FA 
-"Fri, Nov 17",vs. LAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Jamaree Bouyea,FA 
-"Wed, Nov 15",vs. CLE,9,1,6,0,3,0,0,2,0,0,0,0,1,2,4,Jamaree Bouyea,FA 
-"Tue, Nov 14",@ UTH,17,0,5,0,2,0,0,1,0,4,0,0,2,0,1,Jamaree Bouyea,FA 
-"Sun, Nov 12",@ LAL,12,3,6,0,1,0,0,4,3,1,0,0,0,6,13,Jamaree Bouyea,FA 
+"Wed, Dec 6",vs. MEM,30,8,12,0,0,1,1,11,0,2,0,1,1,17,28,Jalen Duren,DET
+"Sat, Dec 2",vs. CLE,30,8,8,0,0,1,6,11,1,2,1,2,3,17,29,Jalen Duren,DET
+"Thu, Nov 30",@ NYK,34,5,7,0,0,0,0,12,2,2,0,0,3,10,24,Jalen Duren,DET
+"Wed, Nov 29",vs. LAL,18,3,8,0,0,0,0,7,0,2,0,1,3,6,13,Jalen Duren,DET
+"Mon, Nov 27",vs. WAS,33,5,8,0,0,2,5,14,3,6,1,5,5,12,29,Jalen Duren,DET
+"Fri, Nov 24",@ IND,29,5,10,0,1,3,4,13,4,2,1,1,5,13,30,Jalen Duren,DET
+"Fri, Nov 10",vs. PHI,23,2,5,0,0,0,0,4,3,3,0,1,1,4,11,Jalen Duren,DET
+"Wed, Nov 8",@ MIL,28,5,10,0,1,1,1,12,5,2,0,0,5,11,28,Jalen Duren,DET
+"Sun, Nov 5",vs. PHO,31,6,10,0,0,0,0,11,3,5,2,0,4,12,26,Jalen Duren,DET
+"Thu, Nov 2",@ NOR,25,5,8,0,0,2,2,5,1,1,0,0,5,12,18,Jalen Duren,DET
+"Mon, Oct 30",@ OKC,23,4,11,0,0,0,1,7,1,1,1,0,3,8,16,Jalen Duren,DET
+"Sat, Oct 28",vs. CHI,33,9,11,0,0,5,5,15,5,1,1,2,3,23,43,Jalen Duren,DET
+"Fri, Oct 27",@ CHA,35,7,8,0,0,0,0,17,3,5,1,2,3,14,34,Jalen Duren,DET
+"Wed, Oct 25",@ MIA,32,8,11,0,0,1,3,14,4,4,0,4,4,17,35,Jalen Duren,DET
 "Mon, Dec 18",vs. BKN,2,2,2,1,1,0,0,1,0,0,0,0,1,5,6,Luka Samanic,FA 
 "Mon, Dec 11",@ OKC,17,6,10,1,4,1,1,7,1,2,0,0,3,14,22,Luka Samanic,FA 
 "Wed, Dec 6",@ DAL,7,1,5,0,2,0,0,1,0,0,0,0,0,2,3,Luka Samanic,FA 
@@ -2405,35 +2399,182 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sat, Nov 4",@ MIN,4,1,2,0,1,1,1,2,0,0,0,0,0,3,5,Luka Samanic,FA 
 "Sat, Oct 28",@ PHO,6,2,4,1,1,0,0,1,0,0,1,0,0,5,6,Luka Samanic,FA 
 "Wed, Oct 25",vs. SAC,2,1,2,0,1,0,0,0,0,0,0,0,0,2,2,Luka Samanic,FA 
-"Mon, Oct 30",vs. GSW,7,0,4,0,2,0,0,1,0,0,0,0,0,0,1,Kaiser Gates,FA 
 "Sat, Oct 28",@ TOR,5,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Danny Green,FA 
 "Thu, Oct 26",@ MIL,14,0,1,0,1,0,0,2,1,0,1,0,0,0,3,Danny Green,FA 
-"Sun, Dec 17",@ POR,19,3,7,0,2,0,0,4,1,1,1,0,0,6,11,Moses Moody,GSW
-"Sat, Dec 16",vs. BKN,12,1,3,0,0,0,0,3,1,0,0,0,0,2,6,Moses Moody,GSW
-"Thu, Dec 14",@ LAC,16,4,6,0,1,3,4,5,1,2,1,0,1,11,17,Moses Moody,GSW
-"Tue, Dec 12",@ PHO,24,3,6,2,3,4,6,4,0,2,0,0,3,12,16,Moses Moody,GSW
-"Fri, Dec 8",@ OKC,16,1,6,0,4,0,0,4,0,2,0,0,4,2,6,Moses Moody,GSW
-"Wed, Dec 6",vs. POR,26,5,10,1,4,1,1,4,0,1,1,1,2,12,16,Moses Moody,GSW
-"Sat, Dec 2",@ LAC,32,5,13,2,5,9,10,5,2,0,2,0,3,21,28,Moses Moody,GSW
-"Thu, Nov 30",vs. LAC,28,6,10,1,4,0,0,3,1,0,0,1,2,13,17,Moses Moody,GSW
-"Tue, Nov 28",@ SAC,13,4,4,3,3,0,0,1,2,0,0,0,1,11,14,Moses Moody,GSW
-"Fri, Nov 24",vs. SAS,17,4,4,1,1,0,2,4,1,2,0,0,0,9,14,Moses Moody,GSW
-"Wed, Nov 22",@ PHO,23,4,8,0,1,0,1,9,1,1,0,1,5,8,18,Moses Moody,GSW
-"Mon, Nov 20",vs. HOU,22,3,7,1,3,0,0,4,0,0,0,0,2,7,11,Moses Moody,GSW
-"Sat, Nov 18",vs. OKC,18,1,4,0,3,4,4,4,1,2,1,0,2,6,11,Moses Moody,GSW
-"Thu, Nov 16",vs. OKC,23,5,11,2,4,0,1,4,1,1,0,1,1,12,17,Moses Moody,GSW
-"Tue, Nov 14",vs. MIN,14,4,6,1,2,2,2,2,2,0,1,0,0,11,15,Moses Moody,GSW
-"Sun, Nov 12",vs. MIN,13,1,6,0,4,0,0,3,0,1,0,0,1,2,5,Moses Moody,GSW
-"Sat, Nov 11",vs. CLE,18,2,4,2,3,2,2,5,1,1,0,0,3,8,14,Moses Moody,GSW
-"Wed, Nov 8",@ DEN,14,4,7,2,3,0,0,3,1,0,1,0,0,10,14,Moses Moody,GSW
-"Mon, Nov 6",@ DET,19,2,6,0,2,0,0,2,2,0,3,0,0,4,8,Moses Moody,GSW
-"Sun, Nov 5",@ CLE,14,1,3,0,2,1,2,3,0,0,1,0,1,3,6,Moses Moody,GSW
-"Fri, Nov 3",@ OKC,18,3,7,2,5,0,0,1,2,1,1,0,3,8,11,Moses Moody,GSW
-"Wed, Nov 1",vs. SAC,15,0,3,0,2,1,2,3,0,0,0,1,1,1,4,Moses Moody,GSW
-"Mon, Oct 30",@ NOR,21,5,8,2,5,1,1,3,4,0,0,0,0,13,20,Moses Moody,GSW
-"Sun, Oct 29",@ HOU,17,1,6,1,5,2,2,3,1,0,0,1,1,5,9,Moses Moody,GSW
-"Fri, Oct 27",@ SAC,21,4,5,2,3,0,0,3,1,1,3,0,0,10,14,Moses Moody,GSW
-"Tue, Oct 24",vs. PHO,18,4,6,2,4,1,2,3,0,1,3,1,1,11,14,Moses Moody,GSW
+"Fri, Dec 8",vs. MIN,4,1,3,1,2,2,2,0,2,0,1,0,0,5,7,Kenneth Lofton Jr.,FA 
+"Wed, Dec 6",@ DET,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Kenneth Lofton Jr.,FA 
+"Fri, Dec 1",@ DAL,2,0,2,0,0,0,0,2,0,0,0,0,0,0,2,Kenneth Lofton Jr.,FA 
+"Sun, Nov 26",vs. MIN,2,1,1,0,0,0,0,0,0,0,0,0,0,2,2,Kenneth Lofton Jr.,FA 
+"Fri, Nov 24",vs. PHO,2,1,1,0,0,0,0,0,0,0,0,0,1,2,2,Kenneth Lofton Jr.,FA 
+"Wed, Nov 22",@ HOU,4,1,4,0,1,1,1,0,2,0,0,1,0,3,5,Kenneth Lofton Jr.,FA 
+"Sun, Nov 19",vs. BOS,13,2,5,0,1,2,2,2,1,2,0,0,0,6,9,Kenneth Lofton Jr.,FA 
+"Sat, Nov 18",@ SAS,12,1,3,0,1,0,0,1,2,1,0,0,3,2,5,Kenneth Lofton Jr.,FA 
+"Tue, Nov 14",@ LAL,5,0,2,0,1,0,0,0,0,0,0,0,0,0,0,Kenneth Lofton Jr.,FA 
+"Fri, Nov 10",vs. UTH,12,0,2,0,1,0,0,2,0,1,0,1,3,0,2,Kenneth Lofton Jr.,FA 
+"Wed, Nov 8",vs. MIA,7,1,3,0,0,0,0,0,1,0,0,0,1,2,3,Kenneth Lofton Jr.,FA 
+"Sun, Nov 5",@ POR,10,2,3,1,2,0,1,2,3,0,0,1,0,5,10,Kenneth Lofton Jr.,FA 
+"Wed, Nov 1",@ UTH,19,4,7,1,1,3,9,5,2,1,2,0,5,12,19,Kenneth Lofton Jr.,FA 
+"Mon, Oct 30",vs. DAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kenneth Lofton Jr.,FA 
+"Sat, Oct 28",@ WAS,5,0,1,0,0,0,0,0,1,1,0,0,2,0,1,Kenneth Lofton Jr.,FA 
+"Mon, Oct 30",vs. GSW,7,0,4,0,2,0,0,1,0,0,0,0,0,0,1,Kaiser Gates,FA 
+"Tue, Nov 21",@ PHO,2,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Jamaree Bouyea,FA 
+"Sun, Nov 19",vs. OKC,16,1,4,0,2,0,0,2,5,2,0,0,0,2,9,Jamaree Bouyea,FA 
+"Fri, Nov 17",vs. LAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Jamaree Bouyea,FA 
+"Wed, Nov 15",vs. CLE,9,1,6,0,3,0,0,2,0,0,0,0,1,2,4,Jamaree Bouyea,FA 
+"Tue, Nov 14",@ UTH,17,0,5,0,2,0,0,1,0,4,0,0,2,0,1,Jamaree Bouyea,FA 
+"Sun, Nov 12",@ LAL,12,3,6,0,1,0,0,4,3,1,0,0,0,6,13,Jamaree Bouyea,FA 
+"Tue, Nov 28",@ SAC,17,3,4,0,1,1,1,5,1,1,2,1,3,7,13,Gary Payton II,GSW
+"Fri, Nov 24",vs. SAS,19,2,3,0,1,0,0,3,0,2,1,1,4,4,7,Gary Payton II,GSW
+"Thu, Nov 16",vs. OKC,8,0,4,0,1,1,2,1,0,0,1,0,1,1,2,Gary Payton II,GSW
+"Tue, Nov 14",vs. MIN,16,3,5,1,3,0,0,3,2,0,0,0,1,7,12,Gary Payton II,GSW
+"Sun, Nov 12",vs. MIN,14,2,2,0,0,0,0,4,2,1,0,0,2,4,10,Gary Payton II,GSW
+"Sat, Nov 11",vs. CLE,11,1,4,0,1,1,2,5,0,1,0,0,0,3,8,Gary Payton II,GSW
+"Mon, Nov 6",@ DET,24,3,5,0,0,0,0,6,0,0,2,0,2,6,12,Gary Payton II,GSW
+"Sun, Nov 5",@ CLE,12,2,7,1,3,0,0,2,1,0,0,0,2,5,8,Gary Payton II,GSW
+"Fri, Nov 3",@ OKC,22,4,6,1,3,0,0,3,1,1,2,0,2,9,13,Gary Payton II,GSW
+"Wed, Nov 1",vs. SAC,22,2,4,0,0,0,0,2,1,1,1,0,0,4,7,Gary Payton II,GSW
+"Mon, Oct 30",@ NOR,20,4,10,2,6,0,0,4,1,0,1,1,4,10,15,Gary Payton II,GSW
+"Sun, Oct 29",@ HOU,19,6,8,3,4,0,0,4,1,0,3,1,1,15,20,Gary Payton II,GSW
+"Fri, Oct 27",@ SAC,18,2,4,1,3,2,2,0,1,2,1,0,3,7,8,Gary Payton II,GSW
+"Tue, Oct 24",vs. PHO,22,0,5,0,2,1,2,2,2,0,3,0,1,1,5,Gary Payton II,GSW
+"Tue, Dec 12",@ PHO,17,1,3,0,2,0,0,2,2,3,0,0,3,2,6,Draymond Green,GSW
+"Fri, Dec 8",@ OKC,35,5,7,1,2,1,2,5,13,4,0,1,6,12,30,Draymond Green,GSW
+"Wed, Dec 6",vs. POR,31,3,7,0,2,4,4,10,9,4,0,2,3,10,29,Draymond Green,GSW
+"Sat, Dec 2",@ LAC,32,8,15,4,8,1,2,9,4,3,0,1,2,21,34,Draymond Green,GSW
+"Thu, Nov 30",vs. LAC,29,4,8,2,4,3,4,5,5,2,0,0,5,13,23,Draymond Green,GSW
+"Tue, Nov 28",@ SAC,33,3,8,2,4,0,0,6,3,4,0,2,4,8,17,Draymond Green,GSW
+"Tue, Nov 14",vs. MIN,2,0,0,0,0,0,0,2,0,1,0,0,1,0,2,Draymond Green,GSW
+"Sun, Nov 12",vs. MIN,24,3,7,1,3,2,2,9,7,2,1,0,5,9,25,Draymond Green,GSW
+"Sat, Nov 11",vs. CLE,18,3,4,2,3,0,0,5,4,1,0,0,3,8,17,Draymond Green,GSW
+"Mon, Nov 6",@ DET,28,2,4,0,1,2,2,9,8,1,0,0,2,6,23,Draymond Green,GSW
+"Sun, Nov 5",@ CLE,29,5,11,2,3,6,6,3,8,1,3,1,0,18,29,Draymond Green,GSW
+"Fri, Nov 3",@ OKC,29,5,11,2,4,3,3,5,3,3,0,1,5,15,23,Draymond Green,GSW
+"Wed, Nov 1",vs. SAC,28,4,7,2,4,3,4,2,9,2,2,2,1,13,24,Draymond Green,GSW
+"Mon, Oct 30",@ NOR,22,3,8,0,2,0,0,6,7,1,0,1,2,6,19,Draymond Green,GSW
+"Sun, Oct 29",@ HOU,21,2,4,0,0,0,1,5,5,4,0,0,3,4,14,Draymond Green,GSW
+"Sun, Dec 17",@ POR,15,2,5,0,0,0,0,4,2,0,1,1,2,4,10,Kevon Looney,GSW
+"Sat, Dec 16",vs. BKN,27,2,5,0,0,0,0,7,3,0,1,0,2,4,14,Kevon Looney,GSW
+"Thu, Dec 14",@ LAC,26,4,7,0,0,0,0,7,5,1,1,0,2,8,20,Kevon Looney,GSW
+"Tue, Dec 12",@ PHO,11,0,0,0,0,0,0,5,2,0,1,0,2,0,7,Kevon Looney,GSW
+"Fri, Dec 8",@ OKC,16,2,2,0,0,1,3,4,2,2,0,0,1,5,11,Kevon Looney,GSW
+"Wed, Dec 6",vs. POR,16,2,6,0,0,2,2,8,0,0,1,0,2,6,14,Kevon Looney,GSW
+"Sat, Dec 2",@ LAC,18,3,3,0,0,1,2,8,3,1,0,1,1,7,18,Kevon Looney,GSW
+"Thu, Nov 30",vs. LAC,13,0,4,0,0,2,2,5,2,0,0,0,2,2,9,Kevon Looney,GSW
+"Tue, Nov 28",@ SAC,29,0,1,0,0,2,4,5,2,0,1,0,4,2,9,Kevon Looney,GSW
+"Fri, Nov 24",vs. SAS,24,2,3,0,0,2,3,8,4,2,2,0,3,6,18,Kevon Looney,GSW
+"Wed, Nov 22",@ PHO,17,3,5,0,0,0,0,6,2,2,1,0,4,6,14,Kevon Looney,GSW
+"Mon, Nov 20",vs. HOU,22,2,4,0,0,3,4,5,3,0,0,0,3,7,15,Kevon Looney,GSW
+"Sat, Nov 18",vs. OKC,35,3,6,0,0,0,0,16,5,1,0,1,0,6,27,Kevon Looney,GSW
+"Thu, Nov 16",vs. OKC,19,6,9,0,0,1,2,11,1,1,1,0,3,13,25,Kevon Looney,GSW
+"Tue, Nov 14",vs. MIN,32,1,4,0,0,0,0,12,3,0,1,0,2,2,17,Kevon Looney,GSW
+"Sun, Nov 12",vs. MIN,19,1,3,0,0,0,0,6,0,0,1,0,3,2,8,Kevon Looney,GSW
+"Sat, Nov 11",vs. CLE,24,1,2,0,0,0,0,13,2,1,0,0,5,2,17,Kevon Looney,GSW
+"Wed, Nov 8",@ DEN,30,4,4,0,0,2,3,8,4,2,1,0,5,10,22,Kevon Looney,GSW
+"Mon, Nov 6",@ DET,25,5,6,0,0,0,0,6,1,2,0,2,4,10,17,Kevon Looney,GSW
+"Sun, Nov 5",@ CLE,15,1,2,0,0,0,0,11,5,0,0,0,1,2,18,Kevon Looney,GSW
+"Fri, Nov 3",@ OKC,11,1,2,0,0,2,2,3,4,2,1,1,4,4,11,Kevon Looney,GSW
+"Wed, Nov 1",vs. SAC,23,3,4,0,0,0,0,9,6,0,1,0,2,6,21,Kevon Looney,GSW
+"Mon, Oct 30",@ NOR,25,3,5,0,0,2,2,7,1,1,1,0,2,8,16,Kevon Looney,GSW
+"Sun, Oct 29",@ HOU,27,2,3,0,0,1,2,11,1,1,1,1,2,5,17,Kevon Looney,GSW
+"Fri, Oct 27",@ SAC,28,4,6,0,0,0,0,12,6,1,3,1,3,8,26,Kevon Looney,GSW
+"Tue, Oct 24",vs. PHO,28,3,6,0,0,1,1,11,1,2,0,0,2,7,19,Kevon Looney,GSW
+"Wed, Nov 22",@ PHO,8,1,1,0,0,0,0,1,0,2,0,0,2,2,3,Gui Santos,GSW
+"Thu, Nov 16",vs. OKC,4,1,3,0,1,0,0,3,1,0,0,0,0,2,6,Gui Santos,GSW
+"Sun, Dec 17",@ POR,29,9,12,4,6,3,4,7,2,0,1,1,2,25,34,Andrew Wiggins,GSW
+"Sat, Dec 16",vs. BKN,27,4,9,1,1,5,5,5,1,0,1,0,0,14,20,Andrew Wiggins,GSW
+"Thu, Dec 14",@ LAC,22,4,9,0,4,1,2,3,0,0,0,1,5,9,12,Andrew Wiggins,GSW
+"Tue, Dec 12",@ PHO,15,1,7,1,3,0,0,4,1,3,0,0,1,3,8,Andrew Wiggins,GSW
+"Fri, Dec 8",@ OKC,32,4,11,2,4,2,2,6,1,6,0,0,3,12,19,Andrew Wiggins,GSW
+"Wed, Dec 6",vs. POR,27,3,12,0,1,3,3,3,1,1,0,0,1,9,13,Andrew Wiggins,GSW
+"Tue, Nov 28",@ SAC,36,11,18,2,5,5,6,10,3,3,0,0,5,29,42,Andrew Wiggins,GSW
+"Fri, Nov 24",vs. SAS,25,4,10,2,4,0,0,4,0,3,0,0,3,10,14,Andrew Wiggins,GSW
+"Wed, Nov 22",@ PHO,25,4,11,0,3,3,4,4,1,2,0,1,1,11,16,Andrew Wiggins,GSW
+"Mon, Nov 20",vs. HOU,30,3,10,2,3,4,4,7,1,0,0,0,2,12,20,Andrew Wiggins,GSW
+"Sat, Nov 18",vs. OKC,35,12,19,5,8,2,4,0,3,0,1,1,4,31,34,Andrew Wiggins,GSW
+"Thu, Nov 16",vs. OKC,26,6,13,0,4,0,0,6,2,5,0,0,2,12,20,Andrew Wiggins,GSW
+"Tue, Nov 14",vs. MIN,28,4,15,1,7,0,0,7,0,4,3,1,5,9,16,Andrew Wiggins,GSW
+"Sun, Nov 12",vs. MIN,25,3,7,0,2,0,2,4,2,1,1,0,4,6,12,Andrew Wiggins,GSW
+"Sat, Nov 11",vs. CLE,29,6,12,1,4,0,2,5,3,3,0,0,2,13,21,Andrew Wiggins,GSW
+"Wed, Nov 8",@ DEN,29,4,13,0,3,3,4,5,0,1,0,0,3,11,16,Andrew Wiggins,GSW
+"Mon, Nov 6",@ DET,22,2,9,0,2,0,2,6,1,2,1,1,0,4,11,Andrew Wiggins,GSW
+"Sun, Nov 5",@ CLE,26,3,9,1,2,1,4,5,1,0,0,0,1,8,14,Andrew Wiggins,GSW
+"Fri, Nov 3",@ OKC,27,6,11,0,1,5,8,5,1,0,0,0,1,17,23,Andrew Wiggins,GSW
+"Wed, Nov 1",vs. SAC,25,6,10,0,1,2,2,2,0,1,0,0,2,14,16,Andrew Wiggins,GSW
+"Mon, Oct 30",@ NOR,20,4,8,1,2,0,2,3,0,3,0,0,2,9,12,Andrew Wiggins,GSW
+"Sun, Oct 29",@ HOU,28,4,10,1,3,4,5,0,0,2,0,0,2,13,13,Andrew Wiggins,GSW
+"Fri, Oct 27",@ SAC,27,5,13,0,3,1,2,5,3,2,0,2,4,11,19,Andrew Wiggins,GSW
+"Tue, Oct 24",vs. PHO,27,4,12,0,3,2,3,1,0,0,0,1,3,10,11,Andrew Wiggins,GSW
+"Sun, Dec 17",@ POR,33,4,8,0,2,2,2,5,5,1,1,0,3,10,20,Brandin Podziemski,GSW
+"Sat, Dec 16",vs. BKN,32,7,15,4,9,1,2,5,5,5,3,1,4,19,29,Brandin Podziemski,GSW
+"Thu, Dec 14",@ LAC,35,2,11,0,3,0,0,7,2,3,3,1,2,4,13,Brandin Podziemski,GSW
+"Tue, Dec 12",@ PHO,29,9,14,2,4,0,1,11,5,3,1,0,2,20,36,Brandin Podziemski,GSW
+"Fri, Dec 8",@ OKC,23,5,11,1,4,1,1,6,4,1,1,0,2,12,22,Brandin Podziemski,GSW
+"Wed, Dec 6",vs. POR,21,1,3,1,1,0,2,5,1,1,0,0,2,3,9,Brandin Podziemski,GSW
+"Sat, Dec 2",@ LAC,37,5,9,2,3,0,0,6,3,1,1,2,2,12,21,Brandin Podziemski,GSW
+"Thu, Nov 30",vs. LAC,31,5,10,2,4,1,2,8,2,0,0,0,2,13,23,Brandin Podziemski,GSW
+"Fri, Nov 24",vs. SAS,12,0,5,0,2,0,0,3,2,1,0,0,0,0,5,Brandin Podziemski,GSW
+"Wed, Nov 22",@ PHO,23,4,9,1,3,1,2,4,2,0,3,0,1,10,16,Brandin Podziemski,GSW
+"Mon, Nov 20",vs. HOU,18,1,2,1,2,0,0,5,3,0,0,0,2,3,11,Brandin Podziemski,GSW
+"Sat, Nov 18",vs. OKC,25,2,6,1,4,3,4,3,3,3,0,0,0,8,14,Brandin Podziemski,GSW
+"Thu, Nov 16",vs. OKC,25,4,7,3,4,2,2,8,3,1,0,0,5,13,24,Brandin Podziemski,GSW
+"Tue, Nov 14",vs. MIN,39,9,18,3,8,2,2,7,5,3,1,0,4,23,35,Brandin Podziemski,GSW
+"Sun, Nov 12",vs. MIN,1,3,5,2,2,0,0,1,0,0,1,0,0,8,9,Brandin Podziemski,GSW
+"Sat, Nov 11",vs. CLE,8,1,2,0,0,0,0,2,2,1,1,0,1,2,6,Brandin Podziemski,GSW
+"Wed, Nov 8",@ DEN,11,2,3,0,0,1,1,3,2,0,0,0,2,5,10,Brandin Podziemski,GSW
+"Mon, Nov 6",@ DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brandin Podziemski,GSW
+"Sun, Nov 5",@ CLE,8,0,2,0,1,0,0,2,2,2,0,0,0,0,4,Brandin Podziemski,GSW
+"Mon, Oct 30",@ NOR,23,2,5,0,1,1,2,8,2,2,0,0,4,5,15,Brandin Podziemski,GSW
+"Sun, Dec 17",@ POR,19,5,7,2,3,0,4,4,0,1,1,0,3,12,16,Jonathan Kuminga,GSW
+"Sat, Dec 16",vs. BKN,21,3,6,0,0,4,4,4,2,1,0,1,1,10,16,Jonathan Kuminga,GSW
+"Thu, Dec 14",@ LAC,25,5,10,2,3,3,3,5,1,1,1,0,4,15,21,Jonathan Kuminga,GSW
+"Tue, Dec 12",@ PHO,29,6,10,1,3,3,7,6,0,1,1,0,4,16,22,Jonathan Kuminga,GSW
+"Fri, Dec 8",@ OKC,29,10,21,3,6,1,1,12,0,3,0,0,6,24,36,Jonathan Kuminga,GSW
+"Wed, Dec 6",vs. POR,17,6,6,0,0,1,2,1,1,0,2,0,2,13,15,Jonathan Kuminga,GSW
+"Sat, Dec 2",@ LAC,16,2,6,1,3,1,2,2,0,1,0,0,0,6,8,Jonathan Kuminga,GSW
+"Thu, Nov 30",vs. LAC,23,6,8,3,5,2,4,6,3,1,1,1,0,17,26,Jonathan Kuminga,GSW
+"Tue, Nov 28",@ SAC,10,0,3,0,1,0,0,1,0,2,0,0,3,0,1,Jonathan Kuminga,GSW
+"Fri, Nov 24",vs. SAS,20,5,7,1,2,1,2,1,2,1,0,0,0,12,15,Jonathan Kuminga,GSW
+"Wed, Nov 22",@ PHO,21,3,7,0,1,1,2,1,2,0,1,0,5,7,10,Jonathan Kuminga,GSW
+"Mon, Nov 20",vs. HOU,18,3,7,1,3,0,2,3,1,1,0,0,3,7,11,Jonathan Kuminga,GSW
+"Sat, Nov 18",vs. OKC,20,6,10,0,2,1,2,5,2,3,1,1,2,13,20,Jonathan Kuminga,GSW
+"Thu, Nov 16",vs. OKC,27,8,13,1,4,4,5,6,2,4,0,1,0,21,29,Jonathan Kuminga,GSW
+"Tue, Nov 14",vs. MIN,16,2,3,0,1,1,2,2,1,1,0,0,2,5,8,Jonathan Kuminga,GSW
+"Sun, Nov 12",vs. MIN,24,2,11,0,3,6,7,3,0,0,2,0,2,10,13,Jonathan Kuminga,GSW
+"Sat, Nov 11",vs. CLE,21,2,7,0,1,8,11,3,0,0,0,0,4,12,15,Jonathan Kuminga,GSW
+"Wed, Nov 8",@ DEN,19,4,12,0,1,2,2,4,2,0,0,0,1,10,16,Jonathan Kuminga,GSW
+"Mon, Nov 6",@ DET,19,2,8,0,3,6,8,1,0,1,1,1,3,10,11,Jonathan Kuminga,GSW
+"Sun, Nov 5",@ CLE,20,5,14,1,4,4,5,3,0,1,0,2,2,15,18,Jonathan Kuminga,GSW
+"Fri, Nov 3",@ OKC,22,9,15,0,2,1,2,2,1,3,0,0,2,19,22,Jonathan Kuminga,GSW
+"Wed, Nov 1",vs. SAC,17,4,9,1,2,3,3,1,1,0,1,0,2,12,14,Jonathan Kuminga,GSW
+"Sun, Oct 29",@ HOU,19,3,8,1,3,2,3,2,1,3,1,0,4,9,12,Jonathan Kuminga,GSW
+"Fri, Oct 27",@ SAC,26,5,11,1,3,1,2,5,0,2,0,0,3,12,17,Jonathan Kuminga,GSW
+"Tue, Oct 24",vs. PHO,20,4,8,0,0,4,6,6,1,2,2,1,5,12,19,Jonathan Kuminga,GSW
+"Sun, Dec 17",@ POR,15,2,4,2,3,2,2,1,1,2,0,0,3,8,10,Dario Saric,GSW
+"Sat, Dec 16",vs. BKN,21,5,8,2,3,0,0,6,2,2,1,0,3,12,20,Dario Saric,GSW
+"Thu, Dec 14",@ LAC,17,2,5,1,4,0,0,6,1,1,0,0,2,5,12,Dario Saric,GSW
+"Tue, Dec 12",@ PHO,20,5,9,2,4,3,4,4,1,0,0,0,5,15,20,Dario Saric,GSW
+"Fri, Dec 8",@ OKC,23,3,8,2,6,3,4,12,3,3,1,0,2,11,26,Dario Saric,GSW
+"Wed, Dec 6",vs. POR,20,4,7,2,3,3,4,6,0,4,0,0,3,13,19,Dario Saric,GSW
+"Sat, Dec 2",@ LAC,20,3,7,0,2,0,0,2,3,3,1,0,2,6,11,Dario Saric,GSW
+"Thu, Nov 30",vs. LAC,27,4,7,2,4,3,4,5,5,0,1,0,2,13,23,Dario Saric,GSW
+"Tue, Nov 28",@ SAC,17,3,7,2,4,2,2,2,3,0,0,0,3,10,15,Dario Saric,GSW
+"Fri, Nov 24",vs. SAS,26,7,11,4,7,2,2,7,4,3,2,0,3,20,31,Dario Saric,GSW
+"Wed, Nov 22",@ PHO,22,6,9,2,3,3,5,6,4,1,2,0,4,17,27,Dario Saric,GSW
+"Mon, Nov 20",vs. HOU,26,5,10,3,7,5,6,5,2,1,1,1,2,18,25,Dario Saric,GSW
+"Sat, Nov 18",vs. OKC,18,3,9,0,2,0,0,8,1,1,0,0,1,6,15,Dario Saric,GSW
+"Thu, Nov 16",vs. OKC,24,4,10,2,3,2,2,3,4,1,1,0,4,12,19,Dario Saric,GSW
+"Tue, Nov 14",vs. MIN,32,6,15,3,11,6,6,4,4,2,2,0,4,21,29,Dario Saric,GSW
+"Sun, Nov 12",vs. MIN,27,5,10,1,4,0,0,10,1,1,1,0,4,11,22,Dario Saric,GSW
+"Sat, Nov 11",vs. CLE,16,2,5,0,3,1,1,5,1,0,0,1,3,5,11,Dario Saric,GSW
+"Wed, Nov 8",@ DEN,26,2,5,0,3,0,0,8,2,0,0,0,0,4,14,Dario Saric,GSW
+"Mon, Nov 6",@ DET,21,4,8,2,5,2,2,6,1,0,1,0,1,12,19,Dario Saric,GSW
+"Sun, Nov 5",@ CLE,13,0,3,0,1,0,0,5,0,1,0,0,2,0,5,Dario Saric,GSW
+"Fri, Nov 3",@ OKC,20,6,9,4,7,4,4,6,3,1,1,0,2,20,29,Dario Saric,GSW
+"Wed, Nov 1",vs. SAC,20,6,9,3,5,0,0,6,2,4,0,0,1,15,23,Dario Saric,GSW
+"Mon, Oct 30",@ NOR,21,2,7,1,4,1,2,10,2,0,0,1,2,6,18,Dario Saric,GSW
+"Sun, Oct 29",@ HOU,21,1,6,1,3,1,2,8,5,1,0,1,0,4,17,Dario Saric,GSW
+"Fri, Oct 27",@ SAC,14,2,5,1,4,0,0,4,1,1,1,0,4,5,10,Dario Saric,GSW
+"Tue, Oct 24",vs. PHO,20,3,11,1,3,0,0,7,1,0,0,2,3,7,15,Dario Saric,GSW
 "Sun, Dec 17",@ POR,18,6,9,0,0,2,2,8,3,2,2,1,2,14,25,Trayce Jackson-Davis,GSW
 "Thu, Dec 14",@ LAC,5,1,3,0,0,0,0,3,0,0,0,0,0,2,5,Trayce Jackson-Davis,GSW
 "Tue, Dec 12",@ PHO,7,1,1,0,0,0,0,0,0,0,1,1,1,2,2,Trayce Jackson-Davis,GSW
@@ -2449,6 +2590,55 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Nov 5",@ CLE,12,2,3,0,0,1,5,4,1,0,1,1,4,5,10,Trayce Jackson-Davis,GSW
 "Mon, Oct 30",@ NOR,20,5,9,0,0,3,4,9,0,2,0,4,2,13,22,Trayce Jackson-Davis,GSW
 "Fri, Oct 27",@ SAC,5,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Trayce Jackson-Davis,GSW
+"Sun, Dec 17",@ POR,29,11,16,5,10,1,1,4,1,1,1,0,3,28,33,Klay Thompson,GSW
+"Sat, Dec 16",vs. BKN,36,7,19,4,9,6,6,5,3,0,1,0,2,24,32,Klay Thompson,GSW
+"Thu, Dec 14",@ LAC,32,9,15,8,12,4,4,1,5,0,2,0,1,30,36,Klay Thompson,GSW
+"Tue, Dec 12",@ PHO,27,2,10,1,8,2,2,5,0,1,0,0,1,7,12,Klay Thompson,GSW
+"Fri, Dec 8",@ OKC,39,8,15,4,9,2,2,4,0,4,0,1,4,22,26,Klay Thompson,GSW
+"Wed, Dec 6",vs. POR,27,3,13,1,8,4,4,5,1,0,0,0,0,11,17,Klay Thompson,GSW
+"Sat, Dec 2",@ LAC,33,5,13,4,11,3,4,6,2,2,1,0,3,17,25,Klay Thompson,GSW
+"Thu, Nov 30",vs. LAC,34,8,18,2,7,4,4,6,2,2,0,1,2,22,30,Klay Thompson,GSW
+"Tue, Nov 28",@ SAC,36,6,14,3,9,5,6,9,2,3,1,2,2,20,31,Klay Thompson,GSW
+"Fri, Nov 24",vs. SAS,29,3,11,3,7,6,7,3,6,2,1,0,3,15,24,Klay Thompson,GSW
+"Wed, Nov 22",@ PHO,25,8,17,6,10,1,1,3,1,2,0,1,3,23,27,Klay Thompson,GSW
+"Mon, Nov 20",vs. HOU,31,7,16,5,11,1,1,3,3,1,0,0,1,20,26,Klay Thompson,GSW
+"Sat, Nov 18",vs. OKC,37,5,13,3,9,3,3,2,4,4,0,1,4,16,22,Klay Thompson,GSW
+"Thu, Nov 16",vs. OKC,27,1,10,1,6,2,2,2,3,2,1,0,1,5,10,Klay Thompson,GSW
+"Tue, Nov 14",vs. MIN,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Klay Thompson,GSW
+"Sun, Nov 12",vs. MIN,33,5,16,3,10,3,3,5,3,1,1,0,1,16,24,Klay Thompson,GSW
+"Sat, Nov 11",vs. CLE,28,5,16,2,5,2,2,5,1,3,0,1,3,14,20,Klay Thompson,GSW
+"Wed, Nov 8",@ DEN,32,5,12,2,8,3,6,6,1,2,1,0,1,15,22,Klay Thompson,GSW
+"Mon, Nov 6",@ DET,28,8,16,1,8,0,0,1,3,2,0,0,1,17,21,Klay Thompson,GSW
+"Sun, Nov 5",@ CLE,32,5,14,3,9,2,2,3,2,2,1,0,2,15,20,Klay Thompson,GSW
+"Fri, Nov 3",@ OKC,33,6,10,4,6,2,2,3,1,1,0,0,4,18,22,Klay Thompson,GSW
+"Wed, Nov 1",vs. SAC,29,6,15,1,4,1,1,2,2,2,0,3,3,14,18,Klay Thompson,GSW
+"Sun, Oct 29",@ HOU,29,7,12,5,10,0,0,4,0,1,0,1,3,19,23,Klay Thompson,GSW
+"Fri, Oct 27",@ SAC,33,7,12,2,4,2,2,3,4,3,1,0,4,18,25,Klay Thompson,GSW
+"Tue, Oct 24",vs. PHO,36,6,18,3,11,0,0,7,3,3,0,1,3,15,25,Klay Thompson,GSW
+"Sun, Dec 17",@ POR,31,2,12,0,8,3,4,2,8,4,1,1,1,7,17,Stephen Curry,GSW
+"Sat, Dec 16",vs. BKN,35,14,22,6,8,3,3,3,1,3,0,3,1,37,41,Stephen Curry,GSW
+"Thu, Dec 14",@ LAC,34,5,17,3,13,4,4,4,4,1,0,0,3,17,25,Stephen Curry,GSW
+"Tue, Dec 12",@ PHO,32,8,24,4,15,4,4,5,4,1,3,0,2,24,33,Stephen Curry,GSW
+"Fri, Dec 8",@ OKC,40,10,20,6,12,8,8,6,3,3,1,0,0,34,43,Stephen Curry,GSW
+"Wed, Dec 6",vs. POR,34,8,18,5,13,10,11,5,1,4,0,0,2,31,37,Stephen Curry,GSW
+"Sat, Dec 2",@ LAC,37,7,18,4,9,4,4,4,11,2,0,0,0,22,37,Stephen Curry,GSW
+"Thu, Nov 30",vs. LAC,33,8,15,3,9,7,9,7,8,2,1,1,2,26,41,Stephen Curry,GSW
+"Tue, Nov 28",@ SAC,37,8,20,4,12,9,9,10,6,5,0,1,5,29,45,Stephen Curry,GSW
+"Fri, Nov 24",vs. SAS,35,11,20,7,14,6,6,3,6,6,1,0,2,35,44,Stephen Curry,GSW
+"Wed, Nov 22",@ PHO,28,6,15,1,8,3,3,3,6,2,0,0,2,16,25,Stephen Curry,GSW
+"Mon, Nov 20",vs. HOU,35,8,14,5,9,11,12,5,1,4,0,0,2,32,38,Stephen Curry,GSW
+"Sat, Nov 18",vs. OKC,40,8,21,5,11,4,4,7,3,2,0,0,2,25,35,Stephen Curry,GSW
+"Sun, Nov 12",vs. MIN,36,11,25,5,13,11,12,5,3,5,1,0,2,38,46,Stephen Curry,GSW
+"Sat, Nov 11",vs. CLE,33,9,24,4,14,8,8,3,2,4,1,1,1,30,35,Stephen Curry,GSW
+"Wed, Nov 8",@ DEN,34,6,17,6,13,5,5,5,4,3,1,0,2,23,32,Stephen Curry,GSW
+"Mon, Nov 6",@ DET,33,12,26,7,17,3,4,2,4,3,0,0,1,34,40,Stephen Curry,GSW
+"Sun, Nov 5",@ CLE,31,8,16,7,11,5,6,2,4,6,1,0,0,28,34,Stephen Curry,GSW
+"Fri, Nov 3",@ OKC,31,9,15,5,10,7,7,8,7,3,2,0,1,30,45,Stephen Curry,GSW
+"Wed, Nov 1",vs. SAC,32,7,15,4,10,3,3,5,3,7,0,0,3,21,29,Stephen Curry,GSW
+"Mon, Oct 30",@ NOR,30,15,22,7,13,5,7,5,5,3,2,0,1,42,52,Stephen Curry,GSW
+"Sun, Oct 29",@ HOU,31,6,16,6,14,6,6,7,6,1,0,1,1,24,37,Stephen Curry,GSW
+"Fri, Oct 27",@ SAC,35,14,19,7,10,6,6,4,4,4,2,0,0,41,49,Stephen Curry,GSW
+"Tue, Oct 24",vs. PHO,31,8,20,4,14,7,7,5,1,2,1,0,5,27,33,Stephen Curry,GSW
 "Fri, Dec 8",@ OKC,13,1,3,0,1,0,0,1,3,0,0,0,0,2,6,Cory Joseph,GSW
 "Sat, Dec 2",@ LAC,16,0,2,0,2,0,0,0,3,0,0,0,2,0,3,Cory Joseph,GSW
 "Thu, Nov 30",vs. LAC,22,0,2,0,2,1,2,2,2,0,0,0,1,1,5,Cory Joseph,GSW
@@ -2483,276 +2673,32 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",@ HOU,27,3,8,0,3,2,2,5,7,1,1,0,1,8,20,Chris Paul,GSW
 "Fri, Oct 27",@ SAC,33,5,12,0,2,0,0,2,12,3,3,0,2,10,24,Chris Paul,GSW
 "Tue, Oct 24",vs. PHO,34,4,15,0,6,6,7,6,9,1,2,0,0,14,29,Chris Paul,GSW
-"Tue, Nov 28",@ SAC,17,3,4,0,1,1,1,5,1,1,2,1,3,7,13,Gary Payton II,GSW
-"Fri, Nov 24",vs. SAS,19,2,3,0,1,0,0,3,0,2,1,1,4,4,7,Gary Payton II,GSW
-"Thu, Nov 16",vs. OKC,8,0,4,0,1,1,2,1,0,0,1,0,1,1,2,Gary Payton II,GSW
-"Tue, Nov 14",vs. MIN,16,3,5,1,3,0,0,3,2,0,0,0,1,7,12,Gary Payton II,GSW
-"Sun, Nov 12",vs. MIN,14,2,2,0,0,0,0,4,2,1,0,0,2,4,10,Gary Payton II,GSW
-"Sat, Nov 11",vs. CLE,11,1,4,0,1,1,2,5,0,1,0,0,0,3,8,Gary Payton II,GSW
-"Mon, Nov 6",@ DET,24,3,5,0,0,0,0,6,0,0,2,0,2,6,12,Gary Payton II,GSW
-"Sun, Nov 5",@ CLE,12,2,7,1,3,0,0,2,1,0,0,0,2,5,8,Gary Payton II,GSW
-"Fri, Nov 3",@ OKC,22,4,6,1,3,0,0,3,1,1,2,0,2,9,13,Gary Payton II,GSW
-"Wed, Nov 1",vs. SAC,22,2,4,0,0,0,0,2,1,1,1,0,0,4,7,Gary Payton II,GSW
-"Mon, Oct 30",@ NOR,20,4,10,2,6,0,0,4,1,0,1,1,4,10,15,Gary Payton II,GSW
-"Sun, Oct 29",@ HOU,19,6,8,3,4,0,0,4,1,0,3,1,1,15,20,Gary Payton II,GSW
-"Fri, Oct 27",@ SAC,18,2,4,1,3,2,2,0,1,2,1,0,3,7,8,Gary Payton II,GSW
-"Tue, Oct 24",vs. PHO,22,0,5,0,2,1,2,2,2,0,3,0,1,1,5,Gary Payton II,GSW
-"Sun, Dec 17",@ POR,31,2,12,0,8,3,4,2,8,4,1,1,1,7,17,Stephen Curry,GSW
-"Sat, Dec 16",vs. BKN,35,14,22,6,8,3,3,3,1,3,0,3,1,37,41,Stephen Curry,GSW
-"Thu, Dec 14",@ LAC,34,5,17,3,13,4,4,4,4,1,0,0,3,17,25,Stephen Curry,GSW
-"Tue, Dec 12",@ PHO,32,8,24,4,15,4,4,5,4,1,3,0,2,24,33,Stephen Curry,GSW
-"Fri, Dec 8",@ OKC,40,10,20,6,12,8,8,6,3,3,1,0,0,34,43,Stephen Curry,GSW
-"Wed, Dec 6",vs. POR,34,8,18,5,13,10,11,5,1,4,0,0,2,31,37,Stephen Curry,GSW
-"Sat, Dec 2",@ LAC,37,7,18,4,9,4,4,4,11,2,0,0,0,22,37,Stephen Curry,GSW
-"Thu, Nov 30",vs. LAC,33,8,15,3,9,7,9,7,8,2,1,1,2,26,41,Stephen Curry,GSW
-"Tue, Nov 28",@ SAC,37,8,20,4,12,9,9,10,6,5,0,1,5,29,45,Stephen Curry,GSW
-"Fri, Nov 24",vs. SAS,35,11,20,7,14,6,6,3,6,6,1,0,2,35,44,Stephen Curry,GSW
-"Wed, Nov 22",@ PHO,28,6,15,1,8,3,3,3,6,2,0,0,2,16,25,Stephen Curry,GSW
-"Mon, Nov 20",vs. HOU,35,8,14,5,9,11,12,5,1,4,0,0,2,32,38,Stephen Curry,GSW
-"Sat, Nov 18",vs. OKC,40,8,21,5,11,4,4,7,3,2,0,0,2,25,35,Stephen Curry,GSW
-"Sun, Nov 12",vs. MIN,36,11,25,5,13,11,12,5,3,5,1,0,2,38,46,Stephen Curry,GSW
-"Sat, Nov 11",vs. CLE,33,9,24,4,14,8,8,3,2,4,1,1,1,30,35,Stephen Curry,GSW
-"Wed, Nov 8",@ DEN,34,6,17,6,13,5,5,5,4,3,1,0,2,23,32,Stephen Curry,GSW
-"Mon, Nov 6",@ DET,33,12,26,7,17,3,4,2,4,3,0,0,1,34,40,Stephen Curry,GSW
-"Sun, Nov 5",@ CLE,31,8,16,7,11,5,6,2,4,6,1,0,0,28,34,Stephen Curry,GSW
-"Fri, Nov 3",@ OKC,31,9,15,5,10,7,7,8,7,3,2,0,1,30,45,Stephen Curry,GSW
-"Wed, Nov 1",vs. SAC,32,7,15,4,10,3,3,5,3,7,0,0,3,21,29,Stephen Curry,GSW
-"Mon, Oct 30",@ NOR,30,15,22,7,13,5,7,5,5,3,2,0,1,42,52,Stephen Curry,GSW
-"Sun, Oct 29",@ HOU,31,6,16,6,14,6,6,7,6,1,0,1,1,24,37,Stephen Curry,GSW
-"Fri, Oct 27",@ SAC,35,14,19,7,10,6,6,4,4,4,2,0,0,41,49,Stephen Curry,GSW
-"Tue, Oct 24",vs. PHO,31,8,20,4,14,7,7,5,1,2,1,0,5,27,33,Stephen Curry,GSW
-"Sun, Dec 17",@ POR,29,11,16,5,10,1,1,4,1,1,1,0,3,28,33,Klay Thompson,GSW
-"Sat, Dec 16",vs. BKN,36,7,19,4,9,6,6,5,3,0,1,0,2,24,32,Klay Thompson,GSW
-"Thu, Dec 14",@ LAC,32,9,15,8,12,4,4,1,5,0,2,0,1,30,36,Klay Thompson,GSW
-"Tue, Dec 12",@ PHO,27,2,10,1,8,2,2,5,0,1,0,0,1,7,12,Klay Thompson,GSW
-"Fri, Dec 8",@ OKC,39,8,15,4,9,2,2,4,0,4,0,1,4,22,26,Klay Thompson,GSW
-"Wed, Dec 6",vs. POR,27,3,13,1,8,4,4,5,1,0,0,0,0,11,17,Klay Thompson,GSW
-"Sat, Dec 2",@ LAC,33,5,13,4,11,3,4,6,2,2,1,0,3,17,25,Klay Thompson,GSW
-"Thu, Nov 30",vs. LAC,34,8,18,2,7,4,4,6,2,2,0,1,2,22,30,Klay Thompson,GSW
-"Tue, Nov 28",@ SAC,36,6,14,3,9,5,6,9,2,3,1,2,2,20,31,Klay Thompson,GSW
-"Fri, Nov 24",vs. SAS,29,3,11,3,7,6,7,3,6,2,1,0,3,15,24,Klay Thompson,GSW
-"Wed, Nov 22",@ PHO,25,8,17,6,10,1,1,3,1,2,0,1,3,23,27,Klay Thompson,GSW
-"Mon, Nov 20",vs. HOU,31,7,16,5,11,1,1,3,3,1,0,0,1,20,26,Klay Thompson,GSW
-"Sat, Nov 18",vs. OKC,37,5,13,3,9,3,3,2,4,4,0,1,4,16,22,Klay Thompson,GSW
-"Thu, Nov 16",vs. OKC,27,1,10,1,6,2,2,2,3,2,1,0,1,5,10,Klay Thompson,GSW
-"Tue, Nov 14",vs. MIN,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Klay Thompson,GSW
-"Sun, Nov 12",vs. MIN,33,5,16,3,10,3,3,5,3,1,1,0,1,16,24,Klay Thompson,GSW
-"Sat, Nov 11",vs. CLE,28,5,16,2,5,2,2,5,1,3,0,1,3,14,20,Klay Thompson,GSW
-"Wed, Nov 8",@ DEN,32,5,12,2,8,3,6,6,1,2,1,0,1,15,22,Klay Thompson,GSW
-"Mon, Nov 6",@ DET,28,8,16,1,8,0,0,1,3,2,0,0,1,17,21,Klay Thompson,GSW
-"Sun, Nov 5",@ CLE,32,5,14,3,9,2,2,3,2,2,1,0,2,15,20,Klay Thompson,GSW
-"Fri, Nov 3",@ OKC,33,6,10,4,6,2,2,3,1,1,0,0,4,18,22,Klay Thompson,GSW
-"Wed, Nov 1",vs. SAC,29,6,15,1,4,1,1,2,2,2,0,3,3,14,18,Klay Thompson,GSW
-"Sun, Oct 29",@ HOU,29,7,12,5,10,0,0,4,0,1,0,1,3,19,23,Klay Thompson,GSW
-"Fri, Oct 27",@ SAC,33,7,12,2,4,2,2,3,4,3,1,0,4,18,25,Klay Thompson,GSW
-"Tue, Oct 24",vs. PHO,36,6,18,3,11,0,0,7,3,3,0,1,3,15,25,Klay Thompson,GSW
-"Sun, Dec 17",@ POR,19,5,7,2,3,0,4,4,0,1,1,0,3,12,16,Jonathan Kuminga,GSW
-"Sat, Dec 16",vs. BKN,21,3,6,0,0,4,4,4,2,1,0,1,1,10,16,Jonathan Kuminga,GSW
-"Thu, Dec 14",@ LAC,25,5,10,2,3,3,3,5,1,1,1,0,4,15,21,Jonathan Kuminga,GSW
-"Tue, Dec 12",@ PHO,29,6,10,1,3,3,7,6,0,1,1,0,4,16,22,Jonathan Kuminga,GSW
-"Fri, Dec 8",@ OKC,29,10,21,3,6,1,1,12,0,3,0,0,6,24,36,Jonathan Kuminga,GSW
-"Wed, Dec 6",vs. POR,17,6,6,0,0,1,2,1,1,0,2,0,2,13,15,Jonathan Kuminga,GSW
-"Sat, Dec 2",@ LAC,16,2,6,1,3,1,2,2,0,1,0,0,0,6,8,Jonathan Kuminga,GSW
-"Thu, Nov 30",vs. LAC,23,6,8,3,5,2,4,6,3,1,1,1,0,17,26,Jonathan Kuminga,GSW
-"Tue, Nov 28",@ SAC,10,0,3,0,1,0,0,1,0,2,0,0,3,0,1,Jonathan Kuminga,GSW
-"Fri, Nov 24",vs. SAS,20,5,7,1,2,1,2,1,2,1,0,0,0,12,15,Jonathan Kuminga,GSW
-"Wed, Nov 22",@ PHO,21,3,7,0,1,1,2,1,2,0,1,0,5,7,10,Jonathan Kuminga,GSW
-"Mon, Nov 20",vs. HOU,18,3,7,1,3,0,2,3,1,1,0,0,3,7,11,Jonathan Kuminga,GSW
-"Sat, Nov 18",vs. OKC,20,6,10,0,2,1,2,5,2,3,1,1,2,13,20,Jonathan Kuminga,GSW
-"Thu, Nov 16",vs. OKC,27,8,13,1,4,4,5,6,2,4,0,1,0,21,29,Jonathan Kuminga,GSW
-"Tue, Nov 14",vs. MIN,16,2,3,0,1,1,2,2,1,1,0,0,2,5,8,Jonathan Kuminga,GSW
-"Sun, Nov 12",vs. MIN,24,2,11,0,3,6,7,3,0,0,2,0,2,10,13,Jonathan Kuminga,GSW
-"Sat, Nov 11",vs. CLE,21,2,7,0,1,8,11,3,0,0,0,0,4,12,15,Jonathan Kuminga,GSW
-"Wed, Nov 8",@ DEN,19,4,12,0,1,2,2,4,2,0,0,0,1,10,16,Jonathan Kuminga,GSW
-"Mon, Nov 6",@ DET,19,2,8,0,3,6,8,1,0,1,1,1,3,10,11,Jonathan Kuminga,GSW
-"Sun, Nov 5",@ CLE,20,5,14,1,4,4,5,3,0,1,0,2,2,15,18,Jonathan Kuminga,GSW
-"Fri, Nov 3",@ OKC,22,9,15,0,2,1,2,2,1,3,0,0,2,19,22,Jonathan Kuminga,GSW
-"Wed, Nov 1",vs. SAC,17,4,9,1,2,3,3,1,1,0,1,0,2,12,14,Jonathan Kuminga,GSW
-"Sun, Oct 29",@ HOU,19,3,8,1,3,2,3,2,1,3,1,0,4,9,12,Jonathan Kuminga,GSW
-"Fri, Oct 27",@ SAC,26,5,11,1,3,1,2,5,0,2,0,0,3,12,17,Jonathan Kuminga,GSW
-"Tue, Oct 24",vs. PHO,20,4,8,0,0,4,6,6,1,2,2,1,5,12,19,Jonathan Kuminga,GSW
-"Sun, Dec 17",@ POR,33,4,8,0,2,2,2,5,5,1,1,0,3,10,20,Brandin Podziemski,GSW
-"Sat, Dec 16",vs. BKN,32,7,15,4,9,1,2,5,5,5,3,1,4,19,29,Brandin Podziemski,GSW
-"Thu, Dec 14",@ LAC,35,2,11,0,3,0,0,7,2,3,3,1,2,4,13,Brandin Podziemski,GSW
-"Tue, Dec 12",@ PHO,29,9,14,2,4,0,1,11,5,3,1,0,2,20,36,Brandin Podziemski,GSW
-"Fri, Dec 8",@ OKC,23,5,11,1,4,1,1,6,4,1,1,0,2,12,22,Brandin Podziemski,GSW
-"Wed, Dec 6",vs. POR,21,1,3,1,1,0,2,5,1,1,0,0,2,3,9,Brandin Podziemski,GSW
-"Sat, Dec 2",@ LAC,37,5,9,2,3,0,0,6,3,1,1,2,2,12,21,Brandin Podziemski,GSW
-"Thu, Nov 30",vs. LAC,31,5,10,2,4,1,2,8,2,0,0,0,2,13,23,Brandin Podziemski,GSW
-"Fri, Nov 24",vs. SAS,12,0,5,0,2,0,0,3,2,1,0,0,0,0,5,Brandin Podziemski,GSW
-"Wed, Nov 22",@ PHO,23,4,9,1,3,1,2,4,2,0,3,0,1,10,16,Brandin Podziemski,GSW
-"Mon, Nov 20",vs. HOU,18,1,2,1,2,0,0,5,3,0,0,0,2,3,11,Brandin Podziemski,GSW
-"Sat, Nov 18",vs. OKC,25,2,6,1,4,3,4,3,3,3,0,0,0,8,14,Brandin Podziemski,GSW
-"Thu, Nov 16",vs. OKC,25,4,7,3,4,2,2,8,3,1,0,0,5,13,24,Brandin Podziemski,GSW
-"Tue, Nov 14",vs. MIN,39,9,18,3,8,2,2,7,5,3,1,0,4,23,35,Brandin Podziemski,GSW
-"Sun, Nov 12",vs. MIN,1,3,5,2,2,0,0,1,0,0,1,0,0,8,9,Brandin Podziemski,GSW
-"Sat, Nov 11",vs. CLE,8,1,2,0,0,0,0,2,2,1,1,0,1,2,6,Brandin Podziemski,GSW
-"Wed, Nov 8",@ DEN,11,2,3,0,0,1,1,3,2,0,0,0,2,5,10,Brandin Podziemski,GSW
-"Mon, Nov 6",@ DET,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Brandin Podziemski,GSW
-"Sun, Nov 5",@ CLE,8,0,2,0,1,0,0,2,2,2,0,0,0,0,4,Brandin Podziemski,GSW
-"Mon, Oct 30",@ NOR,23,2,5,0,1,1,2,8,2,2,0,0,4,5,15,Brandin Podziemski,GSW
-"Sun, Dec 17",@ POR,29,9,12,4,6,3,4,7,2,0,1,1,2,25,34,Andrew Wiggins,GSW
-"Sat, Dec 16",vs. BKN,27,4,9,1,1,5,5,5,1,0,1,0,0,14,20,Andrew Wiggins,GSW
-"Thu, Dec 14",@ LAC,22,4,9,0,4,1,2,3,0,0,0,1,5,9,12,Andrew Wiggins,GSW
-"Tue, Dec 12",@ PHO,15,1,7,1,3,0,0,4,1,3,0,0,1,3,8,Andrew Wiggins,GSW
-"Fri, Dec 8",@ OKC,32,4,11,2,4,2,2,6,1,6,0,0,3,12,19,Andrew Wiggins,GSW
-"Wed, Dec 6",vs. POR,27,3,12,0,1,3,3,3,1,1,0,0,1,9,13,Andrew Wiggins,GSW
-"Tue, Nov 28",@ SAC,36,11,18,2,5,5,6,10,3,3,0,0,5,29,42,Andrew Wiggins,GSW
-"Fri, Nov 24",vs. SAS,25,4,10,2,4,0,0,4,0,3,0,0,3,10,14,Andrew Wiggins,GSW
-"Wed, Nov 22",@ PHO,25,4,11,0,3,3,4,4,1,2,0,1,1,11,16,Andrew Wiggins,GSW
-"Mon, Nov 20",vs. HOU,30,3,10,2,3,4,4,7,1,0,0,0,2,12,20,Andrew Wiggins,GSW
-"Sat, Nov 18",vs. OKC,35,12,19,5,8,2,4,0,3,0,1,1,4,31,34,Andrew Wiggins,GSW
-"Thu, Nov 16",vs. OKC,26,6,13,0,4,0,0,6,2,5,0,0,2,12,20,Andrew Wiggins,GSW
-"Tue, Nov 14",vs. MIN,28,4,15,1,7,0,0,7,0,4,3,1,5,9,16,Andrew Wiggins,GSW
-"Sun, Nov 12",vs. MIN,25,3,7,0,2,0,2,4,2,1,1,0,4,6,12,Andrew Wiggins,GSW
-"Sat, Nov 11",vs. CLE,29,6,12,1,4,0,2,5,3,3,0,0,2,13,21,Andrew Wiggins,GSW
-"Wed, Nov 8",@ DEN,29,4,13,0,3,3,4,5,0,1,0,0,3,11,16,Andrew Wiggins,GSW
-"Mon, Nov 6",@ DET,22,2,9,0,2,0,2,6,1,2,1,1,0,4,11,Andrew Wiggins,GSW
-"Sun, Nov 5",@ CLE,26,3,9,1,2,1,4,5,1,0,0,0,1,8,14,Andrew Wiggins,GSW
-"Fri, Nov 3",@ OKC,27,6,11,0,1,5,8,5,1,0,0,0,1,17,23,Andrew Wiggins,GSW
-"Wed, Nov 1",vs. SAC,25,6,10,0,1,2,2,2,0,1,0,0,2,14,16,Andrew Wiggins,GSW
-"Mon, Oct 30",@ NOR,20,4,8,1,2,0,2,3,0,3,0,0,2,9,12,Andrew Wiggins,GSW
-"Sun, Oct 29",@ HOU,28,4,10,1,3,4,5,0,0,2,0,0,2,13,13,Andrew Wiggins,GSW
-"Fri, Oct 27",@ SAC,27,5,13,0,3,1,2,5,3,2,0,2,4,11,19,Andrew Wiggins,GSW
-"Tue, Oct 24",vs. PHO,27,4,12,0,3,2,3,1,0,0,0,1,3,10,11,Andrew Wiggins,GSW
-"Wed, Nov 22",@ PHO,8,1,1,0,0,0,0,1,0,2,0,0,2,2,3,Gui Santos,GSW
-"Thu, Nov 16",vs. OKC,4,1,3,0,1,0,0,3,1,0,0,0,0,2,6,Gui Santos,GSW
-"Sun, Dec 17",@ POR,15,2,5,0,0,0,0,4,2,0,1,1,2,4,10,Kevon Looney,GSW
-"Sat, Dec 16",vs. BKN,27,2,5,0,0,0,0,7,3,0,1,0,2,4,14,Kevon Looney,GSW
-"Thu, Dec 14",@ LAC,26,4,7,0,0,0,0,7,5,1,1,0,2,8,20,Kevon Looney,GSW
-"Tue, Dec 12",@ PHO,11,0,0,0,0,0,0,5,2,0,1,0,2,0,7,Kevon Looney,GSW
-"Fri, Dec 8",@ OKC,16,2,2,0,0,1,3,4,2,2,0,0,1,5,11,Kevon Looney,GSW
-"Wed, Dec 6",vs. POR,16,2,6,0,0,2,2,8,0,0,1,0,2,6,14,Kevon Looney,GSW
-"Sat, Dec 2",@ LAC,18,3,3,0,0,1,2,8,3,1,0,1,1,7,18,Kevon Looney,GSW
-"Thu, Nov 30",vs. LAC,13,0,4,0,0,2,2,5,2,0,0,0,2,2,9,Kevon Looney,GSW
-"Tue, Nov 28",@ SAC,29,0,1,0,0,2,4,5,2,0,1,0,4,2,9,Kevon Looney,GSW
-"Fri, Nov 24",vs. SAS,24,2,3,0,0,2,3,8,4,2,2,0,3,6,18,Kevon Looney,GSW
-"Wed, Nov 22",@ PHO,17,3,5,0,0,0,0,6,2,2,1,0,4,6,14,Kevon Looney,GSW
-"Mon, Nov 20",vs. HOU,22,2,4,0,0,3,4,5,3,0,0,0,3,7,15,Kevon Looney,GSW
-"Sat, Nov 18",vs. OKC,35,3,6,0,0,0,0,16,5,1,0,1,0,6,27,Kevon Looney,GSW
-"Thu, Nov 16",vs. OKC,19,6,9,0,0,1,2,11,1,1,1,0,3,13,25,Kevon Looney,GSW
-"Tue, Nov 14",vs. MIN,32,1,4,0,0,0,0,12,3,0,1,0,2,2,17,Kevon Looney,GSW
-"Sun, Nov 12",vs. MIN,19,1,3,0,0,0,0,6,0,0,1,0,3,2,8,Kevon Looney,GSW
-"Sat, Nov 11",vs. CLE,24,1,2,0,0,0,0,13,2,1,0,0,5,2,17,Kevon Looney,GSW
-"Wed, Nov 8",@ DEN,30,4,4,0,0,2,3,8,4,2,1,0,5,10,22,Kevon Looney,GSW
-"Mon, Nov 6",@ DET,25,5,6,0,0,0,0,6,1,2,0,2,4,10,17,Kevon Looney,GSW
-"Sun, Nov 5",@ CLE,15,1,2,0,0,0,0,11,5,0,0,0,1,2,18,Kevon Looney,GSW
-"Fri, Nov 3",@ OKC,11,1,2,0,0,2,2,3,4,2,1,1,4,4,11,Kevon Looney,GSW
-"Wed, Nov 1",vs. SAC,23,3,4,0,0,0,0,9,6,0,1,0,2,6,21,Kevon Looney,GSW
-"Mon, Oct 30",@ NOR,25,3,5,0,0,2,2,7,1,1,1,0,2,8,16,Kevon Looney,GSW
-"Sun, Oct 29",@ HOU,27,2,3,0,0,1,2,11,1,1,1,1,2,5,17,Kevon Looney,GSW
-"Fri, Oct 27",@ SAC,28,4,6,0,0,0,0,12,6,1,3,1,3,8,26,Kevon Looney,GSW
-"Tue, Oct 24",vs. PHO,28,3,6,0,0,1,1,11,1,2,0,0,2,7,19,Kevon Looney,GSW
-"Tue, Dec 12",@ PHO,17,1,3,0,2,0,0,2,2,3,0,0,3,2,6,Draymond Green,GSW
-"Fri, Dec 8",@ OKC,35,5,7,1,2,1,2,5,13,4,0,1,6,12,30,Draymond Green,GSW
-"Wed, Dec 6",vs. POR,31,3,7,0,2,4,4,10,9,4,0,2,3,10,29,Draymond Green,GSW
-"Sat, Dec 2",@ LAC,32,8,15,4,8,1,2,9,4,3,0,1,2,21,34,Draymond Green,GSW
-"Thu, Nov 30",vs. LAC,29,4,8,2,4,3,4,5,5,2,0,0,5,13,23,Draymond Green,GSW
-"Tue, Nov 28",@ SAC,33,3,8,2,4,0,0,6,3,4,0,2,4,8,17,Draymond Green,GSW
-"Tue, Nov 14",vs. MIN,2,0,0,0,0,0,0,2,0,1,0,0,1,0,2,Draymond Green,GSW
-"Sun, Nov 12",vs. MIN,24,3,7,1,3,2,2,9,7,2,1,0,5,9,25,Draymond Green,GSW
-"Sat, Nov 11",vs. CLE,18,3,4,2,3,0,0,5,4,1,0,0,3,8,17,Draymond Green,GSW
-"Mon, Nov 6",@ DET,28,2,4,0,1,2,2,9,8,1,0,0,2,6,23,Draymond Green,GSW
-"Sun, Nov 5",@ CLE,29,5,11,2,3,6,6,3,8,1,3,1,0,18,29,Draymond Green,GSW
-"Fri, Nov 3",@ OKC,29,5,11,2,4,3,3,5,3,3,0,1,5,15,23,Draymond Green,GSW
-"Wed, Nov 1",vs. SAC,28,4,7,2,4,3,4,2,9,2,2,2,1,13,24,Draymond Green,GSW
-"Mon, Oct 30",@ NOR,22,3,8,0,2,0,0,6,7,1,0,1,2,6,19,Draymond Green,GSW
-"Sun, Oct 29",@ HOU,21,2,4,0,0,0,1,5,5,4,0,0,3,4,14,Draymond Green,GSW
-"Sun, Dec 17",@ POR,15,2,4,2,3,2,2,1,1,2,0,0,3,8,10,Dario Saric,GSW
-"Sat, Dec 16",vs. BKN,21,5,8,2,3,0,0,6,2,2,1,0,3,12,20,Dario Saric,GSW
-"Thu, Dec 14",@ LAC,17,2,5,1,4,0,0,6,1,1,0,0,2,5,12,Dario Saric,GSW
-"Tue, Dec 12",@ PHO,20,5,9,2,4,3,4,4,1,0,0,0,5,15,20,Dario Saric,GSW
-"Fri, Dec 8",@ OKC,23,3,8,2,6,3,4,12,3,3,1,0,2,11,26,Dario Saric,GSW
-"Wed, Dec 6",vs. POR,20,4,7,2,3,3,4,6,0,4,0,0,3,13,19,Dario Saric,GSW
-"Sat, Dec 2",@ LAC,20,3,7,0,2,0,0,2,3,3,1,0,2,6,11,Dario Saric,GSW
-"Thu, Nov 30",vs. LAC,27,4,7,2,4,3,4,5,5,0,1,0,2,13,23,Dario Saric,GSW
-"Tue, Nov 28",@ SAC,17,3,7,2,4,2,2,2,3,0,0,0,3,10,15,Dario Saric,GSW
-"Fri, Nov 24",vs. SAS,26,7,11,4,7,2,2,7,4,3,2,0,3,20,31,Dario Saric,GSW
-"Wed, Nov 22",@ PHO,22,6,9,2,3,3,5,6,4,1,2,0,4,17,27,Dario Saric,GSW
-"Mon, Nov 20",vs. HOU,26,5,10,3,7,5,6,5,2,1,1,1,2,18,25,Dario Saric,GSW
-"Sat, Nov 18",vs. OKC,18,3,9,0,2,0,0,8,1,1,0,0,1,6,15,Dario Saric,GSW
-"Thu, Nov 16",vs. OKC,24,4,10,2,3,2,2,3,4,1,1,0,4,12,19,Dario Saric,GSW
-"Tue, Nov 14",vs. MIN,32,6,15,3,11,6,6,4,4,2,2,0,4,21,29,Dario Saric,GSW
-"Sun, Nov 12",vs. MIN,27,5,10,1,4,0,0,10,1,1,1,0,4,11,22,Dario Saric,GSW
-"Sat, Nov 11",vs. CLE,16,2,5,0,3,1,1,5,1,0,0,1,3,5,11,Dario Saric,GSW
-"Wed, Nov 8",@ DEN,26,2,5,0,3,0,0,8,2,0,0,0,0,4,14,Dario Saric,GSW
-"Mon, Nov 6",@ DET,21,4,8,2,5,2,2,6,1,0,1,0,1,12,19,Dario Saric,GSW
-"Sun, Nov 5",@ CLE,13,0,3,0,1,0,0,5,0,1,0,0,2,0,5,Dario Saric,GSW
-"Fri, Nov 3",@ OKC,20,6,9,4,7,4,4,6,3,1,1,0,2,20,29,Dario Saric,GSW
-"Wed, Nov 1",vs. SAC,20,6,9,3,5,0,0,6,2,4,0,0,1,15,23,Dario Saric,GSW
-"Mon, Oct 30",@ NOR,21,2,7,1,4,1,2,10,2,0,0,1,2,6,18,Dario Saric,GSW
-"Sun, Oct 29",@ HOU,21,1,6,1,3,1,2,8,5,1,0,1,0,4,17,Dario Saric,GSW
-"Fri, Oct 27",@ SAC,14,2,5,1,4,0,0,4,1,1,1,0,4,5,10,Dario Saric,GSW
-"Tue, Oct 24",vs. PHO,20,3,11,1,3,0,0,7,1,0,0,2,3,7,15,Dario Saric,GSW
-"Mon, Dec 18",@ CLE,31,11,20,1,3,1,2,8,6,4,1,0,5,24,38,Alperen Sengun,HOU
-"Sun, Dec 17",@ MIL,31,8,15,0,3,4,6,8,5,0,1,1,4,20,33,Alperen Sengun,HOU
-"Fri, Dec 15",@ MEM,32,4,12,0,0,7,7,7,1,4,2,3,3,15,23,Alperen Sengun,HOU
-"Wed, Dec 13",vs. MEM,24,2,8,0,1,5,6,10,2,2,0,0,4,9,21,Alperen Sengun,HOU
-"Mon, Dec 11",vs. SAS,30,6,12,1,1,2,4,9,4,6,2,1,3,15,28,Alperen Sengun,HOU
-"Fri, Dec 8",@ DEN,34,7,14,0,1,3,5,10,7,1,0,1,3,17,34,Alperen Sengun,HOU
-"Wed, Dec 6",vs. OKC,35,8,13,0,2,5,11,6,7,4,1,2,4,21,34,Alperen Sengun,HOU
-"Sat, Dec 2",@ LAL,34,8,25,3,8,2,2,13,5,0,2,2,2,21,39,Alperen Sengun,HOU
-"Wed, Nov 29",@ DEN,28,10,18,2,6,0,0,7,4,1,1,0,3,22,33,Alperen Sengun,HOU
-"Tue, Nov 28",@ DAL,35,10,19,0,2,11,14,9,6,3,0,1,2,31,46,Alperen Sengun,HOU
-"Fri, Nov 24",vs. DEN,43,8,19,0,4,5,6,15,8,5,2,1,4,21,44,Alperen Sengun,HOU
-"Wed, Nov 22",vs. MEM,32,4,9,1,1,2,3,7,3,2,0,3,5,11,21,Alperen Sengun,HOU
-"Mon, Nov 20",@ GSW,37,13,23,2,3,2,5,13,5,3,1,1,4,30,48,Alperen Sengun,HOU
-"Sun, Nov 19",@ LAL,31,11,16,1,2,0,0,10,5,4,0,1,4,23,38,Alperen Sengun,HOU
-"Fri, Nov 17",@ LAC,34,8,18,2,5,5,7,8,4,6,1,0,4,23,35,Alperen Sengun,HOU
-"Sun, Nov 12",vs. DEN,35,9,18,0,2,5,6,8,5,3,1,2,2,23,36,Alperen Sengun,HOU
-"Fri, Nov 10",vs. NOR,34,11,15,0,2,2,5,8,3,4,2,1,3,24,35,Alperen Sengun,HOU
-"Wed, Nov 8",vs. LAL,25,8,10,0,0,3,4,7,4,1,0,0,1,19,30,Alperen Sengun,HOU
-"Mon, Nov 6",vs. SAC,26,7,13,0,2,3,4,8,12,1,1,0,3,17,37,Alperen Sengun,HOU
-"Sat, Nov 4",vs. SAC,34,7,13,1,3,0,0,9,6,2,2,0,2,15,30,Alperen Sengun,HOU
-"Wed, Nov 1",vs. CHA,27,9,12,1,1,0,1,7,4,1,1,0,1,19,30,Alperen Sengun,HOU
-"Sun, Oct 29",vs. GSW,33,7,15,1,2,4,4,5,7,0,0,0,3,19,31,Alperen Sengun,HOU
-"Fri, Oct 27",@ SAS,41,11,18,1,3,2,6,14,7,6,2,1,6,25,46,Alperen Sengun,HOU
-"Wed, Oct 25",@ ORL,28,6,11,0,1,2,4,8,6,1,0,0,4,14,28,Alperen Sengun,HOU
-"Mon, Dec 18",@ CLE,45,9,19,4,8,5,5,8,17,2,2,1,4,27,52,Fred VanVleet,HOU
-"Sun, Dec 17",@ MIL,39,8,16,4,8,2,2,2,6,1,1,2,2,22,30,Fred VanVleet,HOU
-"Fri, Dec 15",@ MEM,36,5,12,2,4,4,5,6,8,0,4,2,2,16,30,Fred VanVleet,HOU
-"Wed, Dec 13",vs. MEM,39,2,8,0,3,7,9,5,9,3,3,0,4,11,25,Fred VanVleet,HOU
-"Mon, Dec 11",vs. SAS,39,6,17,4,11,0,0,6,5,3,2,0,0,16,27,Fred VanVleet,HOU
-"Fri, Dec 8",@ DEN,40,6,17,4,10,10,13,4,3,1,0,1,3,26,33,Fred VanVleet,HOU
-"Wed, Dec 6",vs. OKC,38,4,14,3,7,0,0,3,9,3,3,1,0,11,23,Fred VanVleet,HOU
-"Sat, Dec 2",@ LAL,40,7,15,4,7,4,4,5,7,3,0,0,1,22,34,Fred VanVleet,HOU
-"Tue, Nov 28",@ DAL,41,3,9,1,7,3,3,4,12,0,1,1,3,10,26,Fred VanVleet,HOU
-"Fri, Nov 24",vs. DEN,39,6,12,3,5,2,2,6,11,1,1,2,3,17,34,Fred VanVleet,HOU
-"Wed, Nov 22",vs. MEM,39,5,12,4,8,2,3,7,4,1,2,0,0,16,27,Fred VanVleet,HOU
-"Mon, Nov 20",@ GSW,41,3,13,1,8,3,3,5,14,0,0,0,2,10,29,Fred VanVleet,HOU
-"Sun, Nov 19",@ LAL,40,5,14,3,10,2,2,1,16,3,1,0,1,15,32,Fred VanVleet,HOU
-"Fri, Nov 17",@ LAC,41,7,14,5,9,0,0,8,10,2,1,1,0,19,37,Fred VanVleet,HOU
-"Sun, Nov 12",vs. DEN,41,9,21,3,9,5,7,2,4,2,0,0,2,26,32,Fred VanVleet,HOU
-"Fri, Nov 10",vs. NOR,40,7,15,4,9,2,2,3,8,1,1,1,2,20,31,Fred VanVleet,HOU
-"Wed, Nov 8",vs. LAL,29,2,9,1,6,4,4,4,10,1,1,0,2,9,23,Fred VanVleet,HOU
-"Mon, Nov 6",vs. SAC,27,3,8,3,5,2,2,4,5,1,0,0,1,11,20,Fred VanVleet,HOU
-"Sat, Nov 4",vs. SAC,36,7,22,4,14,3,3,6,12,2,0,2,4,21,39,Fred VanVleet,HOU
-"Wed, Nov 1",vs. CHA,39,8,17,5,10,1,1,3,11,2,0,0,1,22,36,Fred VanVleet,HOU
-"Sun, Oct 29",vs. GSW,32,2,13,2,7,2,2,0,4,0,2,0,2,8,12,Fred VanVleet,HOU
-"Fri, Oct 27",@ SAS,45,10,20,2,10,2,3,8,12,3,0,0,5,24,44,Fred VanVleet,HOU
-"Wed, Oct 25",@ ORL,34,5,13,4,6,0,0,1,5,3,1,0,0,14,20,Fred VanVleet,HOU
-"Mon, Dec 18",@ CLE,16,1,4,0,0,1,1,3,1,0,0,0,2,3,7,Jae'Sean Tate,HOU
-"Sun, Dec 17",@ MIL,19,0,2,0,0,0,0,3,1,2,1,0,2,0,4,Jae'Sean Tate,HOU
-"Wed, Dec 13",vs. MEM,23,4,9,1,4,1,3,7,3,0,1,0,1,10,20,Jae'Sean Tate,HOU
-"Mon, Dec 11",vs. SAS,9,2,2,1,1,0,0,2,0,1,0,0,0,5,7,Jae'Sean Tate,HOU
-"Fri, Dec 8",@ DEN,13,2,3,1,2,0,0,2,0,0,0,0,2,5,7,Jae'Sean Tate,HOU
-"Wed, Dec 6",vs. OKC,15,0,2,0,1,0,0,1,0,2,0,0,1,0,1,Jae'Sean Tate,HOU
-"Sat, Dec 2",@ LAL,14,1,2,0,0,0,0,2,0,0,0,0,2,2,4,Jae'Sean Tate,HOU
-"Tue, Nov 28",@ DAL,11,1,2,0,1,3,3,2,2,0,1,0,2,5,9,Jae'Sean Tate,HOU
-"Fri, Nov 24",vs. DEN,16,2,4,0,1,0,0,3,0,1,0,1,4,4,7,Jae'Sean Tate,HOU
-"Wed, Nov 22",vs. MEM,26,1,4,0,3,0,0,9,4,0,1,0,4,2,15,Jae'Sean Tate,HOU
-"Mon, Nov 20",@ GSW,21,4,7,1,2,0,0,3,1,1,0,0,3,9,13,Jae'Sean Tate,HOU
-"Sun, Nov 19",@ LAL,16,2,3,0,0,0,0,3,2,0,1,0,1,4,9,Jae'Sean Tate,HOU
-"Fri, Nov 17",@ LAC,9,3,5,0,1,0,0,4,0,1,0,0,5,6,10,Jae'Sean Tate,HOU
-"Sun, Nov 12",vs. DEN,20,1,3,0,0,1,2,6,0,0,3,0,2,3,9,Jae'Sean Tate,HOU
-"Fri, Nov 10",vs. NOR,24,3,7,1,4,0,0,3,2,0,3,0,4,7,12,Jae'Sean Tate,HOU
-"Wed, Nov 8",vs. LAL,27,6,10,2,6,0,0,1,1,0,0,1,3,14,16,Jae'Sean Tate,HOU
-"Mon, Nov 6",vs. SAC,21,3,5,2,4,0,0,4,1,0,2,0,2,8,13,Jae'Sean Tate,HOU
-"Sat, Nov 4",vs. SAC,21,4,6,3,3,0,0,4,1,0,0,0,4,11,16,Jae'Sean Tate,HOU
-"Wed, Nov 1",vs. CHA,19,1,5,1,2,1,2,6,5,0,0,0,4,4,15,Jae'Sean Tate,HOU
-"Sun, Oct 29",vs. GSW,22,2,6,0,2,2,2,8,1,1,2,2,2,6,15,Jae'Sean Tate,HOU
-"Fri, Oct 27",@ SAS,14,1,2,0,1,1,1,0,0,1,3,0,1,3,3,Jae'Sean Tate,HOU
-"Wed, Oct 25",@ ORL,15,2,2,1,1,0,0,2,0,0,1,1,1,5,7,Jae'Sean Tate,HOU
+"Sun, Dec 17",@ POR,19,3,7,0,2,0,0,4,1,1,1,0,0,6,11,Moses Moody,GSW
+"Sat, Dec 16",vs. BKN,12,1,3,0,0,0,0,3,1,0,0,0,0,2,6,Moses Moody,GSW
+"Thu, Dec 14",@ LAC,16,4,6,0,1,3,4,5,1,2,1,0,1,11,17,Moses Moody,GSW
+"Tue, Dec 12",@ PHO,24,3,6,2,3,4,6,4,0,2,0,0,3,12,16,Moses Moody,GSW
+"Fri, Dec 8",@ OKC,16,1,6,0,4,0,0,4,0,2,0,0,4,2,6,Moses Moody,GSW
+"Wed, Dec 6",vs. POR,26,5,10,1,4,1,1,4,0,1,1,1,2,12,16,Moses Moody,GSW
+"Sat, Dec 2",@ LAC,32,5,13,2,5,9,10,5,2,0,2,0,3,21,28,Moses Moody,GSW
+"Thu, Nov 30",vs. LAC,28,6,10,1,4,0,0,3,1,0,0,1,2,13,17,Moses Moody,GSW
+"Tue, Nov 28",@ SAC,13,4,4,3,3,0,0,1,2,0,0,0,1,11,14,Moses Moody,GSW
+"Fri, Nov 24",vs. SAS,17,4,4,1,1,0,2,4,1,2,0,0,0,9,14,Moses Moody,GSW
+"Wed, Nov 22",@ PHO,23,4,8,0,1,0,1,9,1,1,0,1,5,8,18,Moses Moody,GSW
+"Mon, Nov 20",vs. HOU,22,3,7,1,3,0,0,4,0,0,0,0,2,7,11,Moses Moody,GSW
+"Sat, Nov 18",vs. OKC,18,1,4,0,3,4,4,4,1,2,1,0,2,6,11,Moses Moody,GSW
+"Thu, Nov 16",vs. OKC,23,5,11,2,4,0,1,4,1,1,0,1,1,12,17,Moses Moody,GSW
+"Tue, Nov 14",vs. MIN,14,4,6,1,2,2,2,2,2,0,1,0,0,11,15,Moses Moody,GSW
+"Sun, Nov 12",vs. MIN,13,1,6,0,4,0,0,3,0,1,0,0,1,2,5,Moses Moody,GSW
+"Sat, Nov 11",vs. CLE,18,2,4,2,3,2,2,5,1,1,0,0,3,8,14,Moses Moody,GSW
+"Wed, Nov 8",@ DEN,14,4,7,2,3,0,0,3,1,0,1,0,0,10,14,Moses Moody,GSW
+"Mon, Nov 6",@ DET,19,2,6,0,2,0,0,2,2,0,3,0,0,4,8,Moses Moody,GSW
+"Sun, Nov 5",@ CLE,14,1,3,0,2,1,2,3,0,0,1,0,1,3,6,Moses Moody,GSW
+"Fri, Nov 3",@ OKC,18,3,7,2,5,0,0,1,2,1,1,0,3,8,11,Moses Moody,GSW
+"Wed, Nov 1",vs. SAC,15,0,3,0,2,1,2,3,0,0,0,1,1,1,4,Moses Moody,GSW
+"Mon, Oct 30",@ NOR,21,5,8,2,5,1,1,3,4,0,0,0,0,13,20,Moses Moody,GSW
+"Sun, Oct 29",@ HOU,17,1,6,1,5,2,2,3,1,0,0,1,1,5,9,Moses Moody,GSW
+"Fri, Oct 27",@ SAC,21,4,5,2,3,0,0,3,1,1,3,0,0,10,14,Moses Moody,GSW
+"Tue, Oct 24",vs. PHO,18,4,6,2,4,1,2,3,0,1,3,1,1,11,14,Moses Moody,GSW
 "Mon, Dec 18",@ CLE,34,2,12,1,4,7,7,6,3,2,1,2,2,12,21,Jalen Green,HOU
 "Sun, Dec 17",@ MIL,29,6,11,2,4,2,2,2,7,1,0,0,0,16,25,Jalen Green,HOU
 "Fri, Dec 15",@ MEM,28,4,12,3,7,3,4,4,4,1,0,1,1,14,22,Jalen Green,HOU
@@ -2777,6 +2723,30 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",vs. GSW,38,8,20,1,5,4,5,9,1,4,0,1,1,21,31,Jalen Green,HOU
 "Fri, Oct 27",@ SAS,38,10,20,2,6,0,0,5,4,2,0,0,2,22,31,Jalen Green,HOU
 "Wed, Oct 25",@ ORL,30,2,10,0,1,6,7,1,0,4,1,1,2,10,11,Jalen Green,HOU
+"Mon, Dec 18",@ CLE,31,11,20,1,3,1,2,8,6,4,1,0,5,24,38,Alperen Sengun,HOU
+"Sun, Dec 17",@ MIL,31,8,15,0,3,4,6,8,5,0,1,1,4,20,33,Alperen Sengun,HOU
+"Fri, Dec 15",@ MEM,32,4,12,0,0,7,7,7,1,4,2,3,3,15,23,Alperen Sengun,HOU
+"Wed, Dec 13",vs. MEM,24,2,8,0,1,5,6,10,2,2,0,0,4,9,21,Alperen Sengun,HOU
+"Mon, Dec 11",vs. SAS,30,6,12,1,1,2,4,9,4,6,2,1,3,15,28,Alperen Sengun,HOU
+"Fri, Dec 8",@ DEN,34,7,14,0,1,3,5,10,7,1,0,1,3,17,34,Alperen Sengun,HOU
+"Wed, Dec 6",vs. OKC,35,8,13,0,2,5,11,6,7,4,1,2,4,21,34,Alperen Sengun,HOU
+"Sat, Dec 2",@ LAL,34,8,25,3,8,2,2,13,5,0,2,2,2,21,39,Alperen Sengun,HOU
+"Wed, Nov 29",@ DEN,28,10,18,2,6,0,0,7,4,1,1,0,3,22,33,Alperen Sengun,HOU
+"Tue, Nov 28",@ DAL,35,10,19,0,2,11,14,9,6,3,0,1,2,31,46,Alperen Sengun,HOU
+"Fri, Nov 24",vs. DEN,43,8,19,0,4,5,6,15,8,5,2,1,4,21,44,Alperen Sengun,HOU
+"Wed, Nov 22",vs. MEM,32,4,9,1,1,2,3,7,3,2,0,3,5,11,21,Alperen Sengun,HOU
+"Mon, Nov 20",@ GSW,37,13,23,2,3,2,5,13,5,3,1,1,4,30,48,Alperen Sengun,HOU
+"Sun, Nov 19",@ LAL,31,11,16,1,2,0,0,10,5,4,0,1,4,23,38,Alperen Sengun,HOU
+"Fri, Nov 17",@ LAC,34,8,18,2,5,5,7,8,4,6,1,0,4,23,35,Alperen Sengun,HOU
+"Sun, Nov 12",vs. DEN,35,9,18,0,2,5,6,8,5,3,1,2,2,23,36,Alperen Sengun,HOU
+"Fri, Nov 10",vs. NOR,34,11,15,0,2,2,5,8,3,4,2,1,3,24,35,Alperen Sengun,HOU
+"Wed, Nov 8",vs. LAL,25,8,10,0,0,3,4,7,4,1,0,0,1,19,30,Alperen Sengun,HOU
+"Mon, Nov 6",vs. SAC,26,7,13,0,2,3,4,8,12,1,1,0,3,17,37,Alperen Sengun,HOU
+"Sat, Nov 4",vs. SAC,34,7,13,1,3,0,0,9,6,2,2,0,2,15,30,Alperen Sengun,HOU
+"Wed, Nov 1",vs. CHA,27,9,12,1,1,0,1,7,4,1,1,0,1,19,30,Alperen Sengun,HOU
+"Sun, Oct 29",vs. GSW,33,7,15,1,2,4,4,5,7,0,0,0,3,19,31,Alperen Sengun,HOU
+"Fri, Oct 27",@ SAS,41,11,18,1,3,2,6,14,7,6,2,1,6,25,46,Alperen Sengun,HOU
+"Wed, Oct 25",@ ORL,28,6,11,0,1,2,4,8,6,1,0,0,4,14,28,Alperen Sengun,HOU
 "Mon, Dec 18",@ CLE,24,6,6,0,0,3,3,1,3,1,0,1,3,15,19,Jeff Green,HOU
 "Sun, Dec 17",@ MIL,17,4,5,1,1,7,8,0,1,1,0,0,0,16,17,Jeff Green,HOU
 "Fri, Dec 15",@ MEM,19,3,9,0,1,6,7,4,1,1,0,1,1,12,17,Jeff Green,HOU
@@ -2800,6 +2770,51 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",vs. GSW,21,2,7,0,2,2,2,3,2,0,0,1,0,6,11,Jeff Green,HOU
 "Fri, Oct 27",@ SAS,21,4,4,0,0,2,2,1,1,0,0,0,1,10,12,Jeff Green,HOU
 "Wed, Oct 25",@ ORL,14,2,4,0,1,0,1,3,1,1,0,0,2,4,8,Jeff Green,HOU
+"Mon, Dec 18",@ CLE,16,1,4,0,0,1,1,3,1,0,0,0,2,3,7,Jae'Sean Tate,HOU
+"Sun, Dec 17",@ MIL,19,0,2,0,0,0,0,3,1,2,1,0,2,0,4,Jae'Sean Tate,HOU
+"Wed, Dec 13",vs. MEM,23,4,9,1,4,1,3,7,3,0,1,0,1,10,20,Jae'Sean Tate,HOU
+"Mon, Dec 11",vs. SAS,9,2,2,1,1,0,0,2,0,1,0,0,0,5,7,Jae'Sean Tate,HOU
+"Fri, Dec 8",@ DEN,13,2,3,1,2,0,0,2,0,0,0,0,2,5,7,Jae'Sean Tate,HOU
+"Wed, Dec 6",vs. OKC,15,0,2,0,1,0,0,1,0,2,0,0,1,0,1,Jae'Sean Tate,HOU
+"Sat, Dec 2",@ LAL,14,1,2,0,0,0,0,2,0,0,0,0,2,2,4,Jae'Sean Tate,HOU
+"Tue, Nov 28",@ DAL,11,1,2,0,1,3,3,2,2,0,1,0,2,5,9,Jae'Sean Tate,HOU
+"Fri, Nov 24",vs. DEN,16,2,4,0,1,0,0,3,0,1,0,1,4,4,7,Jae'Sean Tate,HOU
+"Wed, Nov 22",vs. MEM,26,1,4,0,3,0,0,9,4,0,1,0,4,2,15,Jae'Sean Tate,HOU
+"Mon, Nov 20",@ GSW,21,4,7,1,2,0,0,3,1,1,0,0,3,9,13,Jae'Sean Tate,HOU
+"Sun, Nov 19",@ LAL,16,2,3,0,0,0,0,3,2,0,1,0,1,4,9,Jae'Sean Tate,HOU
+"Fri, Nov 17",@ LAC,9,3,5,0,1,0,0,4,0,1,0,0,5,6,10,Jae'Sean Tate,HOU
+"Sun, Nov 12",vs. DEN,20,1,3,0,0,1,2,6,0,0,3,0,2,3,9,Jae'Sean Tate,HOU
+"Fri, Nov 10",vs. NOR,24,3,7,1,4,0,0,3,2,0,3,0,4,7,12,Jae'Sean Tate,HOU
+"Wed, Nov 8",vs. LAL,27,6,10,2,6,0,0,1,1,0,0,1,3,14,16,Jae'Sean Tate,HOU
+"Mon, Nov 6",vs. SAC,21,3,5,2,4,0,0,4,1,0,2,0,2,8,13,Jae'Sean Tate,HOU
+"Sat, Nov 4",vs. SAC,21,4,6,3,3,0,0,4,1,0,0,0,4,11,16,Jae'Sean Tate,HOU
+"Wed, Nov 1",vs. CHA,19,1,5,1,2,1,2,6,5,0,0,0,4,4,15,Jae'Sean Tate,HOU
+"Sun, Oct 29",vs. GSW,22,2,6,0,2,2,2,8,1,1,2,2,2,6,15,Jae'Sean Tate,HOU
+"Fri, Oct 27",@ SAS,14,1,2,0,1,1,1,0,0,1,3,0,1,3,3,Jae'Sean Tate,HOU
+"Wed, Oct 25",@ ORL,15,2,2,1,1,0,0,2,0,0,1,1,1,5,7,Jae'Sean Tate,HOU
+"Mon, Dec 18",@ CLE,45,9,19,4,8,5,5,8,17,2,2,1,4,27,52,Fred VanVleet,HOU
+"Sun, Dec 17",@ MIL,39,8,16,4,8,2,2,2,6,1,1,2,2,22,30,Fred VanVleet,HOU
+"Fri, Dec 15",@ MEM,36,5,12,2,4,4,5,6,8,0,4,2,2,16,30,Fred VanVleet,HOU
+"Wed, Dec 13",vs. MEM,39,2,8,0,3,7,9,5,9,3,3,0,4,11,25,Fred VanVleet,HOU
+"Mon, Dec 11",vs. SAS,39,6,17,4,11,0,0,6,5,3,2,0,0,16,27,Fred VanVleet,HOU
+"Fri, Dec 8",@ DEN,40,6,17,4,10,10,13,4,3,1,0,1,3,26,33,Fred VanVleet,HOU
+"Wed, Dec 6",vs. OKC,38,4,14,3,7,0,0,3,9,3,3,1,0,11,23,Fred VanVleet,HOU
+"Sat, Dec 2",@ LAL,40,7,15,4,7,4,4,5,7,3,0,0,1,22,34,Fred VanVleet,HOU
+"Tue, Nov 28",@ DAL,41,3,9,1,7,3,3,4,12,0,1,1,3,10,26,Fred VanVleet,HOU
+"Fri, Nov 24",vs. DEN,39,6,12,3,5,2,2,6,11,1,1,2,3,17,34,Fred VanVleet,HOU
+"Wed, Nov 22",vs. MEM,39,5,12,4,8,2,3,7,4,1,2,0,0,16,27,Fred VanVleet,HOU
+"Mon, Nov 20",@ GSW,41,3,13,1,8,3,3,5,14,0,0,0,2,10,29,Fred VanVleet,HOU
+"Sun, Nov 19",@ LAL,40,5,14,3,10,2,2,1,16,3,1,0,1,15,32,Fred VanVleet,HOU
+"Fri, Nov 17",@ LAC,41,7,14,5,9,0,0,8,10,2,1,1,0,19,37,Fred VanVleet,HOU
+"Sun, Nov 12",vs. DEN,41,9,21,3,9,5,7,2,4,2,0,0,2,26,32,Fred VanVleet,HOU
+"Fri, Nov 10",vs. NOR,40,7,15,4,9,2,2,3,8,1,1,1,2,20,31,Fred VanVleet,HOU
+"Wed, Nov 8",vs. LAL,29,2,9,1,6,4,4,4,10,1,1,0,2,9,23,Fred VanVleet,HOU
+"Mon, Nov 6",vs. SAC,27,3,8,3,5,2,2,4,5,1,0,0,1,11,20,Fred VanVleet,HOU
+"Sat, Nov 4",vs. SAC,36,7,22,4,14,3,3,6,12,2,0,2,4,21,39,Fred VanVleet,HOU
+"Wed, Nov 1",vs. CHA,39,8,17,5,10,1,1,3,11,2,0,0,1,22,36,Fred VanVleet,HOU
+"Sun, Oct 29",vs. GSW,32,2,13,2,7,2,2,0,4,0,2,0,2,8,12,Fred VanVleet,HOU
+"Fri, Oct 27",@ SAS,45,10,20,2,10,2,3,8,12,3,0,0,5,24,44,Fred VanVleet,HOU
+"Wed, Oct 25",@ ORL,34,5,13,4,6,0,0,1,5,3,1,0,0,14,20,Fred VanVleet,HOU
 "Mon, Dec 18",@ CLE,17,5,9,2,5,2,2,2,0,0,0,0,4,14,16,Aaron Holiday,HOU
 "Sun, Dec 17",@ MIL,13,0,3,0,1,0,0,1,2,2,1,0,2,0,3,Aaron Holiday,HOU
 "Fri, Dec 15",@ MEM,19,1,5,1,3,1,1,2,0,0,1,1,1,4,6,Aaron Holiday,HOU
@@ -2839,42 +2854,26 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Nov 12",vs. DEN,16,3,4,2,3,0,0,3,2,0,1,0,1,8,13,Tari Eason,HOU
 "Fri, Nov 10",vs. NOR,19,1,8,0,2,0,0,8,0,0,0,2,3,2,10,Tari Eason,HOU
 "Wed, Nov 8",vs. LAL,14,4,10,1,2,0,0,9,2,2,0,1,1,9,20,Tari Eason,HOU
-"Mon, Dec 18",@ CLE,23,2,7,1,4,0,0,7,0,2,0,0,4,5,12,Jabari Smith Jr.,HOU
-"Sun, Dec 17",@ MIL,28,7,13,1,4,1,1,5,2,0,0,1,5,16,23,Jabari Smith Jr.,HOU
-"Fri, Dec 15",@ MEM,30,1,9,1,4,2,2,12,2,1,0,1,5,5,19,Jabari Smith Jr.,HOU
-"Wed, Dec 13",vs. MEM,30,7,10,3,5,3,6,10,1,1,1,1,2,20,31,Jabari Smith Jr.,HOU
-"Mon, Dec 11",vs. SAS,36,3,12,1,3,2,2,12,5,1,1,1,3,9,26,Jabari Smith Jr.,HOU
-"Fri, Dec 8",@ DEN,25,3,9,0,2,3,4,10,5,1,0,0,1,9,24,Jabari Smith Jr.,HOU
-"Wed, Dec 6",vs. OKC,32,2,4,1,1,1,1,18,1,3,0,0,1,6,25,Jabari Smith Jr.,HOU
-"Sat, Dec 2",@ LAL,30,4,7,0,3,2,2,9,3,3,2,3,5,10,22,Jabari Smith Jr.,HOU
-"Wed, Nov 29",@ DEN,32,6,14,2,7,1,2,7,2,0,0,1,3,15,24,Jabari Smith Jr.,HOU
-"Tue, Nov 28",@ DAL,37,7,11,2,5,0,0,9,2,1,0,1,2,16,27,Jabari Smith Jr.,HOU
-"Fri, Nov 24",vs. DEN,38,6,9,2,3,2,2,15,1,2,1,1,2,16,32,Jabari Smith Jr.,HOU
-"Wed, Nov 22",vs. MEM,27,6,10,3,4,3,4,9,2,0,0,1,2,18,29,Jabari Smith Jr.,HOU
-"Mon, Nov 20",@ GSW,32,7,12,1,5,2,2,9,2,2,1,2,4,17,28,Jabari Smith Jr.,HOU
-"Sun, Nov 19",@ LAL,32,5,10,2,6,2,2,5,1,3,1,0,4,14,20,Jabari Smith Jr.,HOU
-"Fri, Nov 17",@ LAC,33,4,12,1,4,0,0,7,0,0,1,1,5,9,16,Jabari Smith Jr.,HOU
-"Sun, Nov 12",vs. DEN,20,4,7,0,2,0,0,7,0,1,0,1,1,8,15,Jabari Smith Jr.,HOU
-"Fri, Nov 10",vs. NOR,23,2,8,1,4,1,1,7,2,2,0,0,3,6,15,Jabari Smith Jr.,HOU
-"Wed, Nov 8",vs. LAL,26,4,8,2,4,2,2,6,0,2,1,0,2,12,18,Jabari Smith Jr.,HOU
-"Mon, Nov 6",vs. SAC,22,5,8,3,5,0,0,4,0,0,0,1,4,13,17,Jabari Smith Jr.,HOU
-"Sat, Nov 4",vs. SAC,35,9,15,3,6,0,0,11,0,0,0,1,4,21,32,Jabari Smith Jr.,HOU
-"Wed, Nov 1",vs. CHA,30,7,10,3,5,0,0,6,4,2,0,1,3,17,27,Jabari Smith Jr.,HOU
-"Sun, Oct 29",vs. GSW,34,6,12,2,6,0,0,8,5,1,2,0,3,14,27,Jabari Smith Jr.,HOU
-"Fri, Oct 27",@ SAS,37,5,16,2,8,1,4,9,0,2,1,0,4,13,22,Jabari Smith Jr.,HOU
-"Wed, Oct 25",@ ORL,26,3,9,0,4,1,2,5,1,1,1,0,6,7,13,Jabari Smith Jr.,HOU
-"Wed, Nov 8",vs. LAL,6,3,4,0,0,0,1,7,0,0,0,0,1,6,13,Boban Marjanovic,HOU
-"Mon, Nov 6",vs. SAC,7,0,3,0,1,0,0,1,2,0,0,1,0,0,3,Boban Marjanovic,HOU
-"Fri, Oct 27",@ SAS,7,2,2,0,0,0,0,0,1,0,0,0,1,4,5,Boban Marjanovic,HOU
-"Wed, Nov 29",@ DEN,6,1,2,0,0,0,0,0,1,0,0,0,1,2,3,Nate Williams,HOU
-"Wed, Nov 22",vs. MEM,3,1,2,0,0,0,0,0,0,0,0,0,1,2,2,Nate Williams,HOU
-"Wed, Nov 8",vs. LAL,8,2,4,0,1,1,2,0,1,0,1,0,0,5,6,Nate Williams,HOU
-"Wed, Oct 25",@ ORL,5,2,3,0,1,0,0,0,0,0,0,0,0,4,4,Nate Williams,HOU
+"Fri, Dec 15",@ MEM,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Reggie Bullock,HOU
+"Wed, Dec 13",vs. MEM,6,2,4,2,4,0,0,0,0,0,0,0,0,6,6,Reggie Bullock,HOU
+"Wed, Dec 6",vs. OKC,6,1,2,0,1,1,1,0,0,0,0,0,0,3,3,Reggie Bullock,HOU
+"Wed, Nov 29",@ DEN,12,2,2,2,2,0,0,1,0,0,0,0,3,6,7,Reggie Bullock,HOU
+"Wed, Nov 22",vs. MEM,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Reggie Bullock,HOU
+"Mon, Nov 20",@ GSW,8,0,2,0,2,0,0,5,0,0,0,0,0,0,5,Reggie Bullock,HOU
+"Wed, Nov 8",vs. LAL,12,1,3,1,2,0,0,1,1,0,0,0,0,3,5,Reggie Bullock,HOU
+"Mon, Nov 6",vs. SAC,12,0,1,0,1,0,0,1,2,0,0,0,1,0,3,Reggie Bullock,HOU
+"Sun, Oct 29",vs. GSW,6,0,2,0,2,0,0,1,0,1,0,0,1,0,1,Reggie Bullock,HOU
+"Fri, Oct 27",@ SAS,11,0,1,0,1,0,0,3,0,1,0,0,1,0,3,Reggie Bullock,HOU
+"Wed, Oct 25",@ ORL,11,1,1,1,1,0,0,1,0,0,1,1,1,3,4,Reggie Bullock,HOU
 "Sat, Dec 2",@ LAL,3,0,0,0,0,0,0,2,0,0,0,0,0,0,2,Jermaine Samuels Jr.,HOU
 "Wed, Nov 29",@ DEN,6,0,1,0,1,0,0,2,2,0,0,0,0,0,4,Jermaine Samuels Jr.,HOU
 "Mon, Nov 6",vs. SAC,12,2,2,0,0,0,0,3,0,0,0,1,1,4,7,Jermaine Samuels Jr.,HOU
 "Sat, Nov 4",vs. SAC,1,0,1,0,1,2,2,0,0,0,0,0,1,2,2,Jermaine Samuels Jr.,HOU
 "Wed, Oct 25",@ ORL,6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Jermaine Samuels Jr.,HOU
+"Wed, Nov 29",@ DEN,6,1,2,0,0,0,0,0,1,0,0,0,1,2,3,Nate Williams,HOU
+"Wed, Nov 22",vs. MEM,3,1,2,0,0,0,0,0,0,0,0,0,1,2,2,Nate Williams,HOU
+"Wed, Nov 8",vs. LAL,8,2,4,0,1,1,2,0,1,0,1,0,0,5,6,Nate Williams,HOU
+"Wed, Oct 25",@ ORL,5,2,3,0,1,0,0,0,0,0,0,0,0,4,4,Nate Williams,HOU
 "Mon, Dec 18",@ CLE,38,6,12,3,7,1,2,3,2,0,0,0,3,16,21,Dillon Brooks,HOU
 "Sun, Dec 17",@ MIL,35,7,12,2,4,2,2,4,1,2,2,0,4,18,23,Dillon Brooks,HOU
 "Fri, Dec 15",@ MEM,40,10,20,3,9,3,4,7,1,2,1,0,3,26,34,Dillon Brooks,HOU
@@ -2899,16 +2898,14 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",vs. GSW,34,4,10,2,5,2,2,4,2,0,0,0,5,12,18,Dillon Brooks,HOU
 "Fri, Oct 27",@ SAS,39,7,13,1,2,2,2,2,2,2,1,0,4,17,21,Dillon Brooks,HOU
 "Wed, Oct 25",@ ORL,26,5,7,4,6,0,0,4,2,2,1,0,4,14,20,Dillon Brooks,HOU
-"Mon, Dec 11",vs. SAS,10,1,2,0,1,0,0,5,1,0,0,0,1,2,8,Amen Thompson,HOU
-"Wed, Nov 1",vs. CHA,13,1,3,0,1,2,2,1,1,1,1,0,3,4,6,Amen Thompson,HOU
-"Sun, Oct 29",vs. GSW,20,3,5,1,2,2,2,4,0,0,1,0,3,9,13,Amen Thompson,HOU
-"Fri, Oct 27",@ SAS,13,2,4,0,1,0,2,1,3,1,0,1,1,4,8,Amen Thompson,HOU
-"Wed, Oct 25",@ ORL,21,3,10,1,7,1,2,5,2,4,0,0,2,8,15,Amen Thompson,HOU
 "Sat, Dec 2",@ LAL,3,1,2,0,0,3,6,3,1,0,0,0,0,5,9,Cam Whitmore,HOU
 "Wed, Nov 29",@ DEN,6,3,4,1,2,1,2,2,0,0,0,0,1,8,10,Cam Whitmore,HOU
 "Mon, Nov 6",vs. SAC,12,3,5,0,1,1,2,1,1,0,1,0,1,7,9,Cam Whitmore,HOU
 "Sat, Nov 4",vs. SAC,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Cam Whitmore,HOU
 "Wed, Oct 25",@ ORL,10,0,4,0,2,0,0,1,0,1,0,0,0,0,1,Cam Whitmore,HOU
+"Wed, Nov 8",vs. LAL,6,3,4,0,0,0,1,7,0,0,0,0,1,6,13,Boban Marjanovic,HOU
+"Mon, Nov 6",vs. SAC,7,0,3,0,1,0,0,1,2,0,0,1,0,0,3,Boban Marjanovic,HOU
+"Fri, Oct 27",@ SAS,7,2,2,0,0,0,0,0,1,0,0,0,1,4,5,Boban Marjanovic,HOU
 "Mon, Dec 18",@ CLE,4,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Jock Landale,HOU
 "Fri, Dec 15",@ MEM,8,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Jock Landale,HOU
 "Wed, Dec 13",vs. MEM,10,1,2,0,0,0,0,3,0,0,0,0,2,2,5,Jock Landale,HOU
@@ -2925,17 +2922,52 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sat, Nov 4",vs. SAC,12,0,1,0,1,0,0,3,3,0,1,0,1,0,6,Jock Landale,HOU
 "Wed, Nov 1",vs. CHA,19,1,7,0,3,2,2,5,1,1,1,1,1,4,10,Jock Landale,HOU
 "Wed, Oct 25",@ ORL,9,1,2,1,2,0,0,0,2,1,0,0,1,3,5,Jock Landale,HOU
-"Fri, Dec 15",@ MEM,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Reggie Bullock,HOU
-"Wed, Dec 13",vs. MEM,6,2,4,2,4,0,0,0,0,0,0,0,0,6,6,Reggie Bullock,HOU
-"Wed, Dec 6",vs. OKC,6,1,2,0,1,1,1,0,0,0,0,0,0,3,3,Reggie Bullock,HOU
-"Wed, Nov 29",@ DEN,12,2,2,2,2,0,0,1,0,0,0,0,3,6,7,Reggie Bullock,HOU
-"Wed, Nov 22",vs. MEM,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Reggie Bullock,HOU
-"Mon, Nov 20",@ GSW,8,0,2,0,2,0,0,5,0,0,0,0,0,0,5,Reggie Bullock,HOU
-"Wed, Nov 8",vs. LAL,12,1,3,1,2,0,0,1,1,0,0,0,0,3,5,Reggie Bullock,HOU
-"Mon, Nov 6",vs. SAC,12,0,1,0,1,0,0,1,2,0,0,0,1,0,3,Reggie Bullock,HOU
-"Sun, Oct 29",vs. GSW,6,0,2,0,2,0,0,1,0,1,0,0,1,0,1,Reggie Bullock,HOU
-"Fri, Oct 27",@ SAS,11,0,1,0,1,0,0,3,0,1,0,0,1,0,3,Reggie Bullock,HOU
-"Wed, Oct 25",@ ORL,11,1,1,1,1,0,0,1,0,0,1,1,1,3,4,Reggie Bullock,HOU
+"Mon, Dec 11",vs. SAS,10,1,2,0,1,0,0,5,1,0,0,0,1,2,8,Amen Thompson,HOU
+"Wed, Nov 1",vs. CHA,13,1,3,0,1,2,2,1,1,1,1,0,3,4,6,Amen Thompson,HOU
+"Sun, Oct 29",vs. GSW,20,3,5,1,2,2,2,4,0,0,1,0,3,9,13,Amen Thompson,HOU
+"Fri, Oct 27",@ SAS,13,2,4,0,1,0,2,1,3,1,0,1,1,4,8,Amen Thompson,HOU
+"Wed, Oct 25",@ ORL,21,3,10,1,7,1,2,5,2,4,0,0,2,8,15,Amen Thompson,HOU
+"Mon, Dec 18",@ CLE,23,2,7,1,4,0,0,7,0,2,0,0,4,5,12,Jabari Smith Jr.,HOU
+"Sun, Dec 17",@ MIL,28,7,13,1,4,1,1,5,2,0,0,1,5,16,23,Jabari Smith Jr.,HOU
+"Fri, Dec 15",@ MEM,30,1,9,1,4,2,2,12,2,1,0,1,5,5,19,Jabari Smith Jr.,HOU
+"Wed, Dec 13",vs. MEM,30,7,10,3,5,3,6,10,1,1,1,1,2,20,31,Jabari Smith Jr.,HOU
+"Mon, Dec 11",vs. SAS,36,3,12,1,3,2,2,12,5,1,1,1,3,9,26,Jabari Smith Jr.,HOU
+"Fri, Dec 8",@ DEN,25,3,9,0,2,3,4,10,5,1,0,0,1,9,24,Jabari Smith Jr.,HOU
+"Wed, Dec 6",vs. OKC,32,2,4,1,1,1,1,18,1,3,0,0,1,6,25,Jabari Smith Jr.,HOU
+"Sat, Dec 2",@ LAL,30,4,7,0,3,2,2,9,3,3,2,3,5,10,22,Jabari Smith Jr.,HOU
+"Wed, Nov 29",@ DEN,32,6,14,2,7,1,2,7,2,0,0,1,3,15,24,Jabari Smith Jr.,HOU
+"Tue, Nov 28",@ DAL,37,7,11,2,5,0,0,9,2,1,0,1,2,16,27,Jabari Smith Jr.,HOU
+"Fri, Nov 24",vs. DEN,38,6,9,2,3,2,2,15,1,2,1,1,2,16,32,Jabari Smith Jr.,HOU
+"Wed, Nov 22",vs. MEM,27,6,10,3,4,3,4,9,2,0,0,1,2,18,29,Jabari Smith Jr.,HOU
+"Mon, Nov 20",@ GSW,32,7,12,1,5,2,2,9,2,2,1,2,4,17,28,Jabari Smith Jr.,HOU
+"Sun, Nov 19",@ LAL,32,5,10,2,6,2,2,5,1,3,1,0,4,14,20,Jabari Smith Jr.,HOU
+"Fri, Nov 17",@ LAC,33,4,12,1,4,0,0,7,0,0,1,1,5,9,16,Jabari Smith Jr.,HOU
+"Sun, Nov 12",vs. DEN,20,4,7,0,2,0,0,7,0,1,0,1,1,8,15,Jabari Smith Jr.,HOU
+"Fri, Nov 10",vs. NOR,23,2,8,1,4,1,1,7,2,2,0,0,3,6,15,Jabari Smith Jr.,HOU
+"Wed, Nov 8",vs. LAL,26,4,8,2,4,2,2,6,0,2,1,0,2,12,18,Jabari Smith Jr.,HOU
+"Mon, Nov 6",vs. SAC,22,5,8,3,5,0,0,4,0,0,0,1,4,13,17,Jabari Smith Jr.,HOU
+"Sat, Nov 4",vs. SAC,35,9,15,3,6,0,0,11,0,0,0,1,4,21,32,Jabari Smith Jr.,HOU
+"Wed, Nov 1",vs. CHA,30,7,10,3,5,0,0,6,4,2,0,1,3,17,27,Jabari Smith Jr.,HOU
+"Sun, Oct 29",vs. GSW,34,6,12,2,6,0,0,8,5,1,2,0,3,14,27,Jabari Smith Jr.,HOU
+"Fri, Oct 27",@ SAS,37,5,16,2,8,1,4,9,0,2,1,0,4,13,22,Jabari Smith Jr.,HOU
+"Wed, Oct 25",@ ORL,26,3,9,0,4,1,2,5,1,1,1,0,6,7,13,Jabari Smith Jr.,HOU
+"Mon, Nov 27",vs. POR,12,3,5,1,2,2,2,5,1,1,0,0,1,9,15,Jalen Smith,IND
+"Fri, Nov 24",vs. DET,21,2,3,2,2,2,2,6,0,1,1,0,1,8,14,Jalen Smith,IND
+"Wed, Nov 22",vs. TOR,19,3,5,0,1,2,2,5,0,1,0,1,2,8,13,Jalen Smith,IND
+"Tue, Nov 21",@ ATL,5,2,2,0,0,2,4,3,0,0,0,0,0,6,9,Jalen Smith,IND
+"Sun, Nov 19",vs. ORL,13,4,5,1,1,1,2,4,0,2,0,0,3,10,14,Jalen Smith,IND
+"Tue, Nov 14",@ PHI,3,2,2,1,1,0,1,0,1,0,0,0,2,5,6,Jalen Smith,IND
+"Sun, Nov 12",@ PHI,19,4,7,1,2,2,2,6,1,2,0,0,2,11,18,Jalen Smith,IND
+"Wed, Nov 8",vs. UTH,25,5,8,0,0,6,7,11,1,1,2,1,0,16,28,Jalen Smith,IND
+"Mon, Nov 6",vs. SAS,12,4,4,1,1,0,0,7,2,1,0,0,3,9,18,Jalen Smith,IND
+"Sat, Nov 4",vs. CHA,21,4,6,2,3,1,2,9,1,1,0,0,4,11,21,Jalen Smith,IND
+"Fri, Nov 3",vs. CLE,17,6,8,1,1,0,0,5,2,3,0,1,2,13,20,Jalen Smith,IND
+"Mon, Oct 30",vs. CHI,16,4,7,0,2,0,0,2,0,1,1,1,3,8,10,Jalen Smith,IND
+"Sat, Oct 28",@ CLE,19,5,7,2,3,1,2,6,3,1,0,0,2,13,22,Jalen Smith,IND
+"Wed, Oct 25",vs. WAS,13,5,6,2,2,1,1,8,0,0,1,0,4,13,21,Jalen Smith,IND
+"Sat, Dec 16",@ MIN,7,3,6,0,0,2,2,4,1,0,0,0,0,8,13,Oscar Tshiebwe,IND
+"Fri, Dec 15",@ WAS,4,1,1,0,0,0,0,0,1,0,0,0,0,2,3,Oscar Tshiebwe,IND
+"Wed, Dec 13",@ MIL,6,0,1,0,0,1,2,1,0,0,0,0,1,1,2,Oscar Tshiebwe,IND
 "Thu, Dec 7",@ MIL,14,4,5,0,0,0,0,0,2,0,1,1,0,8,10,Andrew Nembhard,IND
 "Mon, Dec 4",vs. BOS,5,0,2,0,0,1,2,1,1,0,0,0,1,1,3,Andrew Nembhard,IND
 "Sat, Dec 2",@ MIA,23,1,9,0,4,2,2,1,11,0,1,0,1,4,16,Andrew Nembhard,IND
@@ -3020,32 +3052,31 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Mon, Oct 30",vs. CHI,24,2,5,0,2,2,2,8,0,0,1,0,1,6,14,Obi Toppin,IND
 "Sat, Oct 28",@ CLE,18,2,5,0,1,0,0,4,0,1,0,1,1,4,8,Obi Toppin,IND
 "Wed, Oct 25",vs. WAS,19,4,9,2,5,1,1,4,1,0,1,0,0,11,16,Obi Toppin,IND
-"Mon, Nov 27",vs. POR,12,3,5,1,2,2,2,5,1,1,0,0,1,9,15,Jalen Smith,IND
-"Fri, Nov 24",vs. DET,21,2,3,2,2,2,2,6,0,1,1,0,1,8,14,Jalen Smith,IND
-"Wed, Nov 22",vs. TOR,19,3,5,0,1,2,2,5,0,1,0,1,2,8,13,Jalen Smith,IND
-"Tue, Nov 21",@ ATL,5,2,2,0,0,2,4,3,0,0,0,0,0,6,9,Jalen Smith,IND
-"Sun, Nov 19",vs. ORL,13,4,5,1,1,1,2,4,0,2,0,0,3,10,14,Jalen Smith,IND
-"Tue, Nov 14",@ PHI,3,2,2,1,1,0,1,0,1,0,0,0,2,5,6,Jalen Smith,IND
-"Sun, Nov 12",@ PHI,19,4,7,1,2,2,2,6,1,2,0,0,2,11,18,Jalen Smith,IND
-"Wed, Nov 8",vs. UTH,25,5,8,0,0,6,7,11,1,1,2,1,0,16,28,Jalen Smith,IND
-"Mon, Nov 6",vs. SAS,12,4,4,1,1,0,0,7,2,1,0,0,3,9,18,Jalen Smith,IND
-"Sat, Nov 4",vs. CHA,21,4,6,2,3,1,2,9,1,1,0,0,4,11,21,Jalen Smith,IND
-"Fri, Nov 3",vs. CLE,17,6,8,1,1,0,0,5,2,3,0,1,2,13,20,Jalen Smith,IND
-"Mon, Oct 30",vs. CHI,16,4,7,0,2,0,0,2,0,1,1,1,3,8,10,Jalen Smith,IND
-"Sat, Oct 28",@ CLE,19,5,7,2,3,1,2,6,3,1,0,0,2,13,22,Jalen Smith,IND
-"Wed, Oct 25",vs. WAS,13,5,6,2,2,1,1,8,0,0,1,0,4,13,21,Jalen Smith,IND
-"Sat, Dec 16",@ MIN,7,3,6,0,0,2,2,4,1,0,0,0,0,8,13,Oscar Tshiebwe,IND
-"Fri, Dec 15",@ WAS,4,1,1,0,0,0,0,0,1,0,0,0,0,2,3,Oscar Tshiebwe,IND
-"Wed, Dec 13",@ MIL,6,0,1,0,0,1,2,1,0,0,0,0,1,1,2,Oscar Tshiebwe,IND
-"Mon, Dec 18",vs. LAC,16,4,8,1,4,0,0,3,0,0,0,0,1,9,12,Jordan Nwora,IND
-"Sat, Dec 16",@ MIN,10,3,4,0,1,1,1,1,3,1,0,0,0,7,11,Jordan Nwora,IND
-"Fri, Dec 15",@ WAS,4,2,3,2,2,0,0,1,0,1,0,0,0,6,7,Jordan Nwora,IND
-"Wed, Dec 13",@ MIL,6,2,2,1,1,0,0,2,1,1,1,0,0,5,8,Jordan Nwora,IND
-"Wed, Nov 22",vs. TOR,14,0,5,0,2,0,0,4,1,1,1,0,3,0,5,Jordan Nwora,IND
-"Sun, Nov 19",vs. ORL,23,8,11,2,5,1,1,5,1,1,3,0,3,19,25,Jordan Nwora,IND
-"Mon, Nov 6",vs. SAS,9,2,3,1,2,1,2,4,0,2,0,0,0,6,10,Jordan Nwora,IND
-"Wed, Nov 1",@ BOS,21,2,8,0,4,1,1,1,3,3,0,0,2,5,9,Jordan Nwora,IND
-"Wed, Oct 25",vs. WAS,6,2,7,1,2,0,0,1,1,0,0,1,0,5,7,Jordan Nwora,IND
+"Mon, Dec 18",vs. LAC,35,12,20,3,7,7,7,6,2,1,1,0,3,34,42,Bennedict Mathurin,IND
+"Sat, Dec 16",@ MIN,23,3,11,0,1,0,0,1,3,1,0,1,1,6,10,Bennedict Mathurin,IND
+"Fri, Dec 15",@ WAS,22,4,9,1,1,4,4,3,2,2,1,0,2,13,18,Bennedict Mathurin,IND
+"Wed, Dec 13",@ MIL,25,2,8,0,3,10,10,1,1,3,0,0,3,14,16,Bennedict Mathurin,IND
+"Mon, Dec 11",@ DET,37,10,17,3,5,7,8,7,8,2,2,0,3,30,45,Bennedict Mathurin,IND
+"Thu, Dec 7",@ MIL,24,3,12,0,2,3,3,6,1,2,0,1,4,9,16,Bennedict Mathurin,IND
+"Mon, Dec 4",vs. BOS,27,5,14,4,7,2,2,5,2,1,0,0,1,16,23,Bennedict Mathurin,IND
+"Sat, Dec 2",@ MIA,25,6,10,2,3,2,3,5,4,4,0,0,4,16,25,Bennedict Mathurin,IND
+"Thu, Nov 30",@ MIA,24,5,7,0,0,2,2,3,0,1,0,0,1,12,15,Bennedict Mathurin,IND
+"Mon, Nov 27",vs. POR,22,4,10,0,2,3,5,4,0,2,0,0,3,11,15,Bennedict Mathurin,IND
+"Fri, Nov 24",vs. DET,31,6,12,1,2,2,2,2,0,1,1,0,4,15,17,Bennedict Mathurin,IND
+"Wed, Nov 22",vs. TOR,24,2,7,0,1,1,2,0,2,0,1,1,1,5,7,Bennedict Mathurin,IND
+"Tue, Nov 21",@ ATL,20,7,10,2,4,3,4,2,1,0,0,0,2,19,22,Bennedict Mathurin,IND
+"Sun, Nov 19",vs. ORL,25,4,12,1,3,5,5,6,3,0,1,0,6,14,23,Bennedict Mathurin,IND
+"Tue, Nov 14",@ PHI,16,3,8,2,4,0,0,0,0,2,0,0,0,8,8,Bennedict Mathurin,IND
+"Sun, Nov 12",@ PHI,26,4,11,0,3,1,3,5,1,1,0,1,1,9,15,Bennedict Mathurin,IND
+"Thu, Nov 9",vs. MIL,36,9,18,3,7,5,6,11,2,1,1,1,1,26,39,Bennedict Mathurin,IND
+"Wed, Nov 8",vs. UTH,38,9,18,4,7,0,0,9,4,3,2,0,1,22,35,Bennedict Mathurin,IND
+"Mon, Nov 6",vs. SAS,22,4,8,0,2,2,2,3,2,1,1,0,2,10,15,Bennedict Mathurin,IND
+"Sat, Nov 4",vs. CHA,24,3,11,0,2,2,2,5,5,3,1,0,1,8,18,Bennedict Mathurin,IND
+"Fri, Nov 3",vs. CLE,24,2,7,1,2,0,3,3,5,1,1,0,1,5,13,Bennedict Mathurin,IND
+"Wed, Nov 1",@ BOS,15,4,7,0,3,0,0,1,0,0,0,0,1,8,9,Bennedict Mathurin,IND
+"Mon, Oct 30",vs. CHI,28,4,11,1,4,6,6,4,0,2,0,0,5,15,19,Bennedict Mathurin,IND
+"Sat, Oct 28",@ CLE,17,5,10,1,3,2,3,0,1,0,0,0,0,13,14,Bennedict Mathurin,IND
+"Wed, Oct 25",vs. WAS,26,6,15,2,6,4,4,4,5,2,2,0,1,18,27,Bennedict Mathurin,IND
 "Mon, Dec 18",vs. LAC,30,5,9,3,7,1,2,0,4,2,0,1,2,14,18,Buddy Hield,IND
 "Sat, Dec 16",@ MIN,18,0,4,0,3,0,0,1,2,3,0,0,1,0,3,Buddy Hield,IND
 "Fri, Dec 15",@ WAS,27,4,14,3,11,0,0,3,3,2,2,3,1,11,17,Buddy Hield,IND
@@ -3071,6 +3102,14 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Mon, Oct 30",vs. CHI,19,4,12,3,8,0,0,5,4,2,0,0,0,11,20,Buddy Hield,IND
 "Sat, Oct 28",@ CLE,19,4,12,2,7,0,0,1,4,1,0,1,1,10,15,Buddy Hield,IND
 "Wed, Oct 25",vs. WAS,25,5,9,4,7,0,0,2,5,1,1,1,0,14,21,Buddy Hield,IND
+"Sat, Dec 16",@ MIN,24,2,3,1,2,0,0,2,3,1,2,0,2,5,10,Jarace Walker,IND
+"Fri, Dec 15",@ WAS,13,2,4,1,2,0,0,2,0,0,0,0,1,5,7,Jarace Walker,IND
+"Wed, Dec 13",@ MIL,6,1,3,1,2,0,0,0,2,1,0,1,4,3,5,Jarace Walker,IND
+"Thu, Nov 30",@ MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Jarace Walker,IND
+"Sun, Nov 19",vs. ORL,14,3,6,0,3,1,1,1,1,1,1,1,2,7,9,Jarace Walker,IND
+"Mon, Nov 6",vs. SAS,9,0,1,0,0,2,2,1,2,0,0,0,0,2,5,Jarace Walker,IND
+"Wed, Nov 1",@ BOS,12,4,6,0,1,0,0,2,3,0,0,1,1,8,13,Jarace Walker,IND
+"Wed, Oct 25",vs. WAS,6,0,5,0,1,0,0,4,0,0,1,0,1,0,4,Jarace Walker,IND
 "Mon, Dec 18",vs. LAC,31,3,12,1,5,1,2,2,11,4,0,0,1,8,21,Tyrese Haliburton,IND
 "Fri, Dec 15",@ WAS,28,7,17,2,6,3,3,2,11,4,0,0,2,19,32,Tyrese Haliburton,IND
 "Wed, Dec 13",@ MIL,31,8,16,1,4,5,7,5,7,3,0,0,0,22,34,Tyrese Haliburton,IND
@@ -3093,29 +3132,27 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Mon, Oct 30",vs. CHI,36,6,16,1,8,6,7,5,13,4,2,0,1,19,37,Tyrese Haliburton,IND
 "Sat, Oct 28",@ CLE,32,7,16,4,7,3,3,8,13,1,0,0,2,21,42,Tyrese Haliburton,IND
 "Wed, Oct 25",vs. WAS,27,9,16,2,6,0,0,3,11,3,1,2,1,20,34,Tyrese Haliburton,IND
-"Mon, Dec 18",vs. LAC,26,4,7,2,3,2,2,6,2,1,2,3,3,12,20,Aaron Nesmith,IND
-"Sat, Dec 16",@ MIN,26,7,14,2,4,1,1,5,0,0,0,1,1,17,22,Aaron Nesmith,IND
-"Fri, Dec 15",@ WAS,24,4,10,3,8,1,3,3,1,0,2,1,5,12,16,Aaron Nesmith,IND
-"Wed, Dec 13",@ MIL,25,5,11,2,7,0,0,1,1,2,0,0,5,12,14,Aaron Nesmith,IND
-"Mon, Dec 11",@ DET,27,5,7,3,4,0,0,1,1,2,0,0,3,13,15,Aaron Nesmith,IND
-"Thu, Dec 7",@ MIL,27,2,6,1,4,1,1,1,1,0,0,1,5,6,8,Aaron Nesmith,IND
-"Mon, Dec 4",vs. BOS,31,6,10,1,3,1,2,1,1,1,0,1,3,14,16,Aaron Nesmith,IND
-"Sat, Dec 2",@ MIA,29,7,9,4,6,2,4,4,1,0,0,1,4,20,25,Aaron Nesmith,IND
-"Thu, Nov 30",@ MIA,23,4,5,0,1,1,1,5,1,1,4,0,6,9,15,Aaron Nesmith,IND
-"Mon, Nov 27",vs. POR,25,3,6,1,3,0,1,3,0,2,3,0,4,7,10,Aaron Nesmith,IND
-"Tue, Nov 21",@ ATL,25,6,9,1,3,4,5,1,1,0,1,1,4,17,19,Aaron Nesmith,IND
-"Sun, Nov 19",vs. ORL,15,0,2,0,0,0,0,1,0,0,0,0,2,0,1,Aaron Nesmith,IND
-"Tue, Nov 14",@ PHI,22,2,8,1,5,1,2,4,2,1,1,1,4,6,12,Aaron Nesmith,IND
-"Sun, Nov 12",@ PHI,26,3,6,2,5,0,0,4,3,0,1,0,3,8,15,Aaron Nesmith,IND
-"Thu, Nov 9",vs. MIL,16,2,4,2,3,0,0,1,0,1,0,0,5,6,7,Aaron Nesmith,IND
-"Wed, Nov 8",vs. UTH,30,9,13,4,6,2,2,2,0,1,2,0,4,24,26,Aaron Nesmith,IND
-"Mon, Nov 6",vs. SAS,16,5,8,3,4,2,2,2,2,0,2,0,0,15,19,Aaron Nesmith,IND
-"Sat, Nov 4",vs. CHA,25,1,5,1,1,1,2,2,1,0,1,2,0,4,7,Aaron Nesmith,IND
-"Fri, Nov 3",vs. CLE,27,5,8,2,4,1,4,5,0,2,2,1,3,13,18,Aaron Nesmith,IND
-"Wed, Nov 1",@ BOS,19,4,9,1,6,0,1,1,1,0,0,0,4,9,11,Aaron Nesmith,IND
-"Mon, Oct 30",vs. CHI,27,1,4,1,4,2,2,4,3,0,0,2,6,5,12,Aaron Nesmith,IND
-"Sat, Oct 28",@ CLE,30,10,16,5,9,1,2,9,0,0,0,0,1,26,35,Aaron Nesmith,IND
-"Wed, Oct 25",vs. WAS,23,2,5,1,3,2,2,5,1,1,0,1,3,7,13,Aaron Nesmith,IND
+"Sat, Dec 16",@ MIN,17,3,5,0,2,2,4,3,0,0,2,0,1,8,11,Ben Sheppard,IND
+"Fri, Dec 15",@ WAS,9,0,1,0,1,0,0,0,3,0,0,0,2,0,3,Ben Sheppard,IND
+"Wed, Dec 13",@ MIL,6,3,6,2,3,0,0,0,0,0,1,0,2,8,8,Ben Sheppard,IND
+"Sat, Dec 2",@ MIA,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Ben Sheppard,IND
+"Thu, Nov 30",@ MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ben Sheppard,IND
+"Mon, Nov 27",vs. POR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ben Sheppard,IND
+"Fri, Nov 24",vs. DET,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ben Sheppard,IND
+"Tue, Nov 21",@ ATL,5,2,5,1,4,0,0,1,1,0,0,0,0,5,7,Ben Sheppard,IND
+"Sun, Nov 19",vs. ORL,16,2,5,1,3,2,2,0,2,1,1,0,0,7,9,Ben Sheppard,IND
+"Mon, Nov 6",vs. SAS,12,3,7,1,4,0,0,2,0,0,0,0,1,7,9,Ben Sheppard,IND
+"Wed, Nov 1",@ BOS,15,2,4,2,4,0,0,2,2,0,0,0,3,6,10,Ben Sheppard,IND
+"Wed, Oct 25",vs. WAS,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Ben Sheppard,IND
+"Mon, Dec 18",vs. LAC,16,4,8,1,4,0,0,3,0,0,0,0,1,9,12,Jordan Nwora,IND
+"Sat, Dec 16",@ MIN,10,3,4,0,1,1,1,1,3,1,0,0,0,7,11,Jordan Nwora,IND
+"Fri, Dec 15",@ WAS,4,2,3,2,2,0,0,1,0,1,0,0,0,6,7,Jordan Nwora,IND
+"Wed, Dec 13",@ MIL,6,2,2,1,1,0,0,2,1,1,1,0,0,5,8,Jordan Nwora,IND
+"Wed, Nov 22",vs. TOR,14,0,5,0,2,0,0,4,1,1,1,0,3,0,5,Jordan Nwora,IND
+"Sun, Nov 19",vs. ORL,23,8,11,2,5,1,1,5,1,1,3,0,3,19,25,Jordan Nwora,IND
+"Mon, Nov 6",vs. SAS,9,2,3,1,2,1,2,4,0,2,0,0,0,6,10,Jordan Nwora,IND
+"Wed, Nov 1",@ BOS,21,2,8,0,4,1,1,1,3,3,0,0,2,5,9,Jordan Nwora,IND
+"Wed, Oct 25",vs. WAS,6,2,7,1,2,0,0,1,1,0,0,1,0,5,7,Jordan Nwora,IND
 "Sat, Dec 16",@ MIN,21,2,7,1,2,7,8,5,0,1,1,0,1,12,17,Myles Turner,IND
 "Fri, Dec 15",@ WAS,20,2,10,1,4,1,2,4,1,1,0,3,1,6,11,Myles Turner,IND
 "Wed, Dec 13",@ MIL,33,8,14,2,2,4,4,9,0,2,0,2,4,22,31,Myles Turner,IND
@@ -3159,90 +3196,66 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Wed, Nov 1",@ BOS,28,8,13,0,1,2,2,7,5,1,1,0,2,18,30,T.J. McConnell,IND
 "Sat, Oct 28",@ CLE,19,3,5,0,0,2,2,2,8,0,0,0,1,8,18,T.J. McConnell,IND
 "Wed, Oct 25",vs. WAS,6,2,2,0,0,0,0,1,2,0,2,0,0,4,7,T.J. McConnell,IND
-"Mon, Dec 18",vs. LAC,35,12,20,3,7,7,7,6,2,1,1,0,3,34,42,Bennedict Mathurin,IND
-"Sat, Dec 16",@ MIN,23,3,11,0,1,0,0,1,3,1,0,1,1,6,10,Bennedict Mathurin,IND
-"Fri, Dec 15",@ WAS,22,4,9,1,1,4,4,3,2,2,1,0,2,13,18,Bennedict Mathurin,IND
-"Wed, Dec 13",@ MIL,25,2,8,0,3,10,10,1,1,3,0,0,3,14,16,Bennedict Mathurin,IND
-"Mon, Dec 11",@ DET,37,10,17,3,5,7,8,7,8,2,2,0,3,30,45,Bennedict Mathurin,IND
-"Thu, Dec 7",@ MIL,24,3,12,0,2,3,3,6,1,2,0,1,4,9,16,Bennedict Mathurin,IND
-"Mon, Dec 4",vs. BOS,27,5,14,4,7,2,2,5,2,1,0,0,1,16,23,Bennedict Mathurin,IND
-"Sat, Dec 2",@ MIA,25,6,10,2,3,2,3,5,4,4,0,0,4,16,25,Bennedict Mathurin,IND
-"Thu, Nov 30",@ MIA,24,5,7,0,0,2,2,3,0,1,0,0,1,12,15,Bennedict Mathurin,IND
-"Mon, Nov 27",vs. POR,22,4,10,0,2,3,5,4,0,2,0,0,3,11,15,Bennedict Mathurin,IND
-"Fri, Nov 24",vs. DET,31,6,12,1,2,2,2,2,0,1,1,0,4,15,17,Bennedict Mathurin,IND
-"Wed, Nov 22",vs. TOR,24,2,7,0,1,1,2,0,2,0,1,1,1,5,7,Bennedict Mathurin,IND
-"Tue, Nov 21",@ ATL,20,7,10,2,4,3,4,2,1,0,0,0,2,19,22,Bennedict Mathurin,IND
-"Sun, Nov 19",vs. ORL,25,4,12,1,3,5,5,6,3,0,1,0,6,14,23,Bennedict Mathurin,IND
-"Tue, Nov 14",@ PHI,16,3,8,2,4,0,0,0,0,2,0,0,0,8,8,Bennedict Mathurin,IND
-"Sun, Nov 12",@ PHI,26,4,11,0,3,1,3,5,1,1,0,1,1,9,15,Bennedict Mathurin,IND
-"Thu, Nov 9",vs. MIL,36,9,18,3,7,5,6,11,2,1,1,1,1,26,39,Bennedict Mathurin,IND
-"Wed, Nov 8",vs. UTH,38,9,18,4,7,0,0,9,4,3,2,0,1,22,35,Bennedict Mathurin,IND
-"Mon, Nov 6",vs. SAS,22,4,8,0,2,2,2,3,2,1,1,0,2,10,15,Bennedict Mathurin,IND
-"Sat, Nov 4",vs. CHA,24,3,11,0,2,2,2,5,5,3,1,0,1,8,18,Bennedict Mathurin,IND
-"Fri, Nov 3",vs. CLE,24,2,7,1,2,0,3,3,5,1,1,0,1,5,13,Bennedict Mathurin,IND
-"Wed, Nov 1",@ BOS,15,4,7,0,3,0,0,1,0,0,0,0,1,8,9,Bennedict Mathurin,IND
-"Mon, Oct 30",vs. CHI,28,4,11,1,4,6,6,4,0,2,0,0,5,15,19,Bennedict Mathurin,IND
-"Sat, Oct 28",@ CLE,17,5,10,1,3,2,3,0,1,0,0,0,0,13,14,Bennedict Mathurin,IND
-"Wed, Oct 25",vs. WAS,26,6,15,2,6,4,4,4,5,2,2,0,1,18,27,Bennedict Mathurin,IND
-"Sat, Dec 16",@ MIN,17,3,5,0,2,2,4,3,0,0,2,0,1,8,11,Ben Sheppard,IND
-"Fri, Dec 15",@ WAS,9,0,1,0,1,0,0,0,3,0,0,0,2,0,3,Ben Sheppard,IND
-"Wed, Dec 13",@ MIL,6,3,6,2,3,0,0,0,0,0,1,0,2,8,8,Ben Sheppard,IND
-"Sat, Dec 2",@ MIA,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Ben Sheppard,IND
-"Thu, Nov 30",@ MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ben Sheppard,IND
-"Mon, Nov 27",vs. POR,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ben Sheppard,IND
-"Fri, Nov 24",vs. DET,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ben Sheppard,IND
-"Tue, Nov 21",@ ATL,5,2,5,1,4,0,0,1,1,0,0,0,0,5,7,Ben Sheppard,IND
-"Sun, Nov 19",vs. ORL,16,2,5,1,3,2,2,0,2,1,1,0,0,7,9,Ben Sheppard,IND
-"Mon, Nov 6",vs. SAS,12,3,7,1,4,0,0,2,0,0,0,0,1,7,9,Ben Sheppard,IND
-"Wed, Nov 1",@ BOS,15,2,4,2,4,0,0,2,2,0,0,0,3,6,10,Ben Sheppard,IND
-"Wed, Oct 25",vs. WAS,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Ben Sheppard,IND
-"Sat, Dec 16",@ MIN,24,2,3,1,2,0,0,2,3,1,2,0,2,5,10,Jarace Walker,IND
-"Fri, Dec 15",@ WAS,13,2,4,1,2,0,0,2,0,0,0,0,1,5,7,Jarace Walker,IND
-"Wed, Dec 13",@ MIL,6,1,3,1,2,0,0,0,2,1,0,1,4,3,5,Jarace Walker,IND
-"Thu, Nov 30",@ MIA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Jarace Walker,IND
-"Sun, Nov 19",vs. ORL,14,3,6,0,3,1,1,1,1,1,1,1,2,7,9,Jarace Walker,IND
-"Mon, Nov 6",vs. SAS,9,0,1,0,0,2,2,1,2,0,0,0,0,2,5,Jarace Walker,IND
-"Wed, Nov 1",@ BOS,12,4,6,0,1,0,0,2,3,0,0,1,1,8,13,Jarace Walker,IND
-"Wed, Oct 25",vs. WAS,6,0,5,0,1,0,0,4,0,0,1,0,1,0,4,Jarace Walker,IND
-"Mon, Dec 18",@ IND,31,9,21,5,11,4,4,3,4,1,1,1,3,27,34,Paul George,LAC
-"Sat, Dec 16",vs. NYK,31,11,18,3,6,0,0,4,7,2,2,0,4,25,36,Paul George,LAC
-"Tue, Dec 12",vs. SAC,16,3,7,2,5,1,1,6,1,3,2,0,0,9,16,Paul George,LAC
-"Mon, Dec 11",vs. POR,41,7,17,2,8,4,4,8,8,1,1,1,4,20,36,Paul George,LAC
-"Fri, Dec 8",@ UTH,37,8,13,2,5,2,3,3,2,1,6,1,2,20,25,Paul George,LAC
-"Wed, Dec 6",vs. DEN,38,8,20,5,9,4,4,8,1,2,0,1,1,25,34,Paul George,LAC
-"Sat, Dec 2",vs. GSW,38,8,17,4,8,5,5,6,6,1,1,0,5,25,37,Paul George,LAC
-"Thu, Nov 30",@ GSW,37,6,18,3,10,0,0,1,10,1,0,0,5,15,26,Paul George,LAC
-"Wed, Nov 29",@ SAC,40,7,18,4,9,1,2,3,7,1,0,0,1,19,29,Paul George,LAC
-"Mon, Nov 27",vs. DEN,37,2,13,0,4,2,2,8,4,3,1,1,5,6,18,Paul George,LAC
-"Sat, Nov 25",vs. DAL,36,9,19,2,5,5,5,9,4,1,0,0,4,25,38,Paul George,LAC
-"Fri, Nov 24",vs. NOR,39,14,30,4,12,2,3,8,2,2,0,0,3,34,44,Paul George,LAC
-"Wed, Nov 22",@ SAS,36,8,23,4,12,4,4,8,3,2,2,0,3,24,35,Paul George,LAC
-"Mon, Nov 20",@ SAS,32,11,16,4,8,2,2,5,6,2,1,0,1,28,39,Paul George,LAC
-"Fri, Nov 17",vs. HOU,40,8,22,4,10,3,3,8,3,3,2,1,2,23,34,Paul George,LAC
-"Tue, Nov 14",@ DEN,40,13,26,4,11,5,5,7,3,1,3,0,4,35,45,Paul George,LAC
-"Sun, Nov 12",vs. MEM,37,8,16,3,7,7,9,7,7,7,2,0,5,26,40,Paul George,LAC
-"Fri, Nov 10",@ DAL,23,3,12,1,7,1,1,3,2,2,1,0,3,8,13,Paul George,LAC
-"Wed, Nov 8",@ BKN,39,7,20,2,10,8,8,7,1,3,3,1,2,24,32,Paul George,LAC
-"Mon, Nov 6",@ NYK,34,2,11,1,6,5,5,7,3,4,3,0,2,10,20,Paul George,LAC
-"Wed, Nov 1",@ LAL,37,11,16,6,9,7,8,6,1,3,2,0,6,35,42,Paul George,LAC
-"Tue, Oct 31",vs. ORL,33,8,17,6,9,5,6,7,7,3,2,0,2,27,41,Paul George,LAC
-"Sun, Oct 29",vs. SAS,28,8,17,2,7,1,1,4,5,1,5,0,1,19,28,Paul George,LAC
-"Fri, Oct 27",@ UTH,38,9,17,3,9,15,15,4,1,2,0,0,1,36,41,Paul George,LAC
-"Wed, Oct 25",vs. POR,32,11,17,4,7,1,1,3,6,4,3,0,2,27,36,Paul George,LAC
-"Mon, Dec 18",@ IND,18,0,1,0,1,0,0,3,2,0,0,0,2,0,5,Amir Coffey,LAC
-"Sat, Dec 16",vs. NYK,17,1,3,1,3,0,0,1,0,0,0,0,3,3,4,Amir Coffey,LAC
-"Thu, Dec 14",vs. GSW,29,6,15,4,11,2,3,4,1,1,0,0,2,18,23,Amir Coffey,LAC
-"Tue, Dec 12",vs. SAC,9,1,1,0,0,0,0,1,0,0,0,0,0,2,3,Amir Coffey,LAC
-"Thu, Nov 30",@ GSW,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Amir Coffey,LAC
-"Wed, Nov 29",@ SAC,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Amir Coffey,LAC
-"Sat, Nov 25",vs. DAL,5,0,0,0,0,0,0,1,1,0,0,0,1,0,2,Amir Coffey,LAC
-"Wed, Nov 22",@ SAS,10,2,3,0,1,0,0,3,0,0,1,0,0,4,7,Amir Coffey,LAC
-"Mon, Nov 20",@ SAS,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Amir Coffey,LAC
-"Fri, Nov 10",@ DAL,13,2,6,0,2,2,2,2,0,0,0,0,1,6,8,Amir Coffey,LAC
-"Mon, Nov 6",@ NYK,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Amir Coffey,LAC
-"Tue, Oct 31",vs. ORL,10,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Amir Coffey,LAC
-"Sun, Oct 29",vs. SAS,6,0,0,0,0,0,0,1,1,1,0,0,0,0,2,Amir Coffey,LAC
-"Wed, Oct 25",vs. POR,4,0,1,0,0,2,2,0,1,0,0,0,0,2,3,Amir Coffey,LAC
+"Mon, Dec 18",vs. LAC,26,4,7,2,3,2,2,6,2,1,2,3,3,12,20,Aaron Nesmith,IND
+"Sat, Dec 16",@ MIN,26,7,14,2,4,1,1,5,0,0,0,1,1,17,22,Aaron Nesmith,IND
+"Fri, Dec 15",@ WAS,24,4,10,3,8,1,3,3,1,0,2,1,5,12,16,Aaron Nesmith,IND
+"Wed, Dec 13",@ MIL,25,5,11,2,7,0,0,1,1,2,0,0,5,12,14,Aaron Nesmith,IND
+"Mon, Dec 11",@ DET,27,5,7,3,4,0,0,1,1,2,0,0,3,13,15,Aaron Nesmith,IND
+"Thu, Dec 7",@ MIL,27,2,6,1,4,1,1,1,1,0,0,1,5,6,8,Aaron Nesmith,IND
+"Mon, Dec 4",vs. BOS,31,6,10,1,3,1,2,1,1,1,0,1,3,14,16,Aaron Nesmith,IND
+"Sat, Dec 2",@ MIA,29,7,9,4,6,2,4,4,1,0,0,1,4,20,25,Aaron Nesmith,IND
+"Thu, Nov 30",@ MIA,23,4,5,0,1,1,1,5,1,1,4,0,6,9,15,Aaron Nesmith,IND
+"Mon, Nov 27",vs. POR,25,3,6,1,3,0,1,3,0,2,3,0,4,7,10,Aaron Nesmith,IND
+"Tue, Nov 21",@ ATL,25,6,9,1,3,4,5,1,1,0,1,1,4,17,19,Aaron Nesmith,IND
+"Sun, Nov 19",vs. ORL,15,0,2,0,0,0,0,1,0,0,0,0,2,0,1,Aaron Nesmith,IND
+"Tue, Nov 14",@ PHI,22,2,8,1,5,1,2,4,2,1,1,1,4,6,12,Aaron Nesmith,IND
+"Sun, Nov 12",@ PHI,26,3,6,2,5,0,0,4,3,0,1,0,3,8,15,Aaron Nesmith,IND
+"Thu, Nov 9",vs. MIL,16,2,4,2,3,0,0,1,0,1,0,0,5,6,7,Aaron Nesmith,IND
+"Wed, Nov 8",vs. UTH,30,9,13,4,6,2,2,2,0,1,2,0,4,24,26,Aaron Nesmith,IND
+"Mon, Nov 6",vs. SAS,16,5,8,3,4,2,2,2,2,0,2,0,0,15,19,Aaron Nesmith,IND
+"Sat, Nov 4",vs. CHA,25,1,5,1,1,1,2,2,1,0,1,2,0,4,7,Aaron Nesmith,IND
+"Fri, Nov 3",vs. CLE,27,5,8,2,4,1,4,5,0,2,2,1,3,13,18,Aaron Nesmith,IND
+"Wed, Nov 1",@ BOS,19,4,9,1,6,0,1,1,1,0,0,0,4,9,11,Aaron Nesmith,IND
+"Mon, Oct 30",vs. CHI,27,1,4,1,4,2,2,4,3,0,0,2,6,5,12,Aaron Nesmith,IND
+"Sat, Oct 28",@ CLE,30,10,16,5,9,1,2,9,0,0,0,0,1,26,35,Aaron Nesmith,IND
+"Wed, Oct 25",vs. WAS,23,2,5,1,3,2,2,5,1,1,0,1,3,7,13,Aaron Nesmith,IND
+"Mon, Dec 18",@ IND,30,6,11,4,6,3,3,3,0,0,0,0,1,19,22,Norman Powell,LAC
+"Sat, Dec 16",vs. NYK,24,6,10,1,2,3,3,2,0,1,0,1,1,16,18,Norman Powell,LAC
+"Thu, Dec 14",vs. GSW,36,9,13,1,4,2,2,5,2,1,1,0,3,21,28,Norman Powell,LAC
+"Tue, Dec 12",vs. SAC,27,5,11,2,4,3,3,1,2,1,0,0,1,15,18,Norman Powell,LAC
+"Mon, Dec 11",vs. POR,25,6,9,2,4,2,2,3,1,0,1,2,4,16,20,Norman Powell,LAC
+"Fri, Dec 8",@ UTH,28,4,11,2,8,0,0,1,1,1,0,0,0,10,12,Norman Powell,LAC
+"Wed, Dec 6",vs. DEN,32,5,12,1,3,6,6,5,2,1,1,0,0,17,24,Norman Powell,LAC
+"Sat, Dec 2",vs. GSW,30,5,12,2,5,0,0,1,0,2,0,0,1,12,13,Norman Powell,LAC
+"Thu, Nov 30",@ GSW,18,1,2,0,0,3,3,0,0,2,1,0,1,5,5,Norman Powell,LAC
+"Wed, Nov 29",@ SAC,13,1,6,1,2,0,0,1,0,0,0,0,1,3,4,Norman Powell,LAC
+"Mon, Nov 27",vs. DEN,21,2,8,1,5,5,5,2,1,0,1,1,3,10,13,Norman Powell,LAC
+"Sat, Nov 25",vs. DAL,25,4,4,3,3,4,4,3,1,1,0,0,2,15,19,Norman Powell,LAC
+"Fri, Nov 24",vs. NOR,28,8,14,3,5,1,1,1,0,0,3,0,1,20,21,Norman Powell,LAC
+"Wed, Nov 22",@ SAS,14,2,4,1,1,0,1,1,0,2,0,1,1,5,6,Norman Powell,LAC
+"Mon, Nov 20",@ SAS,30,5,12,2,6,7,7,5,0,1,2,1,0,19,24,Norman Powell,LAC
+"Fri, Nov 17",vs. HOU,30,3,11,2,5,2,2,3,3,0,1,1,2,10,16,Norman Powell,LAC
+"Tue, Nov 14",@ DEN,26,4,7,2,3,4,5,1,1,0,0,0,5,14,16,Norman Powell,LAC
+"Sun, Nov 12",vs. MEM,31,7,13,4,7,2,6,2,3,0,0,0,5,20,25,Norman Powell,LAC
+"Fri, Nov 10",@ DAL,11,0,1,0,0,0,0,0,0,2,0,0,1,0,0,Norman Powell,LAC
+"Wed, Nov 8",@ BKN,22,4,8,2,5,0,0,1,1,1,2,2,2,10,12,Norman Powell,LAC
+"Mon, Nov 6",@ NYK,22,5,7,4,6,0,0,1,0,3,0,1,1,14,15,Norman Powell,LAC
+"Wed, Nov 1",@ LAL,35,6,14,0,4,0,0,2,3,0,0,1,6,12,17,Norman Powell,LAC
+"Tue, Oct 31",vs. ORL,29,5,8,2,5,5,7,3,3,3,0,0,4,17,23,Norman Powell,LAC
+"Sun, Oct 29",vs. SAS,19,5,11,2,5,1,2,3,1,0,2,1,1,13,17,Norman Powell,LAC
+"Fri, Oct 27",@ UTH,25,7,10,2,4,4,4,3,1,1,1,0,2,20,24,Norman Powell,LAC
+"Wed, Oct 25",vs. POR,23,2,6,2,5,2,2,3,1,2,0,0,0,8,12,Norman Powell,LAC
+"Thu, Nov 30",@ GSW,1,0,0,0,0,2,2,0,0,0,0,0,0,2,2,Moussa Diabate,LAC
+"Sat, Nov 25",vs. DAL,5,0,2,0,0,1,2,2,0,0,1,0,0,1,3,Moussa Diabate,LAC
+"Mon, Nov 20",@ SAS,4,1,2,0,0,1,2,2,0,0,1,0,0,3,5,Moussa Diabate,LAC
+"Sun, Nov 12",vs. MEM,11,1,2,0,0,0,0,3,0,0,0,0,1,2,5,Moussa Diabate,LAC
+"Fri, Nov 10",@ DAL,16,4,6,0,0,3,4,9,0,0,0,0,3,11,20,Moussa Diabate,LAC
+"Mon, Nov 6",@ NYK,6,1,1,0,0,2,2,0,0,0,0,0,0,4,4,Moussa Diabate,LAC
+"Tue, Oct 31",vs. ORL,3,1,2,0,0,0,0,1,2,1,0,0,0,2,5,Moussa Diabate,LAC
+"Sun, Oct 29",vs. SAS,5,0,0,0,0,0,0,1,2,1,0,0,0,0,3,Moussa Diabate,LAC
+"Wed, Oct 25",vs. POR,4,1,3,0,0,0,0,1,0,0,2,0,0,2,3,Moussa Diabate,LAC
+"Mon, Dec 18",@ IND,6,3,4,0,0,0,0,0,0,1,0,0,2,6,6,Brandon Boston Jr.,LAC
+"Sat, Dec 16",vs. NYK,5,1,3,1,3,0,0,2,2,0,0,0,1,3,7,Brandon Boston Jr.,LAC
 "Mon, Dec 18",@ IND,17,4,6,0,0,2,4,4,5,1,1,1,2,10,19,Russell Westbrook III,LAC
 "Sat, Dec 16",vs. NYK,15,4,7,0,1,2,4,6,4,0,1,0,1,10,20,Russell Westbrook III,LAC
 "Thu, Dec 14",vs. GSW,19,4,7,1,2,0,0,4,2,2,0,1,0,9,15,Russell Westbrook III,LAC
@@ -3298,46 +3311,26 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Mon, Nov 20",@ SAS,21,8,10,1,1,2,2,7,2,1,1,0,4,19,28,Daniel Theis,LAC
 "Fri, Nov 17",vs. HOU,10,1,3,0,1,0,2,3,0,0,1,0,2,2,5,Daniel Theis,LAC
 "Thu, Nov 9",vs. MIL,8,1,4,0,1,0,0,0,0,0,0,0,1,2,2,Daniel Theis,LAC
-"Mon, Dec 18",@ IND,6,3,4,0,0,0,0,0,0,1,0,0,2,6,6,Brandon Boston Jr.,LAC
-"Sat, Dec 16",vs. NYK,5,1,3,1,3,0,0,2,2,0,0,0,1,3,7,Brandon Boston Jr.,LAC
-"Mon, Dec 18",@ IND,6,0,2,0,1,0,0,1,1,1,0,0,1,0,2,Kobe Brown,LAC
-"Sat, Dec 16",vs. NYK,5,2,3,2,3,0,0,0,0,0,0,0,0,6,6,Kobe Brown,LAC
-"Thu, Dec 14",vs. GSW,7,1,1,0,0,0,0,0,0,0,1,0,2,2,2,Kobe Brown,LAC
-"Tue, Dec 12",vs. SAC,24,3,5,1,3,0,0,6,0,1,0,1,5,7,13,Kobe Brown,LAC
-"Mon, Dec 11",vs. POR,5,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Kobe Brown,LAC
-"Fri, Dec 8",@ UTH,14,0,2,0,0,1,2,3,1,0,0,1,3,1,5,Kobe Brown,LAC
-"Wed, Dec 6",vs. DEN,17,1,4,1,3,0,0,4,1,0,0,0,4,3,8,Kobe Brown,LAC
-"Sat, Dec 2",vs. GSW,11,0,3,0,3,0,0,1,3,0,0,0,1,0,4,Kobe Brown,LAC
-"Thu, Nov 30",@ GSW,6,0,1,0,1,0,0,1,0,0,0,0,2,0,1,Kobe Brown,LAC
-"Wed, Nov 29",@ SAC,11,1,2,1,2,0,0,2,0,0,0,0,3,3,5,Kobe Brown,LAC
-"Sat, Nov 25",vs. DAL,5,0,2,0,1,0,0,3,0,0,0,0,0,0,3,Kobe Brown,LAC
-"Fri, Nov 10",@ DAL,13,3,4,1,1,0,0,1,0,1,0,0,2,7,8,Kobe Brown,LAC
-"Mon, Nov 6",@ NYK,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Kobe Brown,LAC
-"Wed, Nov 1",@ LAL,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Kobe Brown,LAC
-"Tue, Oct 31",vs. ORL,19,3,4,1,2,0,0,3,1,0,0,1,4,7,11,Kobe Brown,LAC
-"Sun, Oct 29",vs. SAS,5,1,2,1,2,0,0,4,1,0,1,0,1,3,8,Kobe Brown,LAC
-"Wed, Oct 25",vs. POR,5,0,2,0,1,0,0,0,0,0,0,0,1,0,0,Kobe Brown,LAC
-"Mon, Dec 18",@ IND,28,12,16,8,11,3,3,3,9,1,1,1,2,35,47,James Harden,LAC
-"Sat, Dec 16",vs. NYK,28,2,6,1,4,5,7,4,12,1,1,2,3,10,26,James Harden,LAC
-"Thu, Dec 14",vs. GSW,42,6,12,5,6,11,12,7,15,4,1,4,3,28,50,James Harden,LAC
-"Tue, Dec 12",vs. SAC,28,4,9,0,4,7,7,6,7,2,2,0,3,15,28,James Harden,LAC
-"Mon, Dec 11",vs. POR,37,7,14,3,6,3,3,7,7,3,1,2,2,20,34,James Harden,LAC
-"Fri, Dec 8",@ UTH,34,2,8,2,6,6,7,7,8,2,0,1,2,12,27,James Harden,LAC
-"Wed, Dec 6",vs. DEN,32,6,10,2,3,6,7,1,11,4,3,1,0,20,32,James Harden,LAC
-"Sat, Dec 2",vs. GSW,35,7,14,2,7,5,5,5,9,1,1,0,4,21,35,James Harden,LAC
-"Thu, Nov 30",@ GSW,37,6,13,5,10,1,2,3,7,1,1,0,3,18,28,James Harden,LAC
-"Wed, Nov 29",@ SAC,39,8,14,5,8,5,5,3,6,2,5,0,4,26,35,James Harden,LAC
-"Mon, Nov 27",vs. DEN,36,3,7,3,5,2,2,2,4,3,1,0,3,11,17,James Harden,LAC
-"Sat, Nov 25",vs. DAL,28,2,8,2,6,2,2,4,7,2,1,2,1,8,19,James Harden,LAC
-"Fri, Nov 24",vs. NOR,37,2,8,1,6,3,6,5,10,3,4,1,3,8,23,James Harden,LAC
-"Wed, Nov 22",@ SAS,36,3,7,2,4,8,12,6,9,4,1,1,3,16,31,James Harden,LAC
-"Mon, Nov 20",@ SAS,28,4,12,2,8,3,3,3,10,0,2,0,2,13,26,James Harden,LAC
-"Fri, Nov 17",vs. HOU,34,8,11,2,4,6,7,9,7,3,0,1,1,24,40,James Harden,LAC
-"Tue, Nov 14",@ DEN,35,7,15,3,8,4,4,2,4,1,0,0,3,21,27,James Harden,LAC
-"Sun, Nov 12",vs. MEM,29,4,12,1,7,2,2,4,3,1,1,1,0,11,18,James Harden,LAC
-"Fri, Nov 10",@ DAL,29,3,6,2,3,6,6,5,3,2,2,0,0,14,22,James Harden,LAC
-"Wed, Nov 8",@ BKN,36,4,9,2,5,2,2,8,5,5,2,0,0,12,25,James Harden,LAC
-"Mon, Nov 6",@ NYK,31,6,9,2,4,3,3,3,6,2,1,0,2,17,26,James Harden,LAC
+"Mon, Dec 18",@ IND,18,0,1,0,1,0,0,3,2,0,0,0,2,0,5,Amir Coffey,LAC
+"Sat, Dec 16",vs. NYK,17,1,3,1,3,0,0,1,0,0,0,0,3,3,4,Amir Coffey,LAC
+"Thu, Dec 14",vs. GSW,29,6,15,4,11,2,3,4,1,1,0,0,2,18,23,Amir Coffey,LAC
+"Tue, Dec 12",vs. SAC,9,1,1,0,0,0,0,1,0,0,0,0,0,2,3,Amir Coffey,LAC
+"Thu, Nov 30",@ GSW,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,Amir Coffey,LAC
+"Wed, Nov 29",@ SAC,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Amir Coffey,LAC
+"Sat, Nov 25",vs. DAL,5,0,0,0,0,0,0,1,1,0,0,0,1,0,2,Amir Coffey,LAC
+"Wed, Nov 22",@ SAS,10,2,3,0,1,0,0,3,0,0,1,0,0,4,7,Amir Coffey,LAC
+"Mon, Nov 20",@ SAS,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Amir Coffey,LAC
+"Fri, Nov 10",@ DAL,13,2,6,0,2,2,2,2,0,0,0,0,1,6,8,Amir Coffey,LAC
+"Mon, Nov 6",@ NYK,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Amir Coffey,LAC
+"Tue, Oct 31",vs. ORL,10,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Amir Coffey,LAC
+"Sun, Oct 29",vs. SAS,6,0,0,0,0,0,0,1,1,1,0,0,0,0,2,Amir Coffey,LAC
+"Wed, Oct 25",vs. POR,4,0,1,0,0,2,2,0,1,0,0,0,0,2,3,Amir Coffey,LAC
+"Mon, Nov 6",@ NYK,11,1,1,0,0,0,0,2,1,1,1,0,0,2,5,Mason Plumlee,LAC
+"Wed, Nov 1",@ LAL,19,1,3,0,0,3,6,6,0,1,3,0,0,5,11,Mason Plumlee,LAC
+"Tue, Oct 31",vs. ORL,22,5,7,0,0,0,2,7,2,2,0,1,4,10,19,Mason Plumlee,LAC
+"Sun, Oct 29",vs. SAS,21,2,3,0,0,0,0,6,1,0,0,0,0,4,11,Mason Plumlee,LAC
+"Fri, Oct 27",@ UTH,12,1,1,0,0,1,2,4,0,1,0,0,2,3,7,Mason Plumlee,LAC
+"Wed, Oct 25",vs. POR,18,2,4,0,0,2,4,8,2,0,0,0,0,6,16,Mason Plumlee,LAC
 "Mon, Dec 18",@ IND,28,2,5,0,3,0,0,2,1,1,0,1,0,4,7,Terance Mann,LAC
 "Sat, Dec 16",vs. NYK,27,4,8,2,4,3,3,1,4,0,0,0,1,13,18,Terance Mann,LAC
 "Thu, Dec 14",vs. GSW,20,1,5,0,4,0,0,3,2,0,1,0,1,2,7,Terance Mann,LAC
@@ -3384,7 +3377,48 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",vs. SAS,28,6,13,3,7,6,7,3,4,3,2,0,2,21,28,Kawhi Leonard,LAC
 "Fri, Oct 27",@ UTH,37,10,22,4,10,1,3,9,5,1,2,0,1,25,39,Kawhi Leonard,LAC
 "Wed, Oct 25",vs. POR,29,9,17,5,5,0,0,5,6,4,1,1,2,23,34,Kawhi Leonard,LAC
-"Sat, Dec 16",vs. NYK,5,1,2,0,1,0,0,0,0,3,0,1,0,2,2,Joshua Primo,LAC
+"Mon, Dec 18",@ IND,31,9,21,5,11,4,4,3,4,1,1,1,3,27,34,Paul George,LAC
+"Sat, Dec 16",vs. NYK,31,11,18,3,6,0,0,4,7,2,2,0,4,25,36,Paul George,LAC
+"Tue, Dec 12",vs. SAC,16,3,7,2,5,1,1,6,1,3,2,0,0,9,16,Paul George,LAC
+"Mon, Dec 11",vs. POR,41,7,17,2,8,4,4,8,8,1,1,1,4,20,36,Paul George,LAC
+"Fri, Dec 8",@ UTH,37,8,13,2,5,2,3,3,2,1,6,1,2,20,25,Paul George,LAC
+"Wed, Dec 6",vs. DEN,38,8,20,5,9,4,4,8,1,2,0,1,1,25,34,Paul George,LAC
+"Sat, Dec 2",vs. GSW,38,8,17,4,8,5,5,6,6,1,1,0,5,25,37,Paul George,LAC
+"Thu, Nov 30",@ GSW,37,6,18,3,10,0,0,1,10,1,0,0,5,15,26,Paul George,LAC
+"Wed, Nov 29",@ SAC,40,7,18,4,9,1,2,3,7,1,0,0,1,19,29,Paul George,LAC
+"Mon, Nov 27",vs. DEN,37,2,13,0,4,2,2,8,4,3,1,1,5,6,18,Paul George,LAC
+"Sat, Nov 25",vs. DAL,36,9,19,2,5,5,5,9,4,1,0,0,4,25,38,Paul George,LAC
+"Fri, Nov 24",vs. NOR,39,14,30,4,12,2,3,8,2,2,0,0,3,34,44,Paul George,LAC
+"Wed, Nov 22",@ SAS,36,8,23,4,12,4,4,8,3,2,2,0,3,24,35,Paul George,LAC
+"Mon, Nov 20",@ SAS,32,11,16,4,8,2,2,5,6,2,1,0,1,28,39,Paul George,LAC
+"Fri, Nov 17",vs. HOU,40,8,22,4,10,3,3,8,3,3,2,1,2,23,34,Paul George,LAC
+"Tue, Nov 14",@ DEN,40,13,26,4,11,5,5,7,3,1,3,0,4,35,45,Paul George,LAC
+"Sun, Nov 12",vs. MEM,37,8,16,3,7,7,9,7,7,7,2,0,5,26,40,Paul George,LAC
+"Fri, Nov 10",@ DAL,23,3,12,1,7,1,1,3,2,2,1,0,3,8,13,Paul George,LAC
+"Wed, Nov 8",@ BKN,39,7,20,2,10,8,8,7,1,3,3,1,2,24,32,Paul George,LAC
+"Mon, Nov 6",@ NYK,34,2,11,1,6,5,5,7,3,4,3,0,2,10,20,Paul George,LAC
+"Wed, Nov 1",@ LAL,37,11,16,6,9,7,8,6,1,3,2,0,6,35,42,Paul George,LAC
+"Tue, Oct 31",vs. ORL,33,8,17,6,9,5,6,7,7,3,2,0,2,27,41,Paul George,LAC
+"Sun, Oct 29",vs. SAS,28,8,17,2,7,1,1,4,5,1,5,0,1,19,28,Paul George,LAC
+"Fri, Oct 27",@ UTH,38,9,17,3,9,15,15,4,1,2,0,0,1,36,41,Paul George,LAC
+"Wed, Oct 25",vs. POR,32,11,17,4,7,1,1,3,6,4,3,0,2,27,36,Paul George,LAC
+"Mon, Dec 18",@ IND,6,0,2,0,1,0,0,1,1,1,0,0,1,0,2,Kobe Brown,LAC
+"Sat, Dec 16",vs. NYK,5,2,3,2,3,0,0,0,0,0,0,0,0,6,6,Kobe Brown,LAC
+"Thu, Dec 14",vs. GSW,7,1,1,0,0,0,0,0,0,0,1,0,2,2,2,Kobe Brown,LAC
+"Tue, Dec 12",vs. SAC,24,3,5,1,3,0,0,6,0,1,0,1,5,7,13,Kobe Brown,LAC
+"Mon, Dec 11",vs. POR,5,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Kobe Brown,LAC
+"Fri, Dec 8",@ UTH,14,0,2,0,0,1,2,3,1,0,0,1,3,1,5,Kobe Brown,LAC
+"Wed, Dec 6",vs. DEN,17,1,4,1,3,0,0,4,1,0,0,0,4,3,8,Kobe Brown,LAC
+"Sat, Dec 2",vs. GSW,11,0,3,0,3,0,0,1,3,0,0,0,1,0,4,Kobe Brown,LAC
+"Thu, Nov 30",@ GSW,6,0,1,0,1,0,0,1,0,0,0,0,2,0,1,Kobe Brown,LAC
+"Wed, Nov 29",@ SAC,11,1,2,1,2,0,0,2,0,0,0,0,3,3,5,Kobe Brown,LAC
+"Sat, Nov 25",vs. DAL,5,0,2,0,1,0,0,3,0,0,0,0,0,0,3,Kobe Brown,LAC
+"Fri, Nov 10",@ DAL,13,3,4,1,1,0,0,1,0,1,0,0,2,7,8,Kobe Brown,LAC
+"Mon, Nov 6",@ NYK,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Kobe Brown,LAC
+"Wed, Nov 1",@ LAL,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Kobe Brown,LAC
+"Tue, Oct 31",vs. ORL,19,3,4,1,2,0,0,3,1,0,0,1,4,7,11,Kobe Brown,LAC
+"Sun, Oct 29",vs. SAS,5,1,2,1,2,0,0,4,1,0,1,0,1,3,8,Kobe Brown,LAC
+"Wed, Oct 25",vs. POR,5,0,2,0,1,0,0,0,0,0,0,0,1,0,0,Kobe Brown,LAC
 "Mon, Nov 27",vs. DEN,6,0,0,0,0,0,0,0,1,0,2,0,1,0,1,P.J. Tucker,LAC
 "Sat, Nov 25",vs. DAL,8,0,0,0,0,0,0,1,0,0,0,0,2,0,1,P.J. Tucker,LAC
 "Fri, Nov 24",vs. NOR,22,0,2,0,2,0,0,2,3,0,1,0,4,0,5,P.J. Tucker,LAC
@@ -3400,43 +3434,30 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",vs. POR,20,1,2,1,2,0,0,4,0,1,1,2,1,3,7,P.J. Tucker,LAC
 "Sat, Oct 28",@ TOR,21,1,1,1,1,0,0,3,0,1,0,0,3,3,6,P.J. Tucker,LAC
 "Thu, Oct 26",@ MIL,26,0,2,0,2,0,0,7,0,0,2,0,5,0,7,P.J. Tucker,LAC
-"Thu, Nov 30",@ GSW,1,0,0,0,0,2,2,0,0,0,0,0,0,2,2,Moussa Diabate,LAC
-"Sat, Nov 25",vs. DAL,5,0,2,0,0,1,2,2,0,0,1,0,0,1,3,Moussa Diabate,LAC
-"Mon, Nov 20",@ SAS,4,1,2,0,0,1,2,2,0,0,1,0,0,3,5,Moussa Diabate,LAC
-"Sun, Nov 12",vs. MEM,11,1,2,0,0,0,0,3,0,0,0,0,1,2,5,Moussa Diabate,LAC
-"Fri, Nov 10",@ DAL,16,4,6,0,0,3,4,9,0,0,0,0,3,11,20,Moussa Diabate,LAC
-"Mon, Nov 6",@ NYK,6,1,1,0,0,2,2,0,0,0,0,0,0,4,4,Moussa Diabate,LAC
-"Tue, Oct 31",vs. ORL,3,1,2,0,0,0,0,1,2,1,0,0,0,2,5,Moussa Diabate,LAC
-"Sun, Oct 29",vs. SAS,5,0,0,0,0,0,0,1,2,1,0,0,0,0,3,Moussa Diabate,LAC
-"Wed, Oct 25",vs. POR,4,1,3,0,0,0,0,1,0,0,2,0,0,2,3,Moussa Diabate,LAC
+"Mon, Dec 18",@ IND,28,12,16,8,11,3,3,3,9,1,1,1,2,35,47,James Harden,LAC
+"Sat, Dec 16",vs. NYK,28,2,6,1,4,5,7,4,12,1,1,2,3,10,26,James Harden,LAC
+"Thu, Dec 14",vs. GSW,42,6,12,5,6,11,12,7,15,4,1,4,3,28,50,James Harden,LAC
+"Tue, Dec 12",vs. SAC,28,4,9,0,4,7,7,6,7,2,2,0,3,15,28,James Harden,LAC
+"Mon, Dec 11",vs. POR,37,7,14,3,6,3,3,7,7,3,1,2,2,20,34,James Harden,LAC
+"Fri, Dec 8",@ UTH,34,2,8,2,6,6,7,7,8,2,0,1,2,12,27,James Harden,LAC
+"Wed, Dec 6",vs. DEN,32,6,10,2,3,6,7,1,11,4,3,1,0,20,32,James Harden,LAC
+"Sat, Dec 2",vs. GSW,35,7,14,2,7,5,5,5,9,1,1,0,4,21,35,James Harden,LAC
+"Thu, Nov 30",@ GSW,37,6,13,5,10,1,2,3,7,1,1,0,3,18,28,James Harden,LAC
+"Wed, Nov 29",@ SAC,39,8,14,5,8,5,5,3,6,2,5,0,4,26,35,James Harden,LAC
+"Mon, Nov 27",vs. DEN,36,3,7,3,5,2,2,2,4,3,1,0,3,11,17,James Harden,LAC
+"Sat, Nov 25",vs. DAL,28,2,8,2,6,2,2,4,7,2,1,2,1,8,19,James Harden,LAC
+"Fri, Nov 24",vs. NOR,37,2,8,1,6,3,6,5,10,3,4,1,3,8,23,James Harden,LAC
+"Wed, Nov 22",@ SAS,36,3,7,2,4,8,12,6,9,4,1,1,3,16,31,James Harden,LAC
+"Mon, Nov 20",@ SAS,28,4,12,2,8,3,3,3,10,0,2,0,2,13,26,James Harden,LAC
+"Fri, Nov 17",vs. HOU,34,8,11,2,4,6,7,9,7,3,0,1,1,24,40,James Harden,LAC
+"Tue, Nov 14",@ DEN,35,7,15,3,8,4,4,2,4,1,0,0,3,21,27,James Harden,LAC
+"Sun, Nov 12",vs. MEM,29,4,12,1,7,2,2,4,3,1,1,1,0,11,18,James Harden,LAC
+"Fri, Nov 10",@ DAL,29,3,6,2,3,6,6,5,3,2,2,0,0,14,22,James Harden,LAC
+"Wed, Nov 8",@ BKN,36,4,9,2,5,2,2,8,5,5,2,0,0,12,25,James Harden,LAC
+"Mon, Nov 6",@ NYK,31,6,9,2,4,3,3,3,6,2,1,0,2,17,26,James Harden,LAC
+"Sat, Dec 16",vs. NYK,5,1,2,0,1,0,0,0,0,3,0,1,0,2,2,Joshua Primo,LAC
 "Sat, Dec 16",vs. NYK,5,0,0,0,0,0,0,2,1,0,0,0,0,0,3,Xavier Moon,LAC
 "Tue, Dec 12",vs. SAC,7,1,2,0,1,0,0,0,2,1,0,0,1,2,4,Xavier Moon,LAC
-"Mon, Dec 18",@ IND,30,6,11,4,6,3,3,3,0,0,0,0,1,19,22,Norman Powell,LAC
-"Sat, Dec 16",vs. NYK,24,6,10,1,2,3,3,2,0,1,0,1,1,16,18,Norman Powell,LAC
-"Thu, Dec 14",vs. GSW,36,9,13,1,4,2,2,5,2,1,1,0,3,21,28,Norman Powell,LAC
-"Tue, Dec 12",vs. SAC,27,5,11,2,4,3,3,1,2,1,0,0,1,15,18,Norman Powell,LAC
-"Mon, Dec 11",vs. POR,25,6,9,2,4,2,2,3,1,0,1,2,4,16,20,Norman Powell,LAC
-"Fri, Dec 8",@ UTH,28,4,11,2,8,0,0,1,1,1,0,0,0,10,12,Norman Powell,LAC
-"Wed, Dec 6",vs. DEN,32,5,12,1,3,6,6,5,2,1,1,0,0,17,24,Norman Powell,LAC
-"Sat, Dec 2",vs. GSW,30,5,12,2,5,0,0,1,0,2,0,0,1,12,13,Norman Powell,LAC
-"Thu, Nov 30",@ GSW,18,1,2,0,0,3,3,0,0,2,1,0,1,5,5,Norman Powell,LAC
-"Wed, Nov 29",@ SAC,13,1,6,1,2,0,0,1,0,0,0,0,1,3,4,Norman Powell,LAC
-"Mon, Nov 27",vs. DEN,21,2,8,1,5,5,5,2,1,0,1,1,3,10,13,Norman Powell,LAC
-"Sat, Nov 25",vs. DAL,25,4,4,3,3,4,4,3,1,1,0,0,2,15,19,Norman Powell,LAC
-"Fri, Nov 24",vs. NOR,28,8,14,3,5,1,1,1,0,0,3,0,1,20,21,Norman Powell,LAC
-"Wed, Nov 22",@ SAS,14,2,4,1,1,0,1,1,0,2,0,1,1,5,6,Norman Powell,LAC
-"Mon, Nov 20",@ SAS,30,5,12,2,6,7,7,5,0,1,2,1,0,19,24,Norman Powell,LAC
-"Fri, Nov 17",vs. HOU,30,3,11,2,5,2,2,3,3,0,1,1,2,10,16,Norman Powell,LAC
-"Tue, Nov 14",@ DEN,26,4,7,2,3,4,5,1,1,0,0,0,5,14,16,Norman Powell,LAC
-"Sun, Nov 12",vs. MEM,31,7,13,4,7,2,6,2,3,0,0,0,5,20,25,Norman Powell,LAC
-"Fri, Nov 10",@ DAL,11,0,1,0,0,0,0,0,0,2,0,0,1,0,0,Norman Powell,LAC
-"Wed, Nov 8",@ BKN,22,4,8,2,5,0,0,1,1,1,2,2,2,10,12,Norman Powell,LAC
-"Mon, Nov 6",@ NYK,22,5,7,4,6,0,0,1,0,3,0,1,1,14,15,Norman Powell,LAC
-"Wed, Nov 1",@ LAL,35,6,14,0,4,0,0,2,3,0,0,1,6,12,17,Norman Powell,LAC
-"Tue, Oct 31",vs. ORL,29,5,8,2,5,5,7,3,3,3,0,0,4,17,23,Norman Powell,LAC
-"Sun, Oct 29",vs. SAS,19,5,11,2,5,1,2,3,1,0,2,1,1,13,17,Norman Powell,LAC
-"Fri, Oct 27",@ UTH,25,7,10,2,4,4,4,3,1,1,1,0,2,20,24,Norman Powell,LAC
-"Wed, Oct 25",vs. POR,23,2,6,2,5,2,2,3,1,2,0,0,0,8,12,Norman Powell,LAC
 "Mon, Dec 18",@ IND,26,7,10,0,0,4,5,16,3,0,0,3,2,18,37,Ivica Zubac,LAC
 "Sat, Dec 16",vs. NYK,28,5,9,0,0,3,4,11,2,0,1,2,2,13,26,Ivica Zubac,LAC
 "Thu, Dec 14",vs. GSW,30,5,10,0,0,0,0,8,2,3,0,2,5,10,20,Ivica Zubac,LAC
@@ -3463,18 +3484,6 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",vs. SAS,22,6,7,0,0,4,6,8,0,1,0,1,4,16,24,Ivica Zubac,LAC
 "Fri, Oct 27",@ UTH,19,3,6,0,0,0,2,2,0,1,0,2,2,6,8,Ivica Zubac,LAC
 "Wed, Oct 25",vs. POR,26,8,10,0,0,4,5,12,0,2,0,4,3,20,32,Ivica Zubac,LAC
-"Mon, Nov 6",@ NYK,11,1,1,0,0,0,0,2,1,1,1,0,0,2,5,Mason Plumlee,LAC
-"Wed, Nov 1",@ LAL,19,1,3,0,0,3,6,6,0,1,3,0,0,5,11,Mason Plumlee,LAC
-"Tue, Oct 31",vs. ORL,22,5,7,0,0,0,2,7,2,2,0,1,4,10,19,Mason Plumlee,LAC
-"Sun, Oct 29",vs. SAS,21,2,3,0,0,0,0,6,1,0,0,0,0,4,11,Mason Plumlee,LAC
-"Fri, Oct 27",@ UTH,12,1,1,0,0,1,2,4,0,1,0,0,2,3,7,Mason Plumlee,LAC
-"Wed, Oct 25",vs. POR,18,2,4,0,0,2,4,8,2,0,0,0,0,6,16,Mason Plumlee,LAC
-"Mon, Dec 18",vs. NYK,14,0,0,0,0,0,0,2,1,1,0,0,3,0,3,Jarred Vanderbilt,LAL
-"Fri, Dec 15",@ SAS,13,0,3,0,1,0,0,5,1,0,0,0,4,0,6,Jarred Vanderbilt,LAL
-"Wed, Dec 13",@ SAS,17,1,1,0,0,0,0,3,0,0,1,1,1,2,5,Jarred Vanderbilt,LAL
-"Thu, Dec 7",vs. NOR,14,1,2,0,0,0,0,5,1,0,0,1,0,2,8,Jarred Vanderbilt,LAL
-"Tue, Dec 5",vs. PHO,15,0,2,0,2,1,2,6,2,1,1,0,2,1,9,Jarred Vanderbilt,LAL
-"Sat, Dec 2",vs. HOU,14,0,2,0,2,0,0,4,1,0,0,0,1,0,5,Jarred Vanderbilt,LAL
 "Mon, Dec 18",vs. NYK,27,2,9,0,4,0,0,2,1,0,3,0,5,4,7,Cam Reddish,LAL
 "Wed, Dec 13",@ SAS,24,4,7,2,3,0,0,2,3,1,3,1,0,10,15,Cam Reddish,LAL
 "Tue, Dec 12",@ DAL,22,2,4,0,0,0,0,3,2,2,0,1,3,4,9,Cam Reddish,LAL
@@ -3497,6 +3506,12 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",@ SAC,5,0,2,0,1,0,0,1,0,0,0,0,0,0,1,Cam Reddish,LAL
 "Thu, Oct 26",vs. PHO,12,2,5,0,3,0,0,1,0,1,0,0,2,4,5,Cam Reddish,LAL
 "Tue, Oct 24",@ DEN,18,2,4,1,2,2,2,4,0,0,0,1,2,7,11,Cam Reddish,LAL
+"Mon, Dec 18",vs. NYK,14,0,0,0,0,0,0,2,1,1,0,0,3,0,3,Jarred Vanderbilt,LAL
+"Fri, Dec 15",@ SAS,13,0,3,0,1,0,0,5,1,0,0,0,4,0,6,Jarred Vanderbilt,LAL
+"Wed, Dec 13",@ SAS,17,1,1,0,0,0,0,3,0,0,1,1,1,2,5,Jarred Vanderbilt,LAL
+"Thu, Dec 7",vs. NOR,14,1,2,0,0,0,0,5,1,0,0,1,0,2,8,Jarred Vanderbilt,LAL
+"Tue, Dec 5",vs. PHO,15,0,2,0,2,1,2,6,2,1,1,0,2,1,9,Jarred Vanderbilt,LAL
+"Sat, Dec 2",vs. HOU,14,0,2,0,2,0,0,4,1,0,0,0,1,0,5,Jarred Vanderbilt,LAL
 "Mon, Dec 18",vs. NYK,28,3,10,3,6,0,0,3,4,0,1,0,1,9,16,D'Angelo Russell,LAL
 "Wed, Dec 13",@ SAS,33,6,13,0,4,0,1,3,10,3,3,0,4,12,25,D'Angelo Russell,LAL
 "Tue, Dec 12",@ DAL,25,3,9,1,4,0,0,2,7,2,0,0,4,7,16,D'Angelo Russell,LAL
@@ -3550,13 +3565,31 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",@ SAC,28,1,12,1,8,2,2,2,2,3,1,0,2,5,9,Austin Reaves,LAL
 "Thu, Oct 26",vs. PHO,28,4,7,1,2,1,2,2,1,1,1,0,5,10,13,Austin Reaves,LAL
 "Tue, Oct 24",@ DEN,31,4,11,1,2,5,7,8,4,2,2,0,2,14,26,Austin Reaves,LAL
-"Fri, Dec 15",@ SAS,8,2,3,1,2,0,0,0,3,0,0,0,0,5,8,D'Moi Hodge,LAL
-"Thu, Nov 30",@ OKC,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,D'Moi Hodge,LAL
-"Wed, Nov 29",@ DET,5,1,3,1,2,0,0,0,0,0,1,0,1,3,3,D'Moi Hodge,LAL
-"Mon, Nov 27",@ PHI,8,1,3,1,3,0,0,0,1,0,0,0,1,3,4,D'Moi Hodge,LAL
-"Wed, Nov 15",vs. SAC,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D'Moi Hodge,LAL
-"Wed, Nov 8",@ HOU,10,1,3,0,2,1,2,0,1,1,0,1,1,3,4,D'Moi Hodge,LAL
-"Sat, Nov 4",@ ORL,4,0,2,0,2,0,0,0,0,0,0,0,1,0,0,D'Moi Hodge,LAL
+"Mon, Dec 18",vs. NYK,39,10,23,2,8,3,4,11,11,2,1,0,1,25,47,LeBron James,LAL
+"Fri, Dec 15",@ SAS,36,7,17,2,6,7,10,7,14,2,2,0,1,23,44,LeBron James,LAL
+"Tue, Dec 12",@ DAL,40,14,27,3,8,2,3,8,9,4,3,1,1,33,50,LeBron James,LAL
+"Thu, Dec 7",vs. NOR,23,9,12,4,4,8,8,5,8,0,0,0,1,30,43,LeBron James,LAL
+"Tue, Dec 5",vs. PHO,40,12,25,2,4,5,6,8,11,2,5,0,3,31,50,LeBron James,LAL
+"Sat, Dec 2",vs. HOU,35,7,17,0,4,2,5,4,7,5,1,1,0,16,27,LeBron James,LAL
+"Thu, Nov 30",@ OKC,35,7,12,4,8,3,4,12,6,5,1,1,1,21,39,LeBron James,LAL
+"Wed, Nov 29",@ DET,29,9,19,2,6,5,5,8,3,1,0,0,0,25,36,LeBron James,LAL
+"Mon, Nov 27",@ PHI,30,8,12,1,1,1,2,0,5,1,1,1,0,18,23,LeBron James,LAL
+"Sat, Nov 25",@ CLE,36,8,23,1,9,5,7,6,6,4,2,2,1,22,34,LeBron James,LAL
+"Wed, Nov 22",vs. DAL,36,9,19,4,9,4,7,9,7,3,0,0,0,26,42,LeBron James,LAL
+"Tue, Nov 21",vs. UTH,24,6,10,3,5,2,2,7,9,2,0,0,0,17,33,LeBron James,LAL
+"Sun, Nov 19",vs. HOU,40,14,19,2,5,7,9,6,8,2,3,0,0,37,51,LeBron James,LAL
+"Fri, Nov 17",@ POR,35,13,22,5,9,4,6,5,9,3,2,0,3,35,49,LeBron James,LAL
+"Wed, Nov 15",vs. SAC,35,9,15,3,7,7,8,10,12,6,4,1,1,28,50,LeBron James,LAL
+"Tue, Nov 14",vs. MEM,23,6,11,3,6,1,2,9,6,4,1,0,1,16,31,LeBron James,LAL
+"Fri, Nov 10",@ PHO,36,11,17,3,4,7,11,11,6,4,1,1,1,32,49,LeBron James,LAL
+"Wed, Nov 8",@ HOU,27,7,13,0,2,4,5,6,2,3,0,0,1,18,26,LeBron James,LAL
+"Mon, Nov 6",@ MIA,37,13,23,0,4,4,4,4,3,5,1,3,4,30,37,LeBron James,LAL
+"Sat, Nov 4",@ ORL,35,8,15,2,5,6,7,9,5,3,3,0,1,24,38,LeBron James,LAL
+"Wed, Nov 1",vs. LAC,42,13,19,4,8,5,10,12,7,4,1,2,3,35,54,LeBron James,LAL
+"Mon, Oct 30",vs. ORL,33,7,17,2,6,3,4,3,4,5,3,1,0,19,26,LeBron James,LAL
+"Sun, Oct 29",@ SAC,39,11,19,3,8,2,6,15,8,8,0,0,2,27,50,LeBron James,LAL
+"Thu, Oct 26",vs. PHO,35,7,14,1,5,6,8,8,9,5,2,2,1,21,38,LeBron James,LAL
+"Tue, Oct 24",@ DEN,29,10,16,1,4,0,1,8,5,0,1,0,1,21,34,LeBron James,LAL
 "Fri, Dec 15",@ SAS,5,3,3,0,0,0,0,1,1,0,0,0,0,6,8,Colin Castleton,LAL
 "Thu, Nov 30",@ OKC,4,0,1,0,0,2,2,3,0,0,0,0,0,2,5,Colin Castleton,LAL
 "Wed, Nov 8",@ HOU,14,1,3,0,0,0,0,2,2,0,0,0,5,2,6,Colin Castleton,LAL
@@ -3661,31 +3694,13 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Thu, Nov 30",@ OKC,19,1,6,0,3,1,2,1,0,1,0,0,3,3,4,Jalen Hood-Schifino,LAL
 "Wed, Nov 29",@ DET,11,3,4,1,2,3,6,1,1,1,0,0,2,10,12,Jalen Hood-Schifino,LAL
 "Mon, Nov 27",@ PHI,11,0,3,0,2,0,0,0,2,1,0,0,1,0,2,Jalen Hood-Schifino,LAL
-"Mon, Dec 18",vs. NYK,39,10,23,2,8,3,4,11,11,2,1,0,1,25,47,LeBron James,LAL
-"Fri, Dec 15",@ SAS,36,7,17,2,6,7,10,7,14,2,2,0,1,23,44,LeBron James,LAL
-"Tue, Dec 12",@ DAL,40,14,27,3,8,2,3,8,9,4,3,1,1,33,50,LeBron James,LAL
-"Thu, Dec 7",vs. NOR,23,9,12,4,4,8,8,5,8,0,0,0,1,30,43,LeBron James,LAL
-"Tue, Dec 5",vs. PHO,40,12,25,2,4,5,6,8,11,2,5,0,3,31,50,LeBron James,LAL
-"Sat, Dec 2",vs. HOU,35,7,17,0,4,2,5,4,7,5,1,1,0,16,27,LeBron James,LAL
-"Thu, Nov 30",@ OKC,35,7,12,4,8,3,4,12,6,5,1,1,1,21,39,LeBron James,LAL
-"Wed, Nov 29",@ DET,29,9,19,2,6,5,5,8,3,1,0,0,0,25,36,LeBron James,LAL
-"Mon, Nov 27",@ PHI,30,8,12,1,1,1,2,0,5,1,1,1,0,18,23,LeBron James,LAL
-"Sat, Nov 25",@ CLE,36,8,23,1,9,5,7,6,6,4,2,2,1,22,34,LeBron James,LAL
-"Wed, Nov 22",vs. DAL,36,9,19,4,9,4,7,9,7,3,0,0,0,26,42,LeBron James,LAL
-"Tue, Nov 21",vs. UTH,24,6,10,3,5,2,2,7,9,2,0,0,0,17,33,LeBron James,LAL
-"Sun, Nov 19",vs. HOU,40,14,19,2,5,7,9,6,8,2,3,0,0,37,51,LeBron James,LAL
-"Fri, Nov 17",@ POR,35,13,22,5,9,4,6,5,9,3,2,0,3,35,49,LeBron James,LAL
-"Wed, Nov 15",vs. SAC,35,9,15,3,7,7,8,10,12,6,4,1,1,28,50,LeBron James,LAL
-"Tue, Nov 14",vs. MEM,23,6,11,3,6,1,2,9,6,4,1,0,1,16,31,LeBron James,LAL
-"Fri, Nov 10",@ PHO,36,11,17,3,4,7,11,11,6,4,1,1,1,32,49,LeBron James,LAL
-"Wed, Nov 8",@ HOU,27,7,13,0,2,4,5,6,2,3,0,0,1,18,26,LeBron James,LAL
-"Mon, Nov 6",@ MIA,37,13,23,0,4,4,4,4,3,5,1,3,4,30,37,LeBron James,LAL
-"Sat, Nov 4",@ ORL,35,8,15,2,5,6,7,9,5,3,3,0,1,24,38,LeBron James,LAL
-"Wed, Nov 1",vs. LAC,42,13,19,4,8,5,10,12,7,4,1,2,3,35,54,LeBron James,LAL
-"Mon, Oct 30",vs. ORL,33,7,17,2,6,3,4,3,4,5,3,1,0,19,26,LeBron James,LAL
-"Sun, Oct 29",@ SAC,39,11,19,3,8,2,6,15,8,8,0,0,2,27,50,LeBron James,LAL
-"Thu, Oct 26",vs. PHO,35,7,14,1,5,6,8,8,9,5,2,2,1,21,38,LeBron James,LAL
-"Tue, Oct 24",@ DEN,29,10,16,1,4,0,1,8,5,0,1,0,1,21,34,LeBron James,LAL
+"Fri, Dec 15",@ SAS,8,2,3,1,2,0,0,0,3,0,0,0,0,5,8,D'Moi Hodge,LAL
+"Thu, Nov 30",@ OKC,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,D'Moi Hodge,LAL
+"Wed, Nov 29",@ DET,5,1,3,1,2,0,0,0,0,0,1,0,1,3,3,D'Moi Hodge,LAL
+"Mon, Nov 27",@ PHI,8,1,3,1,3,0,0,0,1,0,0,0,1,3,4,D'Moi Hodge,LAL
+"Wed, Nov 15",vs. SAC,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D'Moi Hodge,LAL
+"Wed, Nov 8",@ HOU,10,1,3,0,2,1,2,0,1,1,0,1,1,3,4,D'Moi Hodge,LAL
+"Sat, Nov 4",@ ORL,4,0,2,0,2,0,0,0,0,0,0,0,1,0,0,D'Moi Hodge,LAL
 "Fri, Dec 15",@ SAS,23,1,6,0,1,0,0,0,1,1,0,0,1,2,3,Max Christie,LAL
 "Wed, Dec 13",@ SAS,14,1,5,1,4,0,0,5,2,2,0,0,0,3,10,Max Christie,LAL
 "Tue, Dec 12",@ DAL,6,0,0,0,0,0,0,0,1,0,0,0,1,0,1,Max Christie,LAL
@@ -3732,19 +3747,6 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sun, Oct 29",@ SAC,42,11,22,1,2,7,8,16,2,0,2,3,5,30,48,Anthony Davis,LAL
 "Thu, Oct 26",vs. PHO,39,10,17,1,2,9,10,12,2,2,3,3,2,30,44,Anthony Davis,LAL
 "Tue, Oct 24",@ DEN,34,6,17,1,2,4,4,8,4,2,0,2,3,17,29,Anthony Davis,LAL
-"Mon, Dec 18",@ OKC,25,0,8,0,3,0,0,8,2,1,1,1,1,0,10,Xavier Tillman Sr.,MEM
-"Mon, Dec 11",vs. DAL,7,0,1,0,0,0,2,0,0,0,1,0,0,0,0,Xavier Tillman Sr.,MEM
-"Fri, Dec 8",vs. MIN,17,5,8,1,2,1,3,2,0,0,4,0,1,12,14,Xavier Tillman Sr.,MEM
-"Wed, Dec 6",@ DET,7,1,4,0,0,0,0,1,1,0,0,0,0,2,4,Xavier Tillman Sr.,MEM
-"Sat, Dec 2",@ PHO,12,1,4,0,2,0,0,0,0,1,0,1,0,2,2,Xavier Tillman Sr.,MEM
-"Fri, Dec 1",@ DAL,22,2,6,0,3,0,0,2,2,0,2,2,0,4,8,Xavier Tillman Sr.,MEM
-"Tue, Nov 14",@ LAL,22,6,7,3,3,0,0,2,2,1,1,0,1,15,19,Xavier Tillman Sr.,MEM
-"Fri, Nov 3",@ POR,24,3,8,0,2,0,0,7,5,1,1,2,5,6,18,Xavier Tillman Sr.,MEM
-"Wed, Nov 1",@ UTH,14,0,3,0,0,0,0,4,0,2,1,0,3,0,4,Xavier Tillman Sr.,MEM
-"Mon, Oct 30",vs. DAL,29,3,14,0,5,0,3,7,1,0,2,1,0,6,14,Xavier Tillman Sr.,MEM
-"Sat, Oct 28",@ WAS,24,3,7,2,2,0,0,7,3,1,0,0,4,8,18,Xavier Tillman Sr.,MEM
-"Fri, Oct 27",vs. DEN,34,5,9,1,3,2,4,8,2,5,3,2,5,13,23,Xavier Tillman Sr.,MEM
-"Wed, Oct 25",vs. NOR,34,7,16,1,5,2,2,12,4,0,3,1,2,17,33,Xavier Tillman Sr.,MEM
 "Fri, Dec 15",vs. HOU,9,1,3,1,2,0,0,1,2,0,0,0,0,3,6,Derrick Rose,MEM
 "Wed, Dec 13",@ HOU,31,7,14,1,4,4,4,4,6,1,0,1,4,19,29,Derrick Rose,MEM
 "Mon, Dec 11",vs. DAL,17,2,7,1,3,2,2,3,4,2,0,0,1,7,14,Derrick Rose,MEM
@@ -3771,6 +3773,19 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Sat, Oct 28",@ WAS,32,4,8,1,5,0,0,4,6,2,2,2,2,9,19,Marcus Smart,MEM
 "Fri, Oct 27",vs. DEN,31,7,13,3,7,3,3,2,5,2,5,0,3,20,27,Marcus Smart,MEM
 "Wed, Oct 25",vs. NOR,32,6,11,2,6,3,6,0,3,5,2,0,3,17,20,Marcus Smart,MEM
+"Mon, Dec 18",@ OKC,25,0,8,0,3,0,0,8,2,1,1,1,1,0,10,Xavier Tillman Sr.,MEM
+"Mon, Dec 11",vs. DAL,7,0,1,0,0,0,2,0,0,0,1,0,0,0,0,Xavier Tillman Sr.,MEM
+"Fri, Dec 8",vs. MIN,17,5,8,1,2,1,3,2,0,0,4,0,1,12,14,Xavier Tillman Sr.,MEM
+"Wed, Dec 6",@ DET,7,1,4,0,0,0,0,1,1,0,0,0,0,2,4,Xavier Tillman Sr.,MEM
+"Sat, Dec 2",@ PHO,12,1,4,0,2,0,0,0,0,1,0,1,0,2,2,Xavier Tillman Sr.,MEM
+"Fri, Dec 1",@ DAL,22,2,6,0,3,0,0,2,2,0,2,2,0,4,8,Xavier Tillman Sr.,MEM
+"Tue, Nov 14",@ LAL,22,6,7,3,3,0,0,2,2,1,1,0,1,15,19,Xavier Tillman Sr.,MEM
+"Fri, Nov 3",@ POR,24,3,8,0,2,0,0,7,5,1,1,2,5,6,18,Xavier Tillman Sr.,MEM
+"Wed, Nov 1",@ UTH,14,0,3,0,0,0,0,4,0,2,1,0,3,0,4,Xavier Tillman Sr.,MEM
+"Mon, Oct 30",vs. DAL,29,3,14,0,5,0,3,7,1,0,2,1,0,6,14,Xavier Tillman Sr.,MEM
+"Sat, Oct 28",@ WAS,24,3,7,2,2,0,0,7,3,1,0,0,4,8,18,Xavier Tillman Sr.,MEM
+"Fri, Oct 27",vs. DEN,34,5,9,1,3,2,4,8,2,5,3,2,5,13,23,Xavier Tillman Sr.,MEM
+"Wed, Oct 25",vs. NOR,34,7,16,1,5,2,2,12,4,0,3,1,2,17,33,Xavier Tillman Sr.,MEM
 "Mon, Dec 18",@ OKC,34,4,9,4,6,0,0,1,7,3,1,0,2,12,20,Jacob Gilyard,MEM
 "Fri, Dec 15",vs. HOU,16,0,3,0,2,0,0,1,3,2,1,0,1,0,4,Jacob Gilyard,MEM
 "Wed, Dec 13",@ HOU,13,1,1,1,1,0,0,0,3,0,0,0,0,3,6,Jacob Gilyard,MEM
@@ -3852,21 +3867,6 @@ DATE,OPP,MIN,FGM,FGA,3PM,3PA,FTM,FTA,REB,AST,TO,STL,BLK,PF,PTS,PRA,NAME,TEAM
 "Wed, Nov 29",vs. UTH,18,0,6,0,3,0,0,2,1,0,0,0,0,0,3,Jaylen Nowell,MEM
 "Sun, Nov 26",vs. MIN,13,2,4,0,1,0,0,5,3,0,0,0,1,4,12,Jaylen Nowell,MEM
 "Fri, Nov 24",vs. PHO,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Jaylen Nowell,MEM
-"Fri, Dec 8",vs. MIN,4,1,3,1,2,2,2,0,2,0,1,0,0,5,7,Kenneth Lofton Jr.,MEM
-"Wed, Dec 6",@ DET,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Kenneth Lofton Jr.,MEM
-"Fri, Dec 1",@ DAL,2,0,2,0,0,0,0,2,0,0,0,0,0,0,2,Kenneth Lofton Jr.,MEM
-"Sun, Nov 26",vs. MIN,2,1,1,0,0,0,0,0,0,0,0,0,0,2,2,Kenneth Lofton Jr.,MEM
-"Fri, Nov 24",vs. PHO,2,1,1,0,0,0,0,0,0,0,0,0,1,2,2,Kenneth Lofton Jr.,MEM
-"Wed, Nov 22",@ HOU,4,1,4,0,1,1,1,0,2,0,0,1,0,3,5,Kenneth Lofton Jr.,MEM
-"Sun, Nov 19",vs. BOS,13,2,5,0,1,2,2,2,1,2,0,0,0,6,9,Kenneth Lofton Jr.,MEM
-"Sat, Nov 18",@ SAS,12,1,3,0,1,0,0,1,2,1,0,0,3,2,5,Kenneth Lofton Jr.,MEM
-"Tue, Nov 14",@ LAL,5,0,2,0,1,0,0,0,0,0,0,0,0,0,0,Kenneth Lofton Jr.,MEM
-"Fri, Nov 10",vs. UTH,12,0,2,0,1,0,0,2,0,1,0,1,3,0,2,Kenneth Lofton Jr.,MEM
-"Wed, Nov 8",vs. MIA,7,1,3,0,0,0,0,0,1,0,0,0,1,2,3,Kenneth Lofton Jr.,MEM
-"Sun, Nov 5",@ POR,10,2,3,1,2,0,1,2,3,0,0,1,0,5,10,Kenneth Lofton Jr.,MEM
-"Wed, Nov 1",@ UTH,19,4,7,1,1,3,9,5,2,1,2,0,5,12,19,Kenneth Lofton Jr.,MEM
-"Mon, Oct 30",vs. DAL,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kenneth Lofton Jr.,MEM
-"Sat, Oct 28",@ WAS,5,0,1,0,0,0,0,0,1,1,0,0,2,0,1,Kenneth Lofton Jr.,MEM
 "Mon, Dec 18",@ OKC,25,3,7,1,4,4,5,5,1,2,1,0,3,11,17,Jaren Jackson Jr.,MEM
 "Fri, Dec 15",vs. HOU,33,8,23,0,7,6,7,3,2,1,0,4,5,22,27,Jaren Jackson Jr.,MEM
 "Wed, Dec 13",@ HOU,40,15,24,3,8,11,13,7,2,3,4,1,4,44,53,Jaren Jackson Jr.,MEM
